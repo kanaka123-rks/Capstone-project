@@ -1,0 +1,1983 @@
+customer_id,full_name,city,state,recency,frequency,monetary,R_score,F_score,M_score,RFM_score,segment
+C00046,"Aditya Nair",Jaipur,Rajasthan,43,6,160334.08,5,5,5,15,Champion
+C00382,"Isha Verma",Visakhapatnam,"Andhra pradesh",121,3,97232.55,3,3,5,11,Regulars
+C01016,"Ananya Basu",Chennai,"Tamil nadu",94,2,97168.91,3,2,5,10,Regulars
+C00916,"Diya Mishra",Pune,Maharashtra,61,6,91491.38,5,5,5,15,Champion
+C00208,"Rohan Kulkarni",Jaipur,Rajasthan,82,5,90070.90,4,5,5,14,Champion
+C00170,"Ria Mukherjee",Kolkata,"West bengal",38,4,86600.68,5,4,5,14,Champion
+C00994,"Vikram Naidu",Chennai,"Tamil nadu",38,6,71214.53,5,5,5,15,Champion
+C01938,"Ria Menon",Chennai,"Tamil nadu",114,4,70103.00,3,4,5,12,Loyal
+C00691,"Sanya Mukherjee",Delhi,Delhi,64,9,69035.23,4,5,5,14,Champion
+C01477,"Vikram Naidu",Ahmedabad,Gujarat,123,1,63528.24,3,1,5,9,Regulars
+C00667,"Anvi Gupta",Delhi,Delhi,38,5,63296.68,5,5,5,15,Champion
+C00362,"Ria Gupta",Kochi,Kerala,147,3,62338.60,2,3,5,10,"At Risk"
+C00781,"Kavya Singh",Jaipur,Rajasthan,126,6,61042.31,3,5,5,13,Loyal
+C01429,"Aditya Reddy",Kochi,Kerala,163,7,59684.65,2,5,5,12,"At Risk"
+C00665,"Anvi Verma",Delhi,Delhi,134,5,57494.80,2,4,5,11,"At Risk"
+C01446,"Ria Gupta",Ahmedabad,Gujarat,66,4,56497.85,4,4,5,13,Champion
+C00682,"Neha Chowdhury",Hyderabad,Telangana,56,9,56305.47,5,5,5,15,Champion
+C00692,"Aisha Rao",Kolkata,"West bengal",45,4,56209.50,5,4,5,14,Champion
+C01905,"Ritu Patel",Delhi,Delhi,171,3,53740.60,2,3,5,10,"At Risk"
+C00160,"Vikram Rao",Bengaluru,Karnataka,37,8,53737.86,5,5,5,15,Champion
+C00552,"Ritu Reddy",Ahmedabad,Gujarat,68,6,53389.02,4,5,5,14,Champion
+C00063,"Aisha Das",Chennai,"Tamil nadu",41,6,51920.65,5,5,5,15,Champion
+C00086,"Aditya Das",Mumbai,Maharashtra,148,3,51387.09,2,3,5,10,"At Risk"
+C00973,"Neha Naidu",Hyderabad,Telangana,151,7,51332.94,2,5,5,12,"At Risk"
+C00232,"Aisha Basu",Mumbai,Maharashtra,60,4,50362.27,5,4,5,14,Champion
+C01981,"Rahul Basu",Mumbai,Maharashtra,80,2,49886.37,4,2,5,11,Regulars
+C01486,"Kabir Das",Hyderabad,Telangana,62,5,49609.11,4,5,5,14,Champion
+C00514,"Anvi Kulkarni",Kolkata,"West bengal",65,7,48937.04,4,5,5,14,Champion
+C01907,"Neha Iyer",Delhi,Delhi,237,5,48743.48,1,4,5,10,"At Risk"
+C01323,"Neha Rao",Kochi,Kerala,117,4,48325.94,3,4,5,12,Loyal
+C00866,"Aditya Mukherjee",Delhi,Delhi,139,5,47663.80,2,4,5,11,"At Risk"
+C00106,"Aditya Iyer",Visakhapatnam,"Andhra pradesh",93,7,46765.53,4,5,5,14,Champion
+C01015,"Ria Mukherjee",Kochi,Kerala,172,5,46454.70,2,4,5,11,"At Risk"
+C00143,"Aarav Patel",Ahmedabad,Gujarat,86,6,46390.70,4,5,5,14,Champion
+C00952,"Kavya Basu",Ahmedabad,Gujarat,64,6,45962.85,4,5,5,14,Champion
+C01426,"Rohan Mukherjee",Ahmedabad,Gujarat,129,4,45870.66,3,4,5,12,Loyal
+C00491,"Ananya Joshi",Hyderabad,Telangana,92,5,45147.38,4,5,5,14,Champion
+C01471,"Aditya Rao",Kolkata,"West bengal",117,5,44961.18,3,4,5,12,Loyal
+C00440,"Samar Singh",Jaipur,Rajasthan,126,6,44890.72,3,5,5,13,Loyal
+C01177,"Sanya Sharma",Delhi,Delhi,157,4,43548.33,2,4,5,11,"At Risk"
+C00625,"Isha Singh",Kolkata,"West bengal",123,5,43363.98,3,4,5,12,Loyal
+C00097,"Vivaan Gupta",Kochi,Kerala,44,7,41950.91,5,5,5,15,Champion
+C01381,"Rohan Nair",Jaipur,Rajasthan,51,9,41630.31,5,5,5,15,Champion
+C00214,"Anvi Menon",Kolkata,"West bengal",58,4,41357.78,5,4,5,14,Champion
+C00403,"Samar Mishra",Mumbai,Maharashtra,96,3,41080.38,3,3,5,11,Regulars
+C01473,"Irfan Mishra",Kochi,Kerala,94,8,41059.19,3,5,5,13,Loyal
+C01785,"Aisha Verma",Pune,Maharashtra,87,8,41007.20,4,5,5,14,Champion
+C00903,"Kavya Gupta",Jaipur,Rajasthan,45,7,40625.44,5,5,5,15,Champion
+C00798,"Diya Reddy",Visakhapatnam,"Andhra pradesh",37,4,40416.70,5,4,5,14,Champion
+C01227,"Aisha Iyer",Visakhapatnam,"Andhra pradesh",161,8,39054.60,2,5,5,12,"At Risk"
+C01206,"Ria Nair",Hyderabad,Telangana,126,6,38891.76,3,5,5,13,Loyal
+C01006,"Ritu Nair",Pune,Maharashtra,47,5,38472.92,5,5,5,15,Champion
+C00951,"Kavya Singh",Chennai,"Tamil nadu",134,4,38309.51,2,4,5,11,"At Risk"
+C01059,"Aarav Khan",Hyderabad,Telangana,123,6,38247.06,3,5,5,13,Loyal
+C01584,"Kavya Khan",Visakhapatnam,"Andhra pradesh",38,7,37968.81,5,5,5,15,Champion
+C00863,"Vivaan Menon",Ahmedabad,Gujarat,72,8,37848.89,4,5,5,14,Champion
+C00576,"Rohan Menon",Chennai,"Tamil nadu",102,3,37761.91,3,3,5,11,Regulars
+C00215,"Neha Reddy",Bengaluru,Karnataka,47,7,37741.57,5,5,5,15,Champion
+C00593,"Sneha Mukherjee",Lucknow,"Uttar pradesh",65,8,37100.46,4,5,5,14,Champion
+C01859,"Ritu Gupta",Bengaluru,Karnataka,124,4,37025.76,3,4,5,12,Loyal
+C00425,"Rohan Mukherjee",Kolkata,"West bengal",95,6,36779.68,3,5,5,13,Loyal
+C01835,"Sneha Nair",Visakhapatnam,"Andhra pradesh",36,8,36726.69,5,5,5,15,Champion
+C00690,"Sanya Gupta",Bengaluru,Karnataka,52,7,36700.93,5,5,5,15,Champion
+C00770,"Kabir Reddy",Mumbai,Maharashtra,79,5,36486.42,4,5,5,14,Champion
+C00396,"Isha Iyer",Bengaluru,Karnataka,63,6,36455.46,4,5,5,14,Champion
+C00592,"Rahul Gupta",Delhi,Delhi,38,9,36297.51,5,5,5,15,Champion
+C01363,"Rohan Mukherjee",Delhi,Delhi,57,8,36240.95,5,5,5,15,Champion
+C01862,"Sanya Chandra",Jaipur,Rajasthan,119,5,36030.01,3,4,5,12,Loyal
+C01014,"Anvi Verma",Kochi,Kerala,63,4,35740.39,4,4,5,13,Champion
+C00126,"Ananya Nair",Visakhapatnam,"Andhra pradesh",56,6,35478.21,5,5,5,15,Champion
+C00729,"Rohan Iyer",Delhi,Delhi,49,7,35447.94,5,5,5,15,Champion
+C00578,"Ritu Nair",Pune,Maharashtra,122,4,35286.85,3,4,5,12,Loyal
+C01463,"Kabir Chandra",Mumbai,Maharashtra,83,4,34998.35,4,4,5,13,Champion
+C01971,"Aarav Reddy",Pune,Maharashtra,75,7,34797.17,4,5,5,14,Champion
+C00284,"Aditya Patel",Ahmedabad,Gujarat,37,6,34788.63,5,5,5,15,Champion
+C00968,"Aisha Khan",Kolkata,"West bengal",44,8,33993.51,5,5,5,15,Champion
+C00457,"Anvi Singh",Kolkata,"West bengal",116,5,33707.92,3,4,5,12,Loyal
+C00784,"Rahul Khan",Chennai,"Tamil nadu",59,7,33492.17,5,5,5,15,Champion
+C00655,"Kabir Chandra",Kolkata,"West bengal",130,5,33450.97,3,4,5,12,Loyal
+C00421,"Ritu Singh",Delhi,Delhi,136,7,33340.90,2,5,5,12,"At Risk"
+C01303,"Ria Iyer",Hyderabad,Telangana,147,3,33297.42,2,3,5,10,"At Risk"
+C01064,"Aditya Joshi",Jaipur,Rajasthan,166,7,33125.22,2,5,5,12,"At Risk"
+C01482,"Sanya Iyer",Pune,Maharashtra,82,6,33068.18,4,5,5,14,Champion
+C01004,"Ria Menon",Lucknow,"Uttar pradesh",49,5,32749.45,5,5,5,15,Champion
+C00335,"Samar Chowdhury",Ahmedabad,Gujarat,182,3,32675.78,2,3,5,10,"At Risk"
+C00198,"Vikram Sharma",Kolkata,"West bengal",64,3,32597.88,4,3,5,12,Regulars
+C01770,"Neha Das",Mumbai,Maharashtra,64,8,32555.72,4,5,5,14,Champion
+C00437,"Rohan Basu",Chennai,"Tamil nadu",38,4,32494.21,5,4,5,14,Champion
+C00438,"Neha Menon",Kolkata,"West bengal",56,8,32231.62,5,5,5,15,Champion
+C01627,"Samar Singh",Chennai,"Tamil nadu",116,5,32219.03,3,4,5,12,Loyal
+C00092,"Irfan Chowdhury",Pune,Maharashtra,137,3,32182.25,2,3,5,10,"At Risk"
+C01941,"Kabir Das",Jaipur,Rajasthan,65,7,32077.69,4,5,5,14,Champion
+C01384,"Aditya Patel",Mumbai,Maharashtra,107,6,31881.60,3,5,5,13,Loyal
+C00101,"Aditya Verma",Kochi,Kerala,69,5,31864.80,4,5,5,14,Champion
+C00295,"Aditya Patel",Jaipur,Rajasthan,65,4,31862.19,4,4,5,13,Champion
+C00769,"Diya Sharma",Visakhapatnam,"Andhra pradesh",99,3,31810.36,3,3,5,11,Regulars
+C00501,"Kabir Joshi",Visakhapatnam,"Andhra pradesh",93,4,31309.14,3,4,5,12,Loyal
+C01572,"Sneha Reddy",Lucknow,"Uttar pradesh",143,3,31276.40,2,3,5,10,"At Risk"
+C01705,"Vikram Patel",Mumbai,Maharashtra,67,8,31207.39,4,5,5,14,Champion
+C01246,"Ria Menon",Bengaluru,Karnataka,148,6,31097.95,2,5,5,12,"At Risk"
+C01090,"Vivaan Singh",Kolkata,"West bengal",43,5,31095.92,5,5,5,15,Champion
+C00471,"Samar Nair",Ahmedabad,Gujarat,82,4,31088.73,4,4,5,13,Champion
+C00852,"Sanya Joshi",Jaipur,Rajasthan,45,5,30987.60,5,5,5,15,Champion
+C00626,"Isha Verma",Kolkata,"West bengal",149,4,30773.44,2,4,5,11,"At Risk"
+C00961,"Aarav Khan",Hyderabad,Telangana,93,9,30623.90,3,5,5,13,Loyal
+C00997,"Vikram Mukherjee",Lucknow,"Uttar pradesh",130,5,30588.11,3,4,5,12,Loyal
+C00788,"Kavya Patel",Chennai,"Tamil nadu",65,7,30451.03,4,5,5,14,Champion
+C00074,"Kabir Singh",Jaipur,Rajasthan,99,4,30140.88,3,4,5,12,Loyal
+C01816,"Sanya Sharma",Ahmedabad,Gujarat,69,6,30064.70,4,5,5,14,Champion
+C00093,"Ananya Chandra",Delhi,Delhi,131,3,29814.30,3,3,5,11,Regulars
+C01449,"Anvi Mishra",Kolkata,"West bengal",128,5,29767.27,3,4,5,12,Loyal
+C00022,"Aisha Menon",Ahmedabad,Gujarat,40,5,29763.41,5,5,5,15,Champion
+C01256,"Ritu Basu",Bengaluru,Karnataka,82,5,29632.04,4,5,5,14,Champion
+C01078,"Sneha Chowdhury",Mumbai,Maharashtra,127,3,29598.03,3,3,5,11,Regulars
+C00859,"Anvi Chandra",Hyderabad,Telangana,86,3,29467.74,4,3,5,12,Regulars
+C01847,"Vivaan Rao",Kolkata,"West bengal",53,4,29453.30,5,4,5,14,Champion
+C00003,"Kabir Joshi",Mumbai,Maharashtra,41,4,29349.05,5,4,5,14,Champion
+C01804,"Kavya Iyer",Hyderabad,Telangana,231,4,29255.87,1,3,5,9,"At Risk"
+C01706,"Rohan Chowdhury",Jaipur,Rajasthan,103,4,29194.23,3,4,5,12,Loyal
+C00178,"Samar Verma",Pune,Maharashtra,45,7,29184.69,5,5,5,15,Champion
+C01397,"Irfan Sharma",Kochi,Kerala,304,5,29157.82,1,4,5,10,"At Risk"
+C01436,"Vivaan Chandra",Lucknow,"Uttar pradesh",40,4,29100.65,5,4,5,14,Champion
+C00159,"Irfan Khan",Bengaluru,Karnataka,171,6,29016.46,2,5,5,12,"At Risk"
+C01771,"Anvi Khan",Bengaluru,Karnataka,38,3,28987.23,5,3,5,13,Regulars
+C00377,"Isha Gupta",Delhi,Delhi,46,4,28985.27,5,4,5,14,Champion
+C00410,"Vivaan Chandra",Jaipur,Rajasthan,99,6,28977.62,3,5,5,13,Loyal
+C00878,"Sneha Menon",Mumbai,Maharashtra,153,7,28916.83,2,5,5,12,"At Risk"
+C00296,"Aarav Joshi",Pune,Maharashtra,45,3,28914.45,5,3,5,13,Regulars
+C01594,"Kabir Rao",Ahmedabad,Gujarat,65,5,28849.23,4,5,5,14,Champion
+C00813,"Samar Chowdhury",Ahmedabad,Gujarat,108,7,28846.50,3,5,5,13,Loyal
+C00834,"Aditya Menon",Kolkata,"West bengal",102,6,28795.53,3,5,5,13,Loyal
+C00142,"Ananya Menon",Visakhapatnam,"Andhra pradesh",117,4,28712.08,3,4,5,12,Loyal
+C00223,"Aarav Kulkarni",Delhi,Delhi,39,8,28666.34,5,5,5,15,Champion
+C00081,"Rohan Gupta",Bengaluru,Karnataka,96,8,28581.95,3,5,5,13,Loyal
+C01773,"Ria Patel",Jaipur,Rajasthan,43,5,28574.12,5,5,5,15,Champion
+C01646,"Vivaan Verma",Kolkata,"West bengal",73,6,28556.14,4,5,5,14,Champion
+C00932,"Vikram Gupta",Chennai,"Tamil nadu",102,4,28551.15,3,4,5,12,Loyal
+C01270,"Neha Gupta",Hyderabad,Telangana,59,8,28480.80,5,5,5,15,Champion
+C00150,"Kavya Menon",Jaipur,Rajasthan,178,5,28391.76,2,4,5,11,"At Risk"
+C01562,"Aarav Patel",Chennai,"Tamil nadu",117,4,28389.52,3,4,5,12,Loyal
+C00800,"Vivaan Khan",Kochi,Kerala,249,3,28321.84,1,2,5,8,"At Risk"
+C00167,"Aditya Mukherjee",Kolkata,"West bengal",129,5,28210.38,3,4,5,12,Loyal
+C01122,"Ananya Patel",Delhi,Delhi,58,7,28152.06,5,5,5,15,Champion
+C01988,"Rohan Nair",Delhi,Delhi,66,10,28132.48,4,5,5,14,Champion
+C00180,"Ritu Chandra",Ahmedabad,Gujarat,49,6,28010.02,5,5,5,15,Champion
+C00991,"Irfan Gupta",Pune,Maharashtra,67,4,27916.83,4,4,5,13,Champion
+C00720,"Rahul Mukherjee",Mumbai,Maharashtra,44,6,27912.99,5,5,5,15,Champion
+C00983,"Isha Naidu",Visakhapatnam,"Andhra pradesh",141,7,27906.18,2,5,5,12,"At Risk"
+C00849,"Irfan Mukherjee",Kochi,Kerala,207,5,27885.57,2,4,5,11,"At Risk"
+C00912,"Kabir Kulkarni",Jaipur,Rajasthan,70,9,27757.02,4,5,5,14,Champion
+C02000,"Vivaan Sharma",Hyderabad,Telangana,67,4,27722.44,4,4,5,13,Champion
+C00356,"Vikram Menon",Delhi,Delhi,37,6,27696.35,5,5,5,15,Champion
+C00637,"Rahul Verma",Kochi,Kerala,294,4,27677.85,1,3,5,9,"At Risk"
+C00424,"Aarav Gupta",Ahmedabad,Gujarat,104,5,27609.49,3,4,5,12,Loyal
+C01118,"Irfan Naidu",Delhi,Delhi,96,7,27598.39,3,5,5,13,Loyal
+C00874,"Aditya Iyer",Lucknow,"Uttar pradesh",166,3,27528.29,2,3,5,10,"At Risk"
+C01629,"Kabir Menon",Chennai,"Tamil nadu",58,9,27521.73,5,5,5,15,Champion
+C00830,"Sanya Das",Kolkata,"West bengal",71,6,27488.47,4,5,5,14,Champion
+C00525,"Ria Chandra",Mumbai,Maharashtra,63,7,27471.03,4,5,5,14,Champion
+C01021,"Vikram Mishra",Hyderabad,Telangana,171,6,27458.00,2,5,5,12,"At Risk"
+C01792,"Kavya Chandra",Lucknow,"Uttar pradesh",122,5,27325.86,3,4,5,12,Loyal
+C00651,"Isha Basu",Jaipur,Rajasthan,45,4,26982.86,5,4,5,14,Champion
+C00998,"Sanya Rao",Visakhapatnam,"Andhra pradesh",65,3,26968.63,4,3,5,12,Regulars
+C01274,"Anvi Nair",Kolkata,"West bengal",74,3,26932.97,4,3,5,12,Regulars
+C01024,"Ananya Basu",Lucknow,"Uttar pradesh",111,6,26790.02,3,5,5,13,Loyal
+C01264,"Aisha Nair",Delhi,Delhi,45,4,26762.78,5,4,5,14,Champion
+C01169,"Isha Rao",Hyderabad,Telangana,36,9,26722.09,5,5,5,15,Champion
+C00696,"Aisha Khan",Jaipur,Rajasthan,51,5,26621.68,5,5,5,15,Champion
+C00694,"Samar Basu",Kochi,Kerala,56,6,26535.26,5,5,5,15,Champion
+C01926,"Samar Singh",Lucknow,"Uttar pradesh",93,6,26523.63,3,5,5,13,Loyal
+C01709,"Aarav Chandra",Jaipur,Rajasthan,111,6,26499.35,3,5,5,13,Loyal
+C00545,"Aarav Singh",Hyderabad,Telangana,116,6,26482.48,3,5,5,13,Loyal
+C01427,"Vivaan Gupta",Kolkata,"West bengal",138,3,26461.73,2,3,5,10,"At Risk"
+C00646,"Aditya Sharma",Visakhapatnam,"Andhra pradesh",135,5,26384.54,2,4,5,11,"At Risk"
+C01951,"Ananya Mukherjee",Jaipur,Rajasthan,168,5,26358.42,2,4,5,11,"At Risk"
+C01445,"Ritu Iyer",Pune,Maharashtra,170,4,26345.32,2,4,5,11,"At Risk"
+C00240,"Rohan Das",Visakhapatnam,"Andhra pradesh",50,4,26339.53,5,4,5,14,Champion
+C01790,"Vivaan Nair",Chennai,"Tamil nadu",65,9,26320.08,4,5,5,14,Champion
+C01030,"Rahul Mishra",Hyderabad,Telangana,49,2,26164.96,5,2,5,12,Regulars
+C01796,"Aisha Verma",Mumbai,Maharashtra,87,7,26156.45,4,5,5,14,Champion
+C00108,"Kabir Joshi",Jaipur,Rajasthan,229,5,26120.50,1,4,5,10,"At Risk"
+C01158,"Samar Chandra",Pune,Maharashtra,65,5,26101.07,4,5,5,14,Champion
+C00444,"Anvi Iyer",Visakhapatnam,"Andhra pradesh",43,8,26071.68,5,5,5,15,Champion
+C00168,"Ria Naidu",Lucknow,"Uttar pradesh",59,9,26021.76,5,5,5,15,Champion
+C00701,"Rohan Iyer",Bengaluru,Karnataka,68,8,26011.10,4,5,5,14,Champion
+C01334,"Irfan Rao",Jaipur,Rajasthan,62,3,25895.81,4,3,5,12,Regulars
+C01960,"Sneha Gupta",Bengaluru,Karnataka,399,1,25761.34,1,1,5,7,"At Risk"
+C01924,"Neha Mukherjee",Ahmedabad,Gujarat,85,5,25739.49,4,5,5,14,Champion
+C00751,"Samar Joshi",Ahmedabad,Gujarat,88,3,25550.29,4,3,5,12,Regulars
+C00640,"Ria Joshi",Chennai,"Tamil nadu",53,7,25522.68,5,5,5,15,Champion
+C01923,"Ananya Gupta",Delhi,Delhi,144,6,25519.22,2,5,5,12,"At Risk"
+C00716,"Sneha Das",Mumbai,Maharashtra,147,6,25449.27,2,5,5,12,"At Risk"
+C00876,"Isha Iyer",Visakhapatnam,"Andhra pradesh",58,6,25417.19,5,5,5,15,Champion
+C01688,"Aarav Khan",Lucknow,"Uttar pradesh",121,5,25415.43,3,4,5,12,Loyal
+C01425,"Ria Chowdhury",Visakhapatnam,"Andhra pradesh",41,8,25337.65,5,5,5,15,Champion
+C00276,"Vivaan Naidu",Chennai,"Tamil nadu",200,6,25248.52,2,5,5,12,"At Risk"
+C00673,"Aarav Singh",Visakhapatnam,"Andhra pradesh",41,5,25207.30,5,5,5,15,Champion
+C00555,"Kabir Gupta",Kochi,Kerala,183,4,25168.34,2,4,5,11,"At Risk"
+C00795,"Samar Verma",Bengaluru,Karnataka,97,5,25158.95,3,5,5,13,Loyal
+C01894,"Ananya Reddy",Kolkata,"West bengal",77,5,25157.06,4,5,5,14,Champion
+C01278,"Vikram Mukherjee",Kochi,Kerala,196,3,25134.51,2,2,5,9,"At Risk"
+C01347,"Kabir Singh",Delhi,Delhi,42,9,25114.13,5,5,5,15,Champion
+C01836,"Neha Basu",Hyderabad,Telangana,142,6,25063.83,2,5,5,12,"At Risk"
+C01047,"Rohan Mishra",Bengaluru,Karnataka,100,6,24991.40,3,5,5,13,Loyal
+C01187,"Ria Reddy",Visakhapatnam,"Andhra pradesh",39,10,24974.39,5,5,5,15,Champion
+C01748,"Kabir Nair",Kochi,Kerala,40,6,24969.39,5,5,5,15,Champion
+C01465,"Sanya Verma",Hyderabad,Telangana,98,6,24933.34,3,5,5,13,Loyal
+C00832,"Rahul Nair",Chennai,"Tamil nadu",107,5,24932.48,3,4,5,12,Loyal
+C01937,"Aarav Chowdhury",Visakhapatnam,"Andhra pradesh",49,10,24908.50,5,5,5,15,Champion
+C01913,"Neha Naidu",Hyderabad,Telangana,159,5,24865.45,2,4,5,11,"At Risk"
+C00959,"Rohan Kulkarni",Kochi,Kerala,148,5,24857.60,2,4,5,11,"At Risk"
+C00559,"Diya Das",Kochi,Kerala,42,7,24833.40,5,5,5,15,Champion
+C01667,"Ritu Naidu",Kolkata,"West bengal",194,4,24783.05,2,3,5,10,"At Risk"
+C01637,"Ritu Verma",Pune,Maharashtra,134,5,24712.23,2,4,5,11,"At Risk"
+C00927,"Kavya Mukherjee",Ahmedabad,Gujarat,107,8,24675.78,3,5,5,13,Loyal
+C01531,"Sanya Kulkarni",Chennai,"Tamil nadu",43,4,24603.59,5,4,5,14,Champion
+C01657,"Rahul Joshi",Mumbai,Maharashtra,171,3,24541.41,2,3,5,10,"At Risk"
+C01540,"Sanya Joshi",Bengaluru,Karnataka,83,6,24456.88,4,5,5,14,Champion
+C01697,"Sneha Das",Bengaluru,Karnataka,128,3,24443.73,3,3,5,11,Regulars
+C01149,"Neha Reddy",Visakhapatnam,"Andhra pradesh",241,4,24397.49,1,3,5,9,"At Risk"
+C00543,"Irfan Iyer",Delhi,Delhi,174,6,24332.75,2,5,5,12,"At Risk"
+C00415,"Aditya Chowdhury",Jaipur,Rajasthan,128,4,24255.51,3,4,5,12,Loyal
+C01614,"Diya Reddy",Lucknow,"Uttar pradesh",67,5,24223.41,4,5,5,14,Champion
+C00430,"Ritu Kulkarni",Jaipur,Rajasthan,60,7,24206.41,5,5,5,15,Champion
+C00613,"Aarav Chowdhury",Mumbai,Maharashtra,70,5,24196.61,4,5,5,14,Champion
+C00633,"Sneha Khan",Lucknow,"Uttar pradesh",45,6,24183.68,5,5,5,15,Champion
+C01037,"Samar Basu",Kolkata,"West bengal",118,6,24161.36,3,5,5,13,Loyal
+C01402,"Diya Rao",Kolkata,"West bengal",75,5,24079.85,4,5,5,14,Champion
+C00603,"Rahul Chandra",Lucknow,"Uttar pradesh",123,5,24071.34,3,4,5,12,Loyal
+C01590,"Rohan Khan",Bengaluru,Karnataka,252,3,24041.63,1,2,5,8,"At Risk"
+C00705,"Anvi Chowdhury",Kolkata,"West bengal",106,4,24028.73,3,4,5,12,Loyal
+C00505,"Ritu Iyer",Kochi,Kerala,128,4,23894.84,3,4,5,12,Loyal
+C00470,"Rahul Joshi",Delhi,Delhi,164,5,23781.21,2,4,5,11,"At Risk"
+C00742,"Aditya Iyer",Lucknow,"Uttar pradesh",72,6,23780.87,4,5,5,14,Champion
+C00451,"Irfan Sharma",Pune,Maharashtra,106,4,23738.28,3,4,5,12,Loyal
+C00490,"Aisha Das",Jaipur,Rajasthan,97,6,23719.04,3,5,5,13,Loyal
+C00050,"Anvi Singh",Lucknow,"Uttar pradesh",201,5,23700.87,2,4,5,11,"At Risk"
+C01882,"Aisha Nair",Mumbai,Maharashtra,52,7,23684.20,5,5,5,15,Champion
+C01601,"Aditya Nair",Kochi,Kerala,48,4,23683.29,5,4,5,14,Champion
+C00538,"Rahul Gupta",Kolkata,"West bengal",131,6,23680.99,3,5,5,13,Loyal
+C01750,"Anvi Das",Kolkata,"West bengal",61,4,23673.31,4,4,5,13,Champion
+C00957,"Ritu Rao",Mumbai,Maharashtra,110,4,23647.95,3,4,5,12,Loyal
+C01970,"Isha Kulkarni",Ahmedabad,Gujarat,115,4,23629.31,3,4,5,12,Loyal
+C00568,"Kabir Menon",Bengaluru,Karnataka,42,4,23612.43,5,4,5,14,Champion
+C01201,"Vivaan Chowdhury",Lucknow,"Uttar pradesh",71,5,23597.51,4,5,5,14,Champion
+C00707,"Samar Kulkarni",Lucknow,"Uttar pradesh",67,5,23592.48,4,5,5,14,Champion
+C00401,"Vikram Kulkarni",Chennai,"Tamil nadu",85,8,23541.14,4,5,5,14,Champion
+C01489,"Vikram Reddy",Ahmedabad,Gujarat,94,6,23530.31,3,5,5,13,Loyal
+C00323,"Rahul Sharma",Hyderabad,Telangana,129,4,23409.58,3,4,5,12,Loyal
+C00632,"Irfan Naidu",Jaipur,Rajasthan,93,3,23400.75,3,3,5,11,Regulars
+C01901,"Vikram Verma",Delhi,Delhi,62,5,23378.56,4,5,5,14,Champion
+C01157,"Diya Khan",Kochi,Kerala,58,6,23377.51,5,5,5,15,Champion
+C01058,"Rohan Joshi",Kochi,Kerala,92,10,23343.20,4,5,5,14,Champion
+C01083,"Ananya Iyer",Chennai,"Tamil nadu",140,5,23326.93,2,4,5,11,"At Risk"
+C00390,"Ritu Joshi",Pune,Maharashtra,85,6,23322.53,4,5,5,14,Champion
+C00164,"Ritu Sharma",Pune,Maharashtra,50,6,23295.83,5,5,5,15,Champion
+C00787,"Aarav Iyer",Pune,Maharashtra,68,6,23241.60,4,5,5,14,Champion
+C01809,"Kavya Mukherjee",Kochi,Kerala,64,7,23237.21,4,5,5,14,Champion
+C01934,"Aditya Das",Ahmedabad,Gujarat,102,6,23215.79,3,5,5,13,Loyal
+C01140,"Kavya Reddy",Chennai,"Tamil nadu",140,8,23205.20,2,5,5,12,"At Risk"
+C00857,"Isha Mukherjee",Kolkata,"West bengal",105,6,23188.33,3,5,5,13,Loyal
+C01823,"Kabir Khan",Lucknow,"Uttar pradesh",91,7,23156.39,4,5,5,14,Champion
+C00847,"Aarav Mukherjee",Jaipur,Rajasthan,143,4,23148.96,2,4,5,11,"At Risk"
+C00435,"Aditya Gupta",Kochi,Kerala,66,7,23142.09,4,5,5,14,Champion
+C00134,"Vivaan Chandra",Chennai,"Tamil nadu",128,4,23134.84,3,4,5,12,Loyal
+C01662,"Aditya Kulkarni",Visakhapatnam,"Andhra pradesh",168,4,23131.62,2,4,5,11,"At Risk"
+C01607,"Ritu Basu",Kolkata,"West bengal",140,4,23052.44,2,4,5,11,"At Risk"
+C00910,"Vikram Reddy",Mumbai,Maharashtra,170,5,23007.15,2,4,5,11,"At Risk"
+C00094,"Irfan Chowdhury",Kochi,Kerala,133,6,22959.49,3,5,5,13,Loyal
+C01193,"Aditya Chowdhury",Bengaluru,Karnataka,36,5,22925.09,5,5,5,15,Champion
+C01389,"Rahul Mishra",Lucknow,"Uttar pradesh",49,6,22917.97,5,5,5,15,Champion
+C01437,"Kabir Mishra",Kolkata,"West bengal",136,6,22904.57,2,5,5,12,"At Risk"
+C00898,"Rohan Chowdhury",Delhi,Delhi,84,3,22903.21,4,3,5,12,Regulars
+C00641,"Rohan Nair",Mumbai,Maharashtra,36,7,22898.14,5,5,5,15,Champion
+C01766,"Kabir Verma",Delhi,Delhi,63,5,22776.91,4,5,5,14,Champion
+C00157,"Ritu Menon",Hyderabad,Telangana,156,4,22767.91,2,4,5,11,"At Risk"
+C01091,"Aarav Mukherjee",Delhi,Delhi,54,6,22764.57,5,5,5,15,Champion
+C00213,"Sanya Sharma",Jaipur,Rajasthan,58,6,22749.84,5,5,5,15,Champion
+C01302,"Kabir Sharma",Kochi,Kerala,70,8,22696.31,4,5,5,14,Champion
+C01883,"Neha Khan",Hyderabad,Telangana,105,7,22687.02,3,5,5,13,Loyal
+C01351,"Isha Mishra",Hyderabad,Telangana,70,5,22681.10,4,5,5,14,Champion
+C01578,"Ria Verma",Kochi,Kerala,106,3,22678.41,3,3,5,11,Regulars
+C01039,"Anvi Patel",Visakhapatnam,"Andhra pradesh",227,7,22669.12,1,5,5,11,"At Risk"
+C00785,"Kavya Singh",Ahmedabad,Gujarat,115,7,22602.51,3,5,5,13,Loyal
+C01582,"Kavya Menon",Pune,Maharashtra,180,5,22575.69,2,4,5,11,"At Risk"
+C00926,"Aarav Gupta",Mumbai,Maharashtra,42,7,22551.69,5,5,5,15,Champion
+C01110,"Ria Chandra",Mumbai,Maharashtra,70,5,22523.88,4,5,5,14,Champion
+C01700,"Neha Joshi",Bengaluru,Karnataka,44,5,22519.97,5,5,5,15,Champion
+C01990,"Aditya Mishra",Visakhapatnam,"Andhra pradesh",93,3,22516.48,3,3,5,11,Regulars
+C01160,"Rohan Reddy",Delhi,Delhi,84,2,22510.04,4,2,5,11,Regulars
+C00676,"Samar Gupta",Visakhapatnam,"Andhra pradesh",91,3,22509.74,4,3,5,12,Regulars
+C01322,"Sneha Gupta",Visakhapatnam,"Andhra pradesh",131,5,22499.90,3,4,5,12,Loyal
+C00399,"Diya Naidu",Ahmedabad,Gujarat,152,3,22490.65,2,3,5,10,"At Risk"
+C00699,"Rohan Khan",Pune,Maharashtra,149,4,22488.93,2,4,5,11,"At Risk"
+C00841,"Ritu Patel",Ahmedabad,Gujarat,85,6,22458.19,4,5,5,14,Champion
+C01846,"Isha Kulkarni",Lucknow,"Uttar pradesh",75,4,22415.53,4,4,5,13,Champion
+C00289,"Kavya Naidu",Kochi,Kerala,60,6,22331.17,5,5,5,15,Champion
+C00992,"Irfan Khan",Ahmedabad,Gujarat,110,4,22319.83,3,4,5,12,Loyal
+C00252,"Aditya Kulkarni",Mumbai,Maharashtra,268,3,22311.27,1,2,5,8,"At Risk"
+C01307,"Isha Kulkarni",Visakhapatnam,"Andhra pradesh",264,2,22260.12,1,1,5,7,"At Risk"
+C01163,"Ria Das",Bengaluru,Karnataka,60,7,22204.23,5,5,5,15,Champion
+C00762,"Diya Sharma",Kochi,Kerala,137,7,22195.73,2,5,5,12,"At Risk"
+C00283,"Diya Gupta",Hyderabad,Telangana,143,5,22181.25,2,4,5,11,"At Risk"
+C01241,"Ananya Sharma",Jaipur,Rajasthan,236,2,22060.16,1,2,5,8,"At Risk"
+C00556,"Aisha Reddy",Pune,Maharashtra,126,7,22054.08,3,5,5,13,Loyal
+C01889,"Diya Nair",Bengaluru,Karnataka,106,2,22042.76,3,2,5,10,Regulars
+C00125,"Isha Rao",Pune,Maharashtra,273,2,22031.77,1,1,5,7,"At Risk"
+C00755,"Ananya Naidu",Chennai,"Tamil nadu",114,5,21975.39,3,4,5,12,Loyal
+C00658,"Vivaan Joshi",Mumbai,Maharashtra,64,6,21965.58,4,5,5,14,Champion
+C00384,"Isha Basu",Hyderabad,Telangana,339,2,21946.75,1,1,5,7,"At Risk"
+C00596,"Anvi Mishra",Visakhapatnam,"Andhra pradesh",60,7,21899.45,5,5,5,15,Champion
+C01254,"Sanya Singh",Ahmedabad,Gujarat,42,4,21877.43,5,4,5,14,Champion
+C00906,"Ananya Verma",Delhi,Delhi,129,7,21825.88,3,5,5,13,Loyal
+C00537,"Aditya Das",Pune,Maharashtra,76,6,21821.07,4,5,5,14,Champion
+C01074,"Aisha Basu",Pune,Maharashtra,84,6,21545.35,4,5,5,14,Champion
+C01423,"Ria Chowdhury",Delhi,Delhi,191,3,21518.39,2,3,5,10,"At Risk"
+C00549,"Aarav Singh",Hyderabad,Telangana,62,8,21507.85,4,5,5,14,Champion
+C00748,"Anvi Chandra",Hyderabad,Telangana,106,7,21455.23,3,5,5,13,Loyal
+C01834,"Sneha Iyer",Chennai,"Tamil nadu",63,5,21452.86,4,5,5,14,Champion
+C01633,"Ria Basu",Ahmedabad,Gujarat,41,5,21446.86,5,5,5,15,Champion
+C01209,"Ria Rao",Kolkata,"West bengal",229,3,21446.60,1,2,5,8,"At Risk"
+C01788,"Isha Rao",Ahmedabad,Gujarat,41,6,21438.24,5,5,5,15,Champion
+C01001,"Ananya Mukherjee",Lucknow,"Uttar pradesh",126,4,21401.30,3,4,5,12,Loyal
+C00190,"Sanya Kulkarni",Chennai,"Tamil nadu",150,4,21389.10,2,4,5,11,"At Risk"
+C01802,"Diya Basu",Bengaluru,Karnataka,115,7,21352.49,3,5,5,13,Loyal
+C00885,"Ananya Joshi",Delhi,Delhi,312,3,21352.22,1,2,5,8,"At Risk"
+C01493,"Aditya Joshi",Kolkata,"West bengal",116,7,21288.85,3,5,5,13,Loyal
+C00544,"Ananya Chowdhury",Delhi,Delhi,143,6,21230.64,2,5,5,12,"At Risk"
+C01912,"Kabir Khan",Delhi,Delhi,89,7,21218.92,4,5,5,14,Champion
+C01575,"Vivaan Das",Visakhapatnam,"Andhra pradesh",133,3,21206.97,3,3,5,11,Regulars
+C01974,"Irfan Khan",Ahmedabad,Gujarat,93,6,21065.40,3,5,5,13,Loyal
+C01441,"Diya Joshi",Kolkata,"West bengal",69,5,21031.73,4,5,5,14,Champion
+C00535,"Samar Reddy",Ahmedabad,Gujarat,166,4,21003.02,2,4,5,11,"At Risk"
+C01243,"Anvi Rao",Kochi,Kerala,72,6,20998.90,4,5,5,14,Champion
+C01179,"Rahul Nair",Mumbai,Maharashtra,180,3,20947.09,2,3,5,10,"At Risk"
+C00102,"Ritu Reddy",Bengaluru,Karnataka,84,6,20941.72,4,5,5,14,Champion
+C00477,"Ritu Mishra",Visakhapatnam,"Andhra pradesh",37,5,20932.80,5,5,5,15,Champion
+C01071,"Sneha Sharma",Chennai,"Tamil nadu",51,3,20891.54,5,3,5,13,Regulars
+C00539,"Rahul Basu",Delhi,Delhi,47,6,20852.97,5,5,5,15,Champion
+C00612,"Rahul Mishra",Ahmedabad,Gujarat,77,5,20833.76,4,5,5,14,Champion
+C01495,"Kavya Mukherjee",Delhi,Delhi,71,2,20806.24,4,2,5,11,Regulars
+C00453,"Ria Khan",Chennai,"Tamil nadu",69,8,20802.74,4,5,5,14,Champion
+C00810,"Kabir Kulkarni",Ahmedabad,Gujarat,62,5,20795.18,4,5,5,14,Champion
+C01025,"Aarav Sharma",Ahmedabad,Gujarat,48,8,20792.29,5,5,5,15,Champion
+C00297,"Vikram Mishra",Kochi,Kerala,115,5,20765.10,3,4,5,12,Loyal
+C00766,"Rahul Gupta",Kochi,Kerala,328,1,20761.80,1,1,5,7,"At Risk"
+C01123,"Irfan Patel",Pune,Maharashtra,116,7,20726.85,3,5,5,13,Loyal
+C00663,"Vivaan Singh",Hyderabad,Telangana,81,5,20726.28,4,5,5,14,Champion
+C00513,"Irfan Patel",Mumbai,Maharashtra,119,4,20724.27,3,4,5,12,Loyal
+C00972,"Rohan Mukherjee",Kolkata,"West bengal",72,6,20699.10,4,5,5,14,Champion
+C00285,"Ria Kulkarni",Delhi,Delhi,57,3,20676.92,5,3,5,13,Regulars
+C00361,"Samar Das",Jaipur,Rajasthan,216,5,20644.46,1,4,5,10,"At Risk"
+C00956,"Sanya Mishra",Kochi,Kerala,48,6,20633.14,5,5,5,15,Champion
+C00840,"Neha Nair",Kolkata,"West bengal",63,5,20622.88,4,5,5,14,Champion
+C01574,"Kabir Verma",Chennai,"Tamil nadu",62,5,20605.83,4,5,5,14,Champion
+C00230,"Aditya Singh",Mumbai,Maharashtra,151,7,20588.81,2,5,5,12,"At Risk"
+C00177,"Aarav Iyer",Delhi,Delhi,116,3,20537.46,3,3,5,11,Regulars
+C01362,"Kabir Reddy",Pune,Maharashtra,108,7,20384.57,3,5,5,13,Loyal
+C00423,"Aarav Naidu",Chennai,"Tamil nadu",95,5,20379.79,3,5,5,13,Loyal
+C01291,"Rahul Verma",Hyderabad,Telangana,37,5,20356.83,5,5,5,15,Champion
+C00777,"Samar Rao",Ahmedabad,Gujarat,50,3,20351.89,5,3,5,13,Regulars
+C00627,"Neha Menon",Bengaluru,Karnataka,89,6,20351.82,4,5,5,14,Champion
+C00479,"Ananya Naidu",Mumbai,Maharashtra,42,5,20332.27,5,5,5,15,Champion
+C00833,"Sanya Nair",Hyderabad,Telangana,59,4,20308.37,5,4,5,14,Champion
+C01724,"Vikram Sharma",Delhi,Delhi,63,6,20286.71,4,5,5,14,Champion
+C01604,"Sneha Naidu",Hyderabad,Telangana,104,7,20286.63,3,5,5,13,Loyal
+C00227,"Isha Chowdhury",Ahmedabad,Gujarat,49,4,20194.78,5,4,5,14,Champion
+C01374,"Isha Reddy",Delhi,Delhi,75,5,20106.42,4,5,5,14,Champion
+C00930,"Diya Joshi",Bengaluru,Karnataka,181,4,20080.07,2,4,5,11,"At Risk"
+C01127,"Rahul Menon",Ahmedabad,Gujarat,66,4,20059.81,4,4,5,13,Champion
+C01555,"Aarav Singh",Visakhapatnam,"Andhra pradesh",65,5,20040.59,4,5,5,14,Champion
+C01647,"Kabir Nair",Mumbai,Maharashtra,112,2,20001.97,3,2,5,10,Regulars
+C00431,"Sneha Mukherjee",Pune,Maharashtra,39,6,19976.61,5,5,5,15,Champion
+C01498,"Aditya Nair",Visakhapatnam,"Andhra pradesh",135,6,19958.06,2,5,5,12,"At Risk"
+C01171,"Diya Patel",Chennai,"Tamil nadu",157,5,19952.29,2,4,5,11,"At Risk"
+C00016,"Vivaan Singh",Pune,Maharashtra,97,3,19902.63,3,3,5,11,Regulars
+C01055,"Aarav Singh",Jaipur,Rajasthan,54,4,19900.19,5,4,5,14,Champion
+C01642,"Irfan Sharma",Visakhapatnam,"Andhra pradesh",101,5,19867.01,3,5,5,13,Loyal
+C01791,"Anvi Sharma",Lucknow,"Uttar pradesh",171,4,19864.00,2,4,5,11,"At Risk"
+C00609,"Ria Basu",Hyderabad,Telangana,128,5,19854.21,3,4,5,12,Loyal
+C00183,"Sanya Gupta",Delhi,Delhi,134,4,19851.64,2,4,5,11,"At Risk"
+C01239,"Anvi Menon",Visakhapatnam,"Andhra pradesh",86,5,19792.10,4,5,5,14,Champion
+C01875,"Diya Sharma",Mumbai,Maharashtra,36,6,19780.55,5,5,5,15,Champion
+C01613,"Sneha Chandra",Pune,Maharashtra,134,5,19753.46,2,4,5,11,"At Risk"
+C00465,"Irfan Chandra",Pune,Maharashtra,46,5,19750.57,5,5,5,15,Champion
+C01596,"Sanya Joshi",Visakhapatnam,"Andhra pradesh",98,4,19738.54,3,4,5,12,Loyal
+C01041,"Ria Menon",Ahmedabad,Gujarat,282,3,19722.99,1,2,5,8,"At Risk"
+C01229,"Ria Naidu",Lucknow,"Uttar pradesh",86,5,19713.29,4,5,5,14,Champion
+C00730,"Ria Reddy",Visakhapatnam,"Andhra pradesh",95,6,19671.98,3,5,5,13,Loyal
+C00146,"Rahul Iyer",Jaipur,Rajasthan,275,3,19663.10,1,2,5,8,"At Risk"
+C00600,"Vivaan Sharma",Lucknow,"Uttar pradesh",61,4,19652.41,5,4,5,14,Champion
+C01890,"Sanya Naidu",Lucknow,"Uttar pradesh",89,6,19590.90,4,5,5,14,Champion
+C00359,"Anvi Iyer",Pune,Maharashtra,216,8,19577.02,1,5,5,11,"At Risk"
+C01204,"Isha Verma",Ahmedabad,Gujarat,57,4,19568.24,5,4,5,14,Champion
+C01977,"Kavya Sharma",Kochi,Kerala,137,3,19567.07,2,3,5,10,"At Risk"
+C01778,"Ritu Singh",Kolkata,"West bengal",128,3,19531.44,3,3,5,11,Regulars
+C01690,"Ritu Mukherjee",Lucknow,"Uttar pradesh",135,3,19525.68,2,3,5,10,"At Risk"
+C00579,"Rohan Rao",Hyderabad,Telangana,151,3,19520.41,2,3,4,9,"At Risk"
+C00871,"Irfan Naidu",Bengaluru,Karnataka,216,6,19513.86,1,5,4,10,"At Risk"
+C01529,"Vivaan Menon",Kochi,Kerala,45,6,19502.00,5,5,4,14,Champion
+C01751,"Ritu Kulkarni",Pune,Maharashtra,37,5,19361.73,5,5,4,14,Champion
+C00186,"Isha Khan",Kolkata,"West bengal",144,6,19339.14,2,5,4,11,"At Risk"
+C00756,"Ria Menon",Jaipur,Rajasthan,107,4,19292.35,3,4,4,11,Loyal
+C01821,"Ritu Chowdhury",Kolkata,"West bengal",150,7,19201.53,2,5,4,11,"At Risk"
+C00398,"Isha Sharma",Jaipur,Rajasthan,123,4,19189.34,3,4,4,11,Loyal
+C01098,"Aditya Khan",Mumbai,Maharashtra,41,4,19178.89,5,4,4,13,Champion
+C01663,"Rohan Gupta",Chennai,"Tamil nadu",43,6,19158.56,5,5,4,14,Champion
+C00405,"Isha Sharma",Lucknow,"Uttar pradesh",36,7,19089.49,5,5,4,14,Champion
+C00831,"Diya Mishra",Ahmedabad,Gujarat,63,2,19085.39,4,2,4,10,Regulars
+C01453,"Ritu Khan",Bengaluru,Karnataka,40,5,19079.14,5,5,4,14,Champion
+C00103,"Rohan Verma",Hyderabad,Telangana,49,6,19074.02,5,5,4,14,Champion
+C01147,"Rahul Mishra",Bengaluru,Karnataka,104,4,19060.55,3,4,4,11,Loyal
+C00197,"Aditya Chandra",Chennai,"Tamil nadu",204,6,19060.40,2,5,4,11,"At Risk"
+C01040,"Vivaan Reddy",Kochi,Kerala,66,6,19044.03,4,5,4,13,Champion
+C01173,"Vikram Reddy",Pune,Maharashtra,54,7,19039.95,5,5,4,14,Champion
+C00900,"Samar Basu",Ahmedabad,Gujarat,85,5,19039.37,4,5,4,13,Champion
+C01803,"Vivaan Chandra",Pune,Maharashtra,92,6,19025.45,4,5,4,13,Champion
+C01301,"Irfan Reddy",Kochi,Kerala,144,5,19012.14,2,4,4,10,"At Risk"
+C00073,"Irfan Patel",Lucknow,"Uttar pradesh",136,3,19003.44,2,3,4,9,"At Risk"
+C00786,"Isha Basu",Chennai,"Tamil nadu",37,4,18955.68,5,4,4,13,Champion
+C01162,"Diya Verma",Ahmedabad,Gujarat,52,2,18928.74,5,2,4,11,Regulars
+C01447,"Neha Chandra",Kochi,Kerala,88,6,18924.54,4,5,4,13,Champion
+C00064,"Kabir Khan",Lucknow,"Uttar pradesh",193,3,18910.53,2,2,4,8,"At Risk"
+C00974,"Ria Menon",Delhi,Delhi,36,6,18826.90,5,5,4,14,Champion
+C00761,"Vikram Joshi",Hyderabad,Telangana,111,5,18820.00,3,4,4,11,Loyal
+C01360,"Neha Reddy",Delhi,Delhi,73,3,18805.95,4,3,4,11,Regulars
+C01320,"Samar Das",Bengaluru,Karnataka,42,5,18737.14,5,5,4,14,Champion
+C00854,"Kavya Joshi",Visakhapatnam,"Andhra pradesh",178,5,18713.35,2,4,4,10,"At Risk"
+C01636,"Diya Nair",Ahmedabad,Gujarat,104,2,18707.02,3,2,4,9,Regulars
+C00120,"Samar Verma",Mumbai,Maharashtra,55,4,18686.29,5,4,4,13,Champion
+C01129,"Isha Rao",Visakhapatnam,"Andhra pradesh",65,5,18680.69,4,5,4,13,Champion
+C01330,"Isha Khan",Pune,Maharashtra,164,3,18672.41,2,3,4,9,"At Risk"
+C01958,"Sanya Joshi",Pune,Maharashtra,41,3,18624.02,5,3,4,12,Regulars
+C01911,"Irfan Chowdhury",Ahmedabad,Gujarat,65,4,18615.68,4,4,4,12,Champion
+C01884,"Diya Mishra",Bengaluru,Karnataka,44,4,18567.30,5,4,4,13,Champion
+C00052,"Diya Naidu",Visakhapatnam,"Andhra pradesh",42,3,18557.10,5,3,4,12,Regulars
+C01240,"Vikram Kulkarni",Delhi,Delhi,111,6,18551.03,3,5,4,12,Loyal
+C01392,"Samar Reddy",Mumbai,Maharashtra,44,3,18547.13,5,3,4,12,Regulars
+C00822,"Vikram Chowdhury",Pune,Maharashtra,75,5,18533.49,4,5,4,13,Champion
+C01635,"Isha Kulkarni",Pune,Maharashtra,128,2,18492.58,3,2,4,9,Regulars
+C01722,"Kavya Kulkarni",Chennai,"Tamil nadu",78,3,18417.14,4,3,4,11,Regulars
+C00006,"Ananya Mukherjee",Ahmedabad,Gujarat,222,3,18378.59,1,2,4,7,"At Risk"
+C01248,"Aditya Joshi",Chennai,"Tamil nadu",45,2,18375.21,5,2,4,11,Regulars
+C01729,"Isha Naidu",Ahmedabad,Gujarat,81,6,18371.35,4,5,4,13,Champion
+C01760,"Anvi Kulkarni",Visakhapatnam,"Andhra pradesh",42,5,18321.59,5,5,4,14,Champion
+C00668,"Kabir Reddy",Ahmedabad,Gujarat,67,8,18310.89,4,5,4,13,Champion
+C01995,"Ritu Rao",Mumbai,Maharashtra,85,4,18295.20,4,4,4,12,Champion
+C00724,"Sanya Basu",Visakhapatnam,"Andhra pradesh",98,6,18289.68,3,5,4,12,Loyal
+C01299,"Sneha Joshi",Pune,Maharashtra,149,2,18275.75,2,2,4,8,"At Risk"
+C00828,"Kavya Patel",Lucknow,"Uttar pradesh",83,3,18263.19,4,3,4,11,Regulars
+C00151,"Rohan Singh",Kochi,Kerala,67,5,18220.91,4,5,4,13,Champion
+C00969,"Diya Sharma",Jaipur,Rajasthan,36,6,18138.14,5,5,4,14,Champion
+C00911,"Kabir Verma",Kolkata,"West bengal",59,2,18117.02,5,2,4,11,Regulars
+C00529,"Diya Chandra",Kochi,Kerala,58,5,18069.59,5,5,4,14,Champion
+C01891,"Ananya Verma",Kolkata,"West bengal",122,2,18044.91,3,2,4,9,Regulars
+C00569,"Aarav Basu",Kolkata,"West bengal",58,5,18044.23,5,5,4,14,Champion
+C00811,"Sanya Gupta",Lucknow,"Uttar pradesh",120,5,17926.31,3,4,4,11,Loyal
+C00890,"Aarav Verma",Jaipur,Rajasthan,230,3,17915.21,1,2,4,7,"At Risk"
+C01342,"Ria Menon",Ahmedabad,Gujarat,40,6,17906.96,5,5,4,14,Champion
+C01588,"Anvi Patel",Pune,Maharashtra,44,6,17901.09,5,5,4,14,Champion
+C01416,"Sneha Verma",Kochi,Kerala,51,5,17884.27,5,5,4,14,Champion
+C00710,"Neha Khan",Jaipur,Rajasthan,90,3,17880.55,4,3,4,11,Regulars
+C01164,"Ananya Chandra",Visakhapatnam,"Andhra pradesh",191,4,17870.96,2,3,4,9,"At Risk"
+C01888,"Rahul Menon",Bengaluru,Karnataka,123,4,17870.03,3,4,4,11,Loyal
+C01028,"Samar Rao",Kochi,Kerala,37,4,17846.80,5,4,4,13,Champion
+C00355,"Rohan Basu",Delhi,Delhi,150,4,17742.00,2,4,4,10,"At Risk"
+C01220,"Anvi Mishra",Bengaluru,Karnataka,37,6,17737.05,5,5,4,14,Champion
+C00107,"Isha Mukherjee",Bengaluru,Karnataka,116,4,17679.34,3,4,4,11,Loyal
+C01176,"Vikram Patel",Jaipur,Rajasthan,59,4,17673.89,5,4,4,13,Champion
+C01930,"Anvi Menon",Chennai,"Tamil nadu",306,2,17660.97,1,1,4,6,"At Risk"
+C01560,"Vivaan Basu",Chennai,"Tamil nadu",95,4,17658.99,3,4,4,11,Loyal
+C01383,"Samar Joshi",Ahmedabad,Gujarat,85,3,17646.61,4,3,4,11,Regulars
+C01581,"Aditya Mukherjee",Delhi,Delhi,46,4,17622.97,5,4,4,13,Champion
+C01217,"Aisha Khan",Kochi,Kerala,92,4,17614.87,4,4,4,12,Champion
+C01699,"Neha Iyer",Visakhapatnam,"Andhra pradesh",258,1,17610.88,1,1,4,6,"At Risk"
+C00247,"Aditya Nair",Hyderabad,Telangana,42,3,17598.51,5,3,4,12,Regulars
+C00679,"Diya Khan",Jaipur,Rajasthan,329,4,17592.20,1,3,4,8,"At Risk"
+C00041,"Kabir Naidu",Lucknow,"Uttar pradesh",183,4,17529.11,2,4,4,10,"At Risk"
+C00562,"Vikram Khan",Pune,Maharashtra,49,5,17522.78,5,5,4,14,Champion
+C00339,"Kavya Chandra",Kolkata,"West bengal",73,5,17518.69,4,5,4,13,Champion
+C01639,"Anvi Rao",Mumbai,Maharashtra,100,6,17502.15,3,5,4,12,Loyal
+C00722,"Kabir Chowdhury",Lucknow,"Uttar pradesh",97,3,17480.21,3,3,4,10,Regulars
+C00672,"Kavya Nair",Pune,Maharashtra,56,5,17457.50,5,5,4,14,Champion
+C00718,"Ria Nair",Kochi,Kerala,45,7,17428.76,5,5,4,14,Champion
+C00941,"Samar Sharma",Ahmedabad,Gujarat,344,3,17396.62,1,2,4,7,"At Risk"
+C00713,"Isha Chowdhury",Mumbai,Maharashtra,53,6,17395.67,5,5,4,14,Champion
+C01552,"Kabir Singh",Ahmedabad,Gujarat,66,3,17380.15,4,3,4,11,Regulars
+C01340,"Anvi Nair",Mumbai,Maharashtra,57,3,17377.61,5,3,4,12,Regulars
+C01452,"Kabir Basu",Pune,Maharashtra,170,5,17374.79,2,4,4,10,"At Risk"
+C00027,"Vikram Singh",Hyderabad,Telangana,84,4,17343.11,4,4,4,12,Champion
+C00688,"Vivaan Patel",Jaipur,Rajasthan,87,9,17333.74,4,5,4,13,Champion
+C00429,"Rahul Khan",Jaipur,Rajasthan,106,6,17306.46,3,5,4,12,Loyal
+C01654,"Samar Gupta",Delhi,Delhi,125,2,17279.97,3,2,4,9,Regulars
+C00271,"Kavya Reddy",Bengaluru,Karnataka,65,8,17257.08,4,5,4,13,Champion
+C01587,"Irfan Reddy",Mumbai,Maharashtra,93,4,17222.48,3,4,4,11,Loyal
+C00360,"Neha Singh",Kochi,Kerala,76,4,17217.42,4,4,4,12,Champion
+C01067,"Kabir Khan",Delhi,Delhi,84,7,17214.32,4,5,4,13,Champion
+C00024,"Kabir Reddy",Mumbai,Maharashtra,152,4,17207.25,2,4,4,10,"At Risk"
+C01225,"Kabir Verma",Jaipur,Rajasthan,137,6,17201.64,2,5,4,11,"At Risk"
+C01317,"Diya Kulkarni",Kolkata,"West bengal",128,7,17182.13,3,5,4,12,Loyal
+C00305,"Anvi Rao",Lucknow,"Uttar pradesh",95,5,17180.80,3,5,4,12,Loyal
+C00340,"Kabir Mukherjee",Bengaluru,Karnataka,113,5,17177.24,3,4,4,11,Loyal
+C00270,"Sneha Kulkarni",Kochi,Kerala,62,4,17175.35,4,4,4,12,Champion
+C01797,"Rahul Iyer",Pune,Maharashtra,123,5,17138.28,3,4,4,11,Loyal
+C01666,"Neha Iyer",Pune,Maharashtra,50,5,17136.70,5,5,4,14,Champion
+C00467,"Ria Das",Hyderabad,Telangana,52,5,17098.64,5,5,4,14,Champion
+C00606,"Aarav Iyer",Jaipur,Rajasthan,94,5,17074.59,3,5,4,12,Loyal
+C00715,"Ritu Gupta",Chennai,"Tamil nadu",105,4,17069.92,3,4,4,11,Loyal
+C01335,"Aditya Kulkarni",Kochi,Kerala,183,3,17069.78,2,3,4,9,"At Risk"
+C00771,"Vivaan Mukherjee",Kolkata,"West bengal",71,5,17023.36,4,5,4,13,Champion
+C01857,"Sneha Mishra",Jaipur,Rajasthan,112,3,17010.71,3,3,4,10,Regulars
+C00211,"Rohan Menon",Jaipur,Rajasthan,39,6,16966.39,5,5,4,14,Champion
+C01513,"Ananya Naidu",Mumbai,Maharashtra,66,6,16955.81,4,5,4,13,Champion
+C00577,"Kavya Reddy",Chennai,"Tamil nadu",42,6,16939.58,5,5,4,14,Champion
+C01675,"Irfan Sharma",Hyderabad,Telangana,71,7,16937.08,4,5,4,13,Champion
+C00747,"Rahul Nair",Chennai,"Tamil nadu",40,2,16918.18,5,2,4,11,Regulars
+C00130,"Diya Nair",Ahmedabad,Gujarat,62,3,16869.47,4,3,4,11,Regulars
+C00806,"Ria Basu",Kochi,Kerala,213,6,16865.07,1,5,4,10,"At Risk"
+C00816,"Isha Mukherjee",Bengaluru,Karnataka,52,3,16819.85,5,3,4,12,Regulars
+C00460,"Isha Das",Mumbai,Maharashtra,74,4,16786.21,4,4,4,12,Champion
+C01989,"Anvi Das",Lucknow,"Uttar pradesh",110,6,16763.16,3,5,4,12,Loyal
+C00918,"Aarav Mukherjee",Jaipur,Rajasthan,83,5,16745.12,4,5,4,13,Champion
+C01306,"Isha Mukherjee",Hyderabad,Telangana,49,3,16743.58,5,3,4,12,Regulars
+C01170,"Aarav Verma",Visakhapatnam,"Andhra pradesh",56,4,16738.50,5,4,4,13,Champion
+C01608,"Ritu Chowdhury",Bengaluru,Karnataka,142,4,16726.16,2,4,4,10,"At Risk"
+C01113,"Ria Nair",Kolkata,"West bengal",111,5,16718.55,3,4,4,11,Loyal
+C00615,"Irfan Sharma",Pune,Maharashtra,67,7,16676.70,4,5,4,13,Champion
+C00193,"Aarav Nair",Hyderabad,Telangana,48,5,16671.88,5,5,4,14,Champion
+C01865,"Kabir Das",Delhi,Delhi,103,6,16590.12,3,5,4,12,Loyal
+C00059,"Vivaan Das",Bengaluru,Karnataka,164,3,16585.84,2,3,4,9,"At Risk"
+C01517,"Vikram Naidu",Delhi,Delhi,69,4,16580.73,4,4,4,12,Champion
+C00675,"Neha Reddy",Ahmedabad,Gujarat,42,6,16528.54,5,5,4,14,Champion
+C01634,"Vikram Iyer",Kochi,Kerala,85,2,16490.85,4,2,4,10,Regulars
+C00521,"Aisha Sharma",Lucknow,"Uttar pradesh",48,4,16470.77,5,4,4,13,Champion
+C00824,"Ritu Reddy",Jaipur,Rajasthan,131,5,16465.61,3,4,4,11,Loyal
+C00169,"Isha Menon",Mumbai,Maharashtra,101,4,16378.55,3,4,4,11,Loyal
+C00967,"Diya Joshi",Chennai,"Tamil nadu",248,1,16326.54,1,1,4,6,"At Risk"
+C01570,"Kavya Gupta",Kochi,Kerala,98,6,16325.58,3,5,4,12,Loyal
+C01080,"Anvi Basu",Delhi,Delhi,88,3,16324.00,4,3,4,11,Regulars
+C01754,"Rahul Menon",Mumbai,Maharashtra,63,5,16321.72,4,5,4,13,Champion
+C01936,"Vivaan Mukherjee",Jaipur,Rajasthan,88,6,16303.51,4,5,4,13,Champion
+C00391,"Aisha Khan",Visakhapatnam,"Andhra pradesh",45,4,16300.22,5,4,4,13,Champion
+C00697,"Sanya Verma",Visakhapatnam,"Andhra pradesh",67,3,16275.48,4,3,4,11,Regulars
+C00084,"Ria Singh",Kochi,Kerala,147,3,16272.22,2,3,4,9,"At Risk"
+C00473,"Diya Iyer",Chennai,"Tamil nadu",266,3,16253.89,1,2,4,7,"At Risk"
+C00616,"Aditya Mukherjee",Kochi,Kerala,174,5,16202.59,2,4,4,10,"At Risk"
+C00309,"Vivaan Mishra",Mumbai,Maharashtra,94,3,16168.62,3,3,4,10,Regulars
+C01968,"Diya Chandra",Pune,Maharashtra,52,6,16167.48,5,5,4,14,Champion
+C01978,"Irfan Kulkarni",Kolkata,"West bengal",132,6,16161.38,3,5,4,12,Loyal
+C00286,"Ria Joshi",Kolkata,"West bengal",91,4,16147.11,4,4,4,12,Champion
+C01483,"Aditya Menon",Kolkata,"West bengal",45,4,16140.04,5,4,4,13,Champion
+C00703,"Aditya Gupta",Ahmedabad,Gujarat,82,6,16121.40,4,5,4,13,Champion
+C00899,"Rohan Naidu",Kolkata,"West bengal",97,4,16096.05,3,4,4,11,Loyal
+C00256,"Aarav Nair",Ahmedabad,Gujarat,77,4,16089.18,4,4,4,12,Champion
+C01355,"Aditya Iyer",Chennai,"Tamil nadu",124,4,16070.26,3,4,4,11,Loyal
+C00280,"Isha Basu",Bengaluru,Karnataka,127,3,16064.93,3,3,4,10,Regulars
+C01893,"Neha Khan",Ahmedabad,Gujarat,36,6,16049.83,5,5,4,14,Champion
+C01556,"Neha Mukherjee",Jaipur,Rajasthan,41,5,16037.30,5,5,4,14,Champion
+C00114,"Ananya Mishra",Ahmedabad,Gujarat,68,3,16010.66,4,3,4,11,Regulars
+C01514,"Aditya Mukherjee",Jaipur,Rajasthan,213,4,15936.10,1,3,4,8,"At Risk"
+C01056,"Anvi Nair",Visakhapatnam,"Andhra pradesh",133,4,15926.98,3,4,4,11,Loyal
+C00886,"Rohan Basu",Delhi,Delhi,153,5,15898.21,2,4,4,10,"At Risk"
+C01309,"Kavya Joshi",Kolkata,"West bengal",151,5,15892.79,2,4,4,10,"At Risk"
+C00057,"Anvi Menon",Mumbai,Maharashtra,146,3,15856.08,2,3,4,9,"At Risk"
+C00759,"Ria Menon",Chennai,"Tamil nadu",62,3,15852.97,4,3,4,11,Regulars
+C00162,"Ria Patel",Mumbai,Maharashtra,45,7,15845.21,5,5,4,14,Champion
+C00622,"Isha Gupta",Jaipur,Rajasthan,112,3,15832.54,3,3,4,10,Regulars
+C00163,"Vikram Menon",Ahmedabad,Gujarat,54,8,15831.06,5,5,4,14,Champion
+C00019,"Ritu Mukherjee",Hyderabad,Telangana,144,4,15828.34,2,4,4,10,"At Risk"
+C00864,"Ritu Reddy",Chennai,"Tamil nadu",88,3,15828.06,4,3,4,11,Regulars
+C01932,"Kabir Iyer",Mumbai,Maharashtra,99,5,15825.94,3,5,4,12,Loyal
+C01520,"Sneha Naidu",Kochi,Kerala,48,4,15818.73,5,4,4,13,Champion
+C00741,"Ananya Iyer",Chennai,"Tamil nadu",131,4,15816.90,3,4,4,11,Loyal
+C01451,"Sneha Naidu",Pune,Maharashtra,74,5,15800.18,4,5,4,13,Champion
+C01695,"Neha Chandra",Kochi,Kerala,87,4,15685.77,4,4,4,12,Champion
+C01265,"Rahul Gupta",Delhi,Delhi,43,4,15651.97,5,4,4,13,Champion
+C01874,"Sneha Khan",Pune,Maharashtra,145,4,15634.10,2,4,4,10,"At Risk"
+C00778,"Neha Rao",Lucknow,"Uttar pradesh",75,3,15602.97,4,3,4,11,Regulars
+C00873,"Sneha Verma",Hyderabad,Telangana,43,5,15556.96,5,5,4,14,Champion
+C01505,"Rohan Singh",Kochi,Kerala,38,5,15545.04,5,5,4,14,Champion
+C00001,"Ananya Singh",Hyderabad,Telangana,324,1,15526.80,1,1,4,6,"At Risk"
+C01826,"Ria Kulkarni",Chennai,"Tamil nadu",96,4,15524.90,3,4,4,11,Loyal
+C01476,"Sanya Singh",Delhi,Delhi,76,3,15510.50,4,3,4,11,Regulars
+C00775,"Ria Joshi",Jaipur,Rajasthan,40,3,15482.78,5,3,4,12,Regulars
+C01986,"Rohan Iyer",Jaipur,Rajasthan,149,5,15471.06,2,4,4,10,"At Risk"
+C01010,"Kavya Mukherjee",Delhi,Delhi,308,3,15457.70,1,2,4,7,"At Risk"
+C00281,"Aisha Chowdhury",Delhi,Delhi,194,3,15450.70,2,2,4,8,"At Risk"
+C00947,"Vikram Menon",Bengaluru,Karnataka,239,3,15450.05,1,2,4,7,"At Risk"
+C01961,"Samar Nair",Delhi,Delhi,199,3,15416.82,2,2,4,8,"At Risk"
+C01433,"Ananya Joshi",Chennai,"Tamil nadu",37,5,15412.21,5,5,4,14,Champion
+C01567,"Vikram Gupta",Chennai,"Tamil nadu",64,5,15409.67,4,5,4,13,Champion
+C01786,"Sneha Gupta",Kolkata,"West bengal",46,4,15385.36,5,4,4,13,Champion
+C00774,"Rohan Joshi",Mumbai,Maharashtra,87,3,15383.74,4,3,4,11,Regulars
+C01213,"Samar Kulkarni",Kolkata,"West bengal",99,4,15370.06,3,4,4,11,Loyal
+C01115,"Samar Rao",Lucknow,"Uttar pradesh",59,4,15363.19,5,4,4,13,Champion
+C00820,"Vikram Khan",Visakhapatnam,"Andhra pradesh",117,3,15338.69,3,3,4,10,Regulars
+C00797,"Isha Sharma",Jaipur,Rajasthan,125,5,15301.15,3,4,4,11,Loyal
+C00844,"Rohan Chowdhury",Hyderabad,Telangana,167,6,15285.95,2,5,4,11,"At Risk"
+C00666,"Vivaan Verma",Ahmedabad,Gujarat,89,6,15284.77,4,5,4,13,Champion
+C01745,"Vivaan Singh",Lucknow,"Uttar pradesh",179,3,15281.47,2,3,4,9,"At Risk"
+C00739,"Sneha Chowdhury",Mumbai,Maharashtra,39,4,15279.88,5,4,4,13,Champion
+C01801,"Sanya Rao",Kochi,Kerala,83,3,15241.49,4,3,4,11,Regulars
+C01491,"Samar Menon",Pune,Maharashtra,42,3,15228.83,5,3,4,12,Regulars
+C01528,"Aisha Nair",Kochi,Kerala,40,6,15226.00,5,5,4,14,Champion
+C00402,"Neha Rao",Delhi,Delhi,127,4,15223.44,3,4,4,11,Loyal
+C01366,"Vivaan Gupta",Mumbai,Maharashtra,221,5,15203.99,1,4,4,9,"At Risk"
+C00389,"Isha Mukherjee",Bengaluru,Karnataka,76,4,15190.23,4,4,4,12,Champion
+C00370,"Vivaan Iyer",Chennai,"Tamil nadu",77,5,15180.18,4,5,4,13,Champion
+C01509,"Kabir Kulkarni",Hyderabad,Telangana,62,7,15179.46,4,5,4,13,Champion
+C01734,"Isha Verma",Lucknow,"Uttar pradesh",41,3,15157.87,5,3,4,12,Regulars
+C00062,"Sneha Kulkarni",Kochi,Kerala,48,6,15157.29,5,5,4,14,Champion
+C00728,"Aarav Khan",Bengaluru,Karnataka,68,5,15157.21,4,5,4,13,Champion
+C00239,"Ria Reddy",Kochi,Kerala,178,4,15139.17,2,4,4,10,"At Risk"
+C00287,"Ritu Nair",Lucknow,"Uttar pradesh",97,2,15134.51,3,2,4,9,Regulars
+C00653,"Aisha Naidu",Visakhapatnam,"Andhra pradesh",43,6,15133.90,5,5,4,14,Champion
+C01327,"Ria Singh",Hyderabad,Telangana,110,3,15127.80,3,3,4,10,Regulars
+C01131,"Kavya Mukherjee",Ahmedabad,Gujarat,161,5,15124.08,2,4,4,10,"At Risk"
+C01563,"Irfan Chowdhury",Lucknow,"Uttar pradesh",45,5,15093.12,5,5,4,14,Champion
+C00915,"Ananya Gupta",Lucknow,"Uttar pradesh",229,3,15082.23,1,2,4,7,"At Risk"
+C01387,"Rohan Mukherjee",Kochi,Kerala,102,5,15077.41,3,5,4,12,Loyal
+C00560,"Aditya Singh",Ahmedabad,Gujarat,87,5,14937.26,4,5,4,13,Champion
+C01855,"Aisha Verma",Mumbai,Maharashtra,121,4,14934.53,3,4,4,11,Loyal
+C01151,"Ria Chowdhury",Hyderabad,Telangana,67,4,14926.78,4,4,4,12,Champion
+C01976,"Aarav Naidu",Bengaluru,Karnataka,78,3,14918.05,4,3,4,11,Regulars
+C00374,"Aarav Patel",Lucknow,"Uttar pradesh",93,3,14890.21,3,3,4,10,Regulars
+C01238,"Anvi Basu",Mumbai,Maharashtra,173,6,14859.81,2,5,4,11,"At Risk"
+C01946,"Irfan Sharma",Kolkata,"West bengal",38,4,14849.72,5,4,4,13,Champion
+C01284,"Neha Khan",Pune,Maharashtra,268,4,14849.41,1,3,4,8,"At Risk"
+C00028,"Aditya Khan",Pune,Maharashtra,124,2,14848.32,3,2,4,9,Regulars
+C00315,"Aisha Joshi",Visakhapatnam,"Andhra pradesh",226,2,14830.78,1,2,4,7,"At Risk"
+C01537,"Sneha Mishra",Delhi,Delhi,69,4,14805.59,4,4,4,12,Champion
+C00420,"Isha Menon",Hyderabad,Telangana,96,3,14793.74,3,3,4,10,Regulars
+C01285,"Ananya Mishra",Kolkata,"West bengal",51,5,14782.51,5,5,4,14,Champion
+C00856,"Ria Reddy",Chennai,"Tamil nadu",134,4,14778.73,2,4,4,10,"At Risk"
+C01390,"Aarav Mukherjee",Delhi,Delhi,138,3,14758.54,2,3,4,9,"At Risk"
+C00200,"Samar Naidu",Chennai,"Tamil nadu",166,4,14755.44,2,4,4,10,"At Risk"
+C01124,"Sanya Gupta",Kochi,Kerala,54,6,14730.14,5,5,4,14,Champion
+C01955,"Ananya Menon",Ahmedabad,Gujarat,91,2,14698.73,4,2,4,10,Regulars
+C01721,"Kabir Joshi",Pune,Maharashtra,296,3,14691.64,1,2,4,7,"At Risk"
+C01903,"Ananya Mukherjee",Visakhapatnam,"Andhra pradesh",61,4,14646.12,4,4,4,12,Champion
+C00314,"Sanya Patel",Jaipur,Rajasthan,75,4,14644.11,4,4,4,12,Champion
+C00161,"Ria Das",Visakhapatnam,"Andhra pradesh",86,4,14643.42,4,4,4,12,Champion
+C01251,"Vivaan Iyer",Pune,Maharashtra,174,3,14643.32,2,3,4,9,"At Risk"
+C00462,"Ria Gupta",Jaipur,Rajasthan,122,3,14629.68,3,3,4,10,Regulars
+C01348,"Irfan Joshi",Kolkata,"West bengal",92,5,14598.59,4,5,4,13,Champion
+C01419,"Ananya Menon",Jaipur,Rajasthan,74,6,14538.00,4,5,4,13,Champion
+C00174,"Vivaan Kulkarni",Chennai,"Tamil nadu",78,6,14534.34,4,5,4,13,Champion
+C00946,"Isha Iyer",Ahmedabad,Gujarat,49,5,14506.75,5,5,4,14,Champion
+C01525,"Diya Das",Visakhapatnam,"Andhra pradesh",160,5,14494.22,2,4,4,10,"At Risk"
+C00433,"Samar Basu",Bengaluru,Karnataka,254,3,14449.77,1,2,4,7,"At Risk"
+C00776,"Ritu Chowdhury",Bengaluru,Karnataka,55,1,14412.24,5,1,4,10,Regulars
+C01982,"Ria Chowdhury",Kolkata,"West bengal",81,6,14404.39,4,5,4,13,Champion
+C01625,"Aditya Iyer",Ahmedabad,Gujarat,85,3,14397.35,4,3,4,11,Regulars
+C00045,"Kabir Verma",Jaipur,Rajasthan,71,4,14356.26,4,4,4,12,Champion
+C00920,"Aarav Menon",Jaipur,Rajasthan,67,5,14354.17,4,5,4,13,Champion
+C01593,"Vikram Basu",Chennai,"Tamil nadu",80,2,14335.37,4,2,4,10,Regulars
+C01524,"Vikram Singh",Bengaluru,Karnataka,86,2,14298.48,4,2,4,10,Regulars
+C01344,"Aditya Patel",Hyderabad,Telangana,55,5,14290.63,5,5,4,14,Champion
+C01139,"Isha Verma",Lucknow,"Uttar pradesh",48,6,14281.36,5,5,4,14,Champion
+C00113,"Sneha Khan",Ahmedabad,Gujarat,49,4,14259.93,5,4,4,13,Champion
+C01929,"Aarav Iyer",Lucknow,"Uttar pradesh",48,4,14248.19,5,4,4,13,Champion
+C00581,"Rohan Chandra",Mumbai,Maharashtra,45,3,14246.57,5,3,4,12,Regulars
+C00812,"Rohan Reddy",Pune,Maharashtra,159,5,14233.21,2,4,4,10,"At Risk"
+C01068,"Rohan Iyer",Visakhapatnam,"Andhra pradesh",182,6,14217.38,2,5,4,11,"At Risk"
+C01253,"Isha Nair",Chennai,"Tamil nadu",261,2,14168.54,1,1,4,6,"At Risk"
+C01242,"Aditya Das",Kolkata,"West bengal",154,4,14159.68,2,4,4,10,"At Risk"
+C01221,"Ritu Sharma",Ahmedabad,Gujarat,41,4,14137.17,5,4,4,13,Champion
+C01516,"Aditya Singh",Mumbai,Maharashtra,68,5,14128.55,4,5,4,13,Champion
+C01589,"Ritu Patel",Kochi,Kerala,78,4,14120.94,4,4,4,12,Champion
+C01714,"Isha Chandra",Lucknow,"Uttar pradesh",130,2,14118.40,3,2,4,9,Regulars
+C01077,"Isha Basu",Chennai,"Tamil nadu",89,4,14118.20,4,4,4,12,Champion
+C00829,"Isha Kulkarni",Ahmedabad,Gujarat,59,5,14106.92,5,5,4,14,Champion
+C01837,"Vivaan Kulkarni",Visakhapatnam,"Andhra pradesh",54,3,14105.88,5,3,4,12,Regulars
+C01969,"Rohan Mukherjee",Visakhapatnam,"Andhra pradesh",146,4,14090.72,2,4,4,10,"At Risk"
+C00838,"Neha Basu",Hyderabad,Telangana,145,3,14089.91,2,3,4,9,"At Risk"
+C01279,"Ria Iyer",Chennai,"Tamil nadu",121,4,14063.49,3,4,4,11,Loyal
+C01218,"Kavya Menon",Kochi,Kerala,112,4,14060.09,3,4,4,11,Loyal
+C00244,"Vikram Kulkarni",Kolkata,"West bengal",74,6,14055.09,4,5,4,13,Champion
+C00456,"Diya Joshi",Lucknow,"Uttar pradesh",76,5,14046.32,4,5,4,13,Champion
+C01117,"Sneha Basu",Lucknow,"Uttar pradesh",36,6,14033.44,5,5,4,14,Champion
+C00181,"Kavya Naidu",Pune,Maharashtra,75,2,14025.97,4,2,4,10,Regulars
+C00375,"Aisha Iyer",Jaipur,Rajasthan,104,3,14001.06,3,3,4,10,Regulars
+C01394,"Rohan Rao",Mumbai,Maharashtra,85,6,13959.68,4,5,4,13,Champion
+C00935,"Isha Rao",Bengaluru,Karnataka,66,5,13956.69,4,5,4,13,Champion
+C01942,"Aditya Kulkarni",Lucknow,"Uttar pradesh",114,5,13926.22,3,4,4,11,Loyal
+C00986,"Aarav Das",Bengaluru,Karnataka,62,6,13908.33,4,5,4,13,Champion
+C00246,"Aisha Reddy",Bengaluru,Karnataka,137,4,13883.57,2,4,4,10,"At Risk"
+C01800,"Irfan Das",Pune,Maharashtra,129,5,13880.19,3,4,4,11,Loyal
+C00348,"Ananya Chowdhury",Kochi,Kerala,80,4,13871.35,4,4,4,12,Champion
+C01431,"Kavya Mukherjee",Chennai,"Tamil nadu",298,3,13867.63,1,2,4,7,"At Risk"
+C01655,"Ritu Kulkarni",Mumbai,Maharashtra,265,3,13863.95,1,2,4,7,"At Risk"
+C00044,"Rohan Nair",Lucknow,"Uttar pradesh",263,4,13855.95,1,3,4,8,"At Risk"
+C01808,"Samar Kulkarni",Pune,Maharashtra,63,5,13837.71,4,5,4,13,Champion
+C01191,"Neha Chowdhury",Hyderabad,Telangana,151,6,13826.58,2,5,4,11,"At Risk"
+C01904,"Aarav Iyer",Jaipur,Rajasthan,109,4,13812.56,3,4,4,11,Loyal
+C01247,"Sneha Sharma",Visakhapatnam,"Andhra pradesh",49,5,13801.80,5,5,4,14,Champion
+C01620,"Kavya Nair",Visakhapatnam,"Andhra pradesh",223,3,13779.97,1,2,4,7,"At Risk"
+C01487,"Aisha Reddy",Lucknow,"Uttar pradesh",63,5,13775.86,4,5,4,13,Champion
+C00123,"Vikram Mishra",Visakhapatnam,"Andhra pradesh",43,6,13771.20,5,5,4,14,Champion
+C00660,"Samar Rao",Delhi,Delhi,48,4,13741.73,5,4,4,13,Champion
+C01519,"Kabir Sharma",Delhi,Delhi,256,4,13731.28,1,3,4,8,"At Risk"
+C01405,"Isha Naidu",Mumbai,Maharashtra,52,5,13708.43,5,5,4,14,Champion
+C01287,"Isha Iyer",Hyderabad,Telangana,43,3,13706.45,5,3,4,12,Regulars
+C01413,"Anvi Sharma",Mumbai,Maharashtra,244,2,13688.98,1,1,4,6,"At Risk"
+C01418,"Ritu Chowdhury",Kolkata,"West bengal",42,5,13688.43,5,5,4,14,Champion
+C01841,"Rohan Naidu",Ahmedabad,Gujarat,77,5,13666.61,4,5,4,13,Champion
+C01671,"Isha Singh",Jaipur,Rajasthan,60,3,13649.01,5,3,4,12,Regulars
+C00233,"Aisha Patel",Delhi,Delhi,153,3,13626.61,2,3,4,9,"At Risk"
+C01007,"Samar Kulkarni",Lucknow,"Uttar pradesh",72,6,13620.63,4,5,4,13,Champion
+C01026,"Rahul Gupta",Bengaluru,Karnataka,243,4,13610.62,1,3,4,8,"At Risk"
+C01739,"Sneha Mukherjee",Pune,Maharashtra,81,3,13598.92,4,3,4,11,Regulars
+C01391,"Kavya Reddy",Jaipur,Rajasthan,68,4,13598.61,4,4,4,12,Champion
+C00634,"Aarav Basu",Hyderabad,Telangana,220,2,13586.91,1,2,4,7,"At Risk"
+C01864,"Kabir Chandra",Hyderabad,Telangana,131,3,13579.90,3,3,4,10,Regulars
+C01987,"Kavya Verma",Lucknow,"Uttar pradesh",41,5,13575.02,5,5,4,14,Champion
+C00954,"Kabir Naidu",Kolkata,"West bengal",205,2,13560.50,2,2,4,8,"At Risk"
+C01262,"Anvi Chandra",Jaipur,Rajasthan,52,5,13540.29,5,5,4,14,Champion
+C00122,"Ria Verma",Mumbai,Maharashtra,93,5,13539.51,4,5,4,13,Champion
+C01624,"Irfan Kulkarni",Lucknow,"Uttar pradesh",150,4,13476.03,2,4,4,10,"At Risk"
+C00445,"Rahul Khan",Pune,Maharashtra,46,5,13452.82,5,5,4,14,Champion
+C01730,"Vikram Chandra",Pune,Maharashtra,174,5,13412.45,2,4,4,10,"At Risk"
+C00988,"Rohan Menon",Kochi,Kerala,72,5,13401.54,4,5,4,13,Champion
+C00522,"Rahul Das",Kolkata,"West bengal",94,5,13390.10,3,5,4,12,Loyal
+C00860,"Sneha Sharma",Pune,Maharashtra,76,5,13389.90,4,5,4,13,Champion
+C00234,"Aditya Basu",Kochi,Kerala,123,2,13387.61,3,2,4,9,Regulars
+C01230,"Ananya Rao",Ahmedabad,Gujarat,66,3,13385.50,4,3,4,11,Regulars
+C01806,"Diya Mukherjee",Lucknow,"Uttar pradesh",111,5,13379.55,3,4,4,11,Loyal
+C00908,"Rohan Gupta",Visakhapatnam,"Andhra pradesh",111,3,13329.78,3,3,4,10,Regulars
+C01469,"Diya Reddy",Lucknow,"Uttar pradesh",52,4,13314.69,5,4,4,13,Champion
+C01879,"Kabir Chowdhury",Lucknow,"Uttar pradesh",189,4,13313.80,2,3,4,9,"At Risk"
+C01479,"Kabir Nair",Pune,Maharashtra,40,4,13306.07,5,4,4,13,Champion
+C01814,"Samar Iyer",Jaipur,Rajasthan,111,3,13297.11,3,3,4,10,Regulars
+C00563,"Anvi Patel",Chennai,"Tamil nadu",42,3,13212.84,5,3,4,12,Regulars
+C00369,"Kabir Chowdhury",Delhi,Delhi,173,4,13204.52,2,4,4,10,"At Risk"
+C00218,"Aisha Mishra",Kochi,Kerala,103,5,13201.75,3,5,4,12,Loyal
+C00510,"Rahul Verma",Chennai,"Tamil nadu",111,3,13194.86,3,3,4,10,Regulars
+C00406,"Rahul Kulkarni",Jaipur,Rajasthan,85,4,13173.05,4,4,4,12,Champion
+C00488,"Vikram Chandra",Kochi,Kerala,111,3,13168.54,3,3,4,10,Regulars
+C00082,"Sanya Naidu",Kolkata,"West bengal",54,5,13158.06,5,5,4,14,Champion
+C00827,"Sneha Sharma",Hyderabad,Telangana,183,4,13146.60,2,4,4,10,"At Risk"
+C01916,"Aisha Khan",Delhi,Delhi,211,3,13142.88,2,2,4,8,"At Risk"
+C00404,"Aarav Mukherjee",Chennai,"Tamil nadu",107,3,13122.49,3,3,4,10,Regulars
+C00732,"Vikram Nair",Delhi,Delhi,127,5,13077.79,3,4,4,11,Loyal
+C00565,"Irfan Naidu",Visakhapatnam,"Andhra pradesh",98,3,13072.83,3,3,4,10,Regulars
+C01096,"Neha Reddy",Kolkata,"West bengal",71,4,13068.04,4,4,4,12,Champion
+C01364,"Isha Iyer",Mumbai,Maharashtra,156,4,13065.81,2,4,4,10,"At Risk"
+C01815,"Rahul Basu",Mumbai,Maharashtra,173,3,13061.33,2,3,4,9,"At Risk"
+C00235,"Vikram Basu",Kochi,Kerala,71,4,13053.38,4,4,4,12,Champion
+C00124,"Diya Naidu",Kochi,Kerala,122,3,13043.12,3,3,4,10,Regulars
+C00590,"Rahul Patel",Hyderabad,Telangana,36,5,13024.08,5,5,4,14,Champion
+C01658,"Anvi Chandra",Jaipur,Rajasthan,40,5,12994.96,5,5,4,14,Champion
+C01985,"Ritu Basu",Mumbai,Maharashtra,47,5,12992.49,5,5,4,14,Champion
+C00333,"Vivaan Mishra",Visakhapatnam,"Andhra pradesh",105,4,12977.75,3,4,4,11,Loyal
+C00855,"Aditya Reddy",Kolkata,"West bengal",168,5,12964.54,2,4,4,10,"At Risk"
+C01101,"Isha Mukherjee",Kochi,Kerala,52,3,12957.68,5,3,4,12,Regulars
+C00975,"Irfan Gupta",Kolkata,"West bengal",44,5,12954.14,5,5,4,14,Champion
+C01565,"Aarav Iyer",Hyderabad,Telangana,48,3,12952.25,5,3,4,12,Regulars
+C01548,"Irfan Menon",Hyderabad,Telangana,45,4,12935.92,5,4,4,13,Champion
+C00964,"Sanya Verma",Hyderabad,Telangana,162,4,12927.46,2,4,4,10,"At Risk"
+C01892,"Ritu Mishra",Chennai,"Tamil nadu",246,1,12918.16,1,1,4,6,"At Risk"
+C00347,"Isha Chowdhury",Jaipur,Rajasthan,49,5,12917.98,5,5,4,14,Champion
+C00191,"Aisha Nair",Delhi,Delhi,45,5,12916.75,5,5,4,14,Champion
+C00366,"Ritu Patel",Lucknow,"Uttar pradesh",73,4,12851.07,4,4,4,12,Champion
+C00642,"Vivaan Verma",Bengaluru,Karnataka,43,4,12848.23,5,4,4,13,Champion
+C00447,"Diya Patel",Hyderabad,Telangana,47,3,12842.66,5,3,4,12,Regulars
+C00700,"Diya Chowdhury",Lucknow,"Uttar pradesh",40,3,12821.00,5,3,4,12,Regulars
+C00231,"Samar Rao",Hyderabad,Telangana,58,5,12797.71,5,5,4,14,Champion
+C00869,"Rohan Rao",Kochi,Kerala,47,6,12787.01,5,5,4,14,Champion
+C01927,"Diya Basu",Jaipur,Rajasthan,115,5,12786.12,3,4,4,11,Loyal
+C00054,"Kavya Gupta",Kolkata,"West bengal",156,2,12782.63,2,2,4,8,"At Risk"
+C00508,"Ananya Sharma",Jaipur,Rajasthan,72,3,12780.58,4,3,4,11,Regulars
+C00165,"Ananya Mukherjee",Bengaluru,Karnataka,84,5,12775.35,4,5,4,13,Champion
+C00188,"Vivaan Das",Delhi,Delhi,63,3,12764.84,4,3,4,11,Regulars
+C00251,"Vivaan Gupta",Ahmedabad,Gujarat,64,3,12764.63,4,3,4,11,Regulars
+C01622,"Samar Mishra",Pune,Maharashtra,195,3,12764.63,2,2,4,8,"At Risk"
+C01121,"Rahul Reddy",Chennai,"Tamil nadu",206,3,12760.98,2,2,4,8,"At Risk"
+C01261,"Rahul Menon",Kolkata,"West bengal",187,4,12685.01,2,3,4,9,"At Risk"
+C01005,"Sanya Menon",Ahmedabad,Gujarat,61,4,12671.89,5,4,4,13,Champion
+C01480,"Sneha Menon",Lucknow,"Uttar pradesh",226,4,12661.86,1,3,4,8,"At Risk"
+C00509,"Sneha Kulkarni",Visakhapatnam,"Andhra pradesh",40,2,12643.02,5,2,4,11,Regulars
+C01496,"Kabir Das",Hyderabad,Telangana,159,3,12634.27,2,3,4,9,"At Risk"
+C01943,"Ananya Das",Delhi,Delhi,61,6,12608.21,4,5,4,13,Champion
+C01922,"Diya Patel",Bengaluru,Karnataka,53,4,12585.98,5,4,4,13,Champion
+C00206,"Irfan Kulkarni",Kolkata,"West bengal",40,3,12579.79,5,3,4,12,Regulars
+C00839,"Isha Patel",Hyderabad,Telangana,99,5,12572.17,3,5,4,12,Loyal
+C00320,"Rahul Das",Bengaluru,Karnataka,153,4,12561.72,2,4,4,10,"At Risk"
+C00496,"Isha Gupta",Lucknow,"Uttar pradesh",53,6,12530.07,5,5,4,14,Champion
+C01478,"Vivaan Joshi",Kolkata,"West bengal",51,4,12525.38,5,4,4,13,Champion
+C01558,"Anvi Nair",Kolkata,"West bengal",240,4,12522.42,1,3,4,8,"At Risk"
+C00110,"Aditya Chowdhury",Delhi,Delhi,41,5,12475.77,5,5,4,14,Champion
+C01868,"Samar Basu",Visakhapatnam,"Andhra pradesh",261,2,12470.52,1,1,4,6,"At Risk"
+C01432,"Samar Mishra",Chennai,"Tamil nadu",64,5,12465.87,4,5,4,13,Champion
+C00395,"Aarav Mukherjee",Delhi,Delhi,127,4,12452.68,3,4,4,11,Loyal
+C01959,"Ananya Chandra",Lucknow,"Uttar pradesh",107,4,12438.95,3,4,4,11,Loyal
+C00733,"Kabir Sharma",Pune,Maharashtra,72,6,12413.16,4,5,3,12,Loyal
+C00417,"Aarav Patel",Ahmedabad,Gujarat,104,4,12390.58,3,4,3,10,Loyal
+C00137,"Kavya Iyer",Ahmedabad,Gujarat,160,2,12354.43,2,2,3,7,"At Risk"
+C01132,"Anvi Reddy",Lucknow,"Uttar pradesh",80,5,12348.00,4,5,3,12,Loyal
+C01949,"Vivaan Khan",Pune,Maharashtra,48,4,12343.64,5,4,3,12,Loyal
+C01295,"Anvi Iyer",Bengaluru,Karnataka,235,4,12329.27,1,3,3,7,"At Risk"
+C01999,"Aditya Rao",Mumbai,Maharashtra,65,4,12304.64,4,4,3,11,Loyal
+C00958,"Rahul Mishra",Ahmedabad,Gujarat,75,3,12304.49,4,3,3,10,Regulars
+C01534,"Rohan Nair",Ahmedabad,Gujarat,65,3,12279.03,4,3,3,10,Regulars
+C01318,"Rohan Iyer",Lucknow,"Uttar pradesh",107,4,12277.32,3,4,3,10,Loyal
+C01870,"Diya Mukherjee",Bengaluru,Karnataka,93,4,12267.63,3,4,3,10,Loyal
+C01619,"Anvi Verma",Visakhapatnam,"Andhra pradesh",158,5,12264.86,2,4,3,9,"At Risk"
+C00250,"Anvi Naidu",Kochi,Kerala,192,3,12263.51,2,3,3,8,"At Risk"
+C01311,"Sneha Das",Jaipur,Rajasthan,104,6,12260.17,3,5,3,11,Loyal
+C01414,"Diya Naidu",Jaipur,Rajasthan,180,3,12241.60,2,3,3,8,"At Risk"
+C00119,"Rahul Basu",Hyderabad,Telangana,182,2,12214.16,2,2,3,7,"At Risk"
+C01665,"Aisha Iyer",Pune,Maharashtra,71,3,12194.70,4,3,3,10,Regulars
+C00960,"Anvi Kulkarni",Kochi,Kerala,116,4,12176.56,3,4,3,10,Loyal
+C00801,"Vikram Naidu",Visakhapatnam,"Andhra pradesh",37,2,12153.65,5,2,3,10,Regulars
+C00212,"Aarav Joshi",Pune,Maharashtra,296,2,12153.29,1,1,3,5,"At Risk"
+C01404,"Ananya Chowdhury",Kochi,Kerala,197,3,12152.19,2,2,3,7,"At Risk"
+C01107,"Aditya Gupta",Delhi,Delhi,203,4,12142.07,2,3,3,8,"At Risk"
+C01539,"Kavya Gupta",Kochi,Kerala,144,5,12134.45,2,4,3,9,"At Risk"
+C00779,"Irfan Nair",Delhi,Delhi,102,4,12133.70,3,4,3,10,Loyal
+C00922,"Vivaan Khan",Mumbai,Maharashtra,57,4,12114.76,5,4,3,12,Loyal
+C00678,"Isha Rao",Jaipur,Rajasthan,38,4,12108.58,5,4,3,12,Loyal
+C01350,"Sneha Chandra",Mumbai,Maharashtra,60,4,12088.09,5,4,3,12,Loyal
+C00253,"Aisha Iyer",Mumbai,Maharashtra,123,2,12083.68,3,2,3,8,Regulars
+C01755,"Vikram Nair",Bengaluru,Karnataka,114,3,12078.96,3,3,3,9,Regulars
+C01794,"Aarav Nair",Kolkata,"West bengal",83,3,12075.05,4,3,3,10,Regulars
+C00350,"Kavya Singh",Delhi,Delhi,120,3,12060.68,3,3,3,9,Regulars
+C01547,"Samar Reddy",Pune,Maharashtra,102,4,12055.26,3,4,3,10,Loyal
+C01062,"Kabir Basu",Delhi,Delhi,128,1,12031.44,3,1,3,7,Regulars
+C00308,"Neha Mukherjee",Kolkata,"West bengal",59,3,12029.09,5,3,3,11,Regulars
+C00091,"Ananya Sharma",Kochi,Kerala,141,4,12018.11,2,4,3,9,"At Risk"
+C00071,"Kabir Gupta",Kolkata,"West bengal",142,2,12007.39,2,2,3,7,"At Risk"
+C01914,"Neha Sharma",Mumbai,Maharashtra,215,3,12002.55,1,2,3,6,"At Risk"
+C00702,"Diya Reddy",Mumbai,Maharashtra,109,3,11992.23,3,3,3,9,Regulars
+C01017,"Ria Kulkarni",Chennai,"Tamil nadu",156,5,11984.68,2,4,3,9,"At Risk"
+C01632,"Ritu Sharma",Kochi,Kerala,71,4,11930.68,4,4,3,11,Loyal
+C00674,"Kabir Sharma",Mumbai,Maharashtra,75,6,11866.13,4,5,3,12,Loyal
+C01621,"Anvi Kulkarni",Mumbai,Maharashtra,130,3,11861.53,3,3,3,9,Regulars
+C01406,"Sanya Kulkarni",Kolkata,"West bengal",196,3,11860.94,2,2,3,7,"At Risk"
+C01133,"Neha Reddy",Ahmedabad,Gujarat,131,4,11844.02,3,4,3,10,Loyal
+C01577,"Ritu Gupta",Hyderabad,Telangana,91,4,11835.21,4,4,3,11,Loyal
+C01461,"Kavya Mishra",Hyderabad,Telangana,67,4,11829.53,4,4,3,11,Loyal
+C00363,"Samar Menon",Chennai,"Tamil nadu",94,3,11827.49,3,3,3,9,Regulars
+C00719,"Sneha Singh",Hyderabad,Telangana,157,3,11810.60,2,3,3,8,"At Risk"
+C00846,"Vikram Mishra",Mumbai,Maharashtra,71,3,11808.34,4,3,3,10,Regulars
+C00695,"Kabir Sharma",Lucknow,"Uttar pradesh",156,3,11794.21,2,3,3,8,"At Risk"
+C00796,"Rohan Nair",Hyderabad,Telangana,237,1,11771.22,1,1,3,5,"At Risk"
+C01736,"Aarav Patel",Kochi,Kerala,54,4,11764.27,5,4,3,12,Loyal
+C01166,"Aditya Verma",Hyderabad,Telangana,240,4,11749.73,1,3,3,7,"At Risk"
+C00459,"Ananya Joshi",Bengaluru,Karnataka,38,3,11696.10,5,3,3,11,Regulars
+C01718,"Ria Joshi",Jaipur,Rajasthan,36,2,11694.90,5,2,3,10,Regulars
+C01852,"Diya Menon",Mumbai,Maharashtra,202,2,11672.70,2,2,3,7,"At Risk"
+C00484,"Aisha Naidu",Bengaluru,Karnataka,48,4,11670.85,5,4,3,12,Loyal
+C00145,"Vikram Singh",Kolkata,"West bengal",139,4,11660.40,2,4,3,9,"At Risk"
+C01255,"Rohan Basu",Chennai,"Tamil nadu",109,4,11657.60,3,4,3,10,Loyal
+C01848,"Aisha Singh",Kolkata,"West bengal",77,5,11634.32,4,5,3,12,Loyal
+C01258,"Kabir Menon",Bengaluru,Karnataka,82,4,11633.08,4,4,3,11,Loyal
+C01648,"Vivaan Nair",Mumbai,Maharashtra,112,4,11632.33,3,4,3,10,Loyal
+C01896,"Ananya Naidu",Kochi,Kerala,94,5,11628.52,3,5,3,11,Loyal
+C01396,"Aisha Mishra",Pune,Maharashtra,76,2,11628.36,4,2,3,9,Regulars
+C00409,"Aisha Singh",Visakhapatnam,"Andhra pradesh",130,4,11618.84,3,4,3,10,Loyal
+C00331,"Samar Das",Kolkata,"West bengal",122,5,11616.77,3,4,3,10,Loyal
+C01919,"Diya Kulkarni",Chennai,"Tamil nadu",112,3,11611.84,3,3,3,9,Regulars
+C01370,"Isha Mukherjee",Visakhapatnam,"Andhra pradesh",37,3,11570.08,5,3,3,11,Regulars
+C01557,"Rohan Reddy",Jaipur,Rajasthan,157,3,11568.20,2,3,3,8,"At Risk"
+C00497,"Aditya Menon",Visakhapatnam,"Andhra pradesh",83,2,11565.02,4,2,3,9,Regulars
+C01198,"Ritu Reddy",Delhi,Delhi,129,3,11545.00,3,3,3,9,Regulars
+C01093,"Isha Kulkarni",Kolkata,"West bengal",201,2,11540.45,2,2,3,7,"At Risk"
+C01417,"Rahul Rao",Delhi,Delhi,206,2,11535.37,2,2,3,7,"At Risk"
+C00411,"Ria Rao",Pune,Maharashtra,195,3,11529.18,2,2,3,7,"At Risk"
+C01135,"Irfan Nair",Delhi,Delhi,61,3,11527.24,4,3,3,10,Regulars
+C01853,"Kabir Mishra",Pune,Maharashtra,79,4,11508.81,4,4,3,11,Loyal
+C01595,"Ananya Iyer",Hyderabad,Telangana,148,4,11493.53,2,4,3,9,"At Risk"
+C00378,"Aditya Menon",Visakhapatnam,"Andhra pradesh",253,2,11465.50,1,1,3,5,"At Risk"
+C00468,"Vikram Mukherjee",Lucknow,"Uttar pradesh",101,4,11462.45,3,4,3,10,Loyal
+C01412,"Ananya Mishra",Hyderabad,Telangana,63,3,11452.07,4,3,3,10,Regulars
+C01175,"Aditya Patel",Ahmedabad,Gujarat,237,3,11434.91,1,2,3,6,"At Risk"
+C01032,"Rohan Basu",Bengaluru,Karnataka,280,3,11428.64,1,2,3,6,"At Risk"
+C01678,"Ananya Iyer",Jaipur,Rajasthan,212,3,11417.81,1,2,3,6,"At Risk"
+C00176,"Aarav Singh",Kochi,Kerala,98,4,11409.10,3,4,3,10,Loyal
+C01758,"Neha Singh",Visakhapatnam,"Andhra pradesh",85,5,11406.24,4,5,3,12,Loyal
+C01753,"Vikram Khan",Kolkata,"West bengal",123,3,11405.42,3,3,3,9,Regulars
+C00669,"Samar Rao",Hyderabad,Telangana,145,2,11391.24,2,2,3,7,"At Risk"
+C01494,"Aarav Mukherjee",Kochi,Kerala,122,3,11376.94,3,3,3,9,Regulars
+C01146,"Ritu Khan",Ahmedabad,Gujarat,224,4,11369.24,1,3,3,7,"At Risk"
+C00677,"Ria Iyer",Mumbai,Maharashtra,61,5,11366.99,5,5,3,13,Loyal
+C00917,"Kavya Sharma",Bengaluru,Karnataka,82,4,11344.56,4,4,3,11,Loyal
+C01681,"Ananya Sharma",Lucknow,"Uttar pradesh",65,2,11330.32,4,2,3,9,Regulars
+C01386,"Vivaan Das",Pune,Maharashtra,95,3,11328.07,3,3,3,9,Regulars
+C00205,"Vikram Reddy",Bengaluru,Karnataka,67,2,11315.25,4,2,3,9,Regulars
+C01920,"Anvi Das",Delhi,Delhi,80,3,11314.39,4,3,3,10,Regulars
+C01676,"Kabir Chowdhury",Ahmedabad,Gujarat,119,4,11311.79,3,4,3,10,Loyal
+C00386,"Ria Kulkarni",Mumbai,Maharashtra,57,3,11304.38,5,3,3,11,Regulars
+C00300,"Anvi Naidu",Chennai,"Tamil nadu",70,4,11296.44,4,4,3,11,Loyal
+C01725,"Anvi Menon",Kolkata,"West bengal",95,6,11295.41,3,5,3,11,Loyal
+C01045,"Diya Basu",Pune,Maharashtra,71,2,11270.23,4,2,3,9,Regulars
+C01744,"Sanya Basu",Jaipur,Rajasthan,213,3,11264.34,1,2,3,6,"At Risk"
+C01319,"Vikram Chowdhury",Kolkata,"West bengal",40,4,11240.44,5,4,3,12,Loyal
+C01439,"Diya Naidu",Lucknow,"Uttar pradesh",46,4,11239.19,5,4,3,12,Loyal
+C00657,"Sneha Menon",Chennai,"Tamil nadu",61,1,11225.25,5,1,3,9,Regulars
+C01034,"Anvi Gupta",Chennai,"Tamil nadu",212,3,11208.37,1,2,3,6,"At Risk"
+C00311,"Rohan Sharma",Pune,Maharashtra,64,3,11207.04,4,3,3,10,Regulars
+C00624,"Aditya Iyer",Jaipur,Rajasthan,158,4,11179.60,2,4,3,9,"At Risk"
+C00557,"Sanya Joshi",Jaipur,Rajasthan,188,2,11172.16,2,2,3,7,"At Risk"
+C00035,"Diya Khan",Kochi,Kerala,142,3,11162.97,2,3,3,8,"At Risk"
+C00547,"Rahul Reddy",Delhi,Delhi,214,2,11139.45,1,2,3,6,"At Risk"
+C00379,"Ritu Chandra",Pune,Maharashtra,242,4,11130.35,1,3,3,7,"At Risk"
+C01401,"Neha Khan",Kochi,Kerala,79,4,11128.45,4,4,3,11,Loyal
+C01746,"Anvi Naidu",Hyderabad,Telangana,101,4,11111.25,3,4,3,10,Loyal
+C01192,"Ananya Naidu",Kolkata,"West bengal",101,3,11106.68,3,3,3,9,Regulars
+C01656,"Aditya Kulkarni",Chennai,"Tamil nadu",91,5,11104.27,4,5,3,12,Loyal
+C01783,"Aarav Rao",Visakhapatnam,"Andhra pradesh",52,5,11080.91,5,5,3,13,Loyal
+C00790,"Aisha Joshi",Kochi,Kerala,63,3,11078.98,4,3,3,10,Regulars
+C01779,"Rohan Joshi",Visakhapatnam,"Andhra pradesh",87,3,11066.49,4,3,3,10,Regulars
+C00892,"Aarav Das",Hyderabad,Telangana,58,4,11064.00,5,4,3,12,Loyal
+C00914,"Vikram Joshi",Kochi,Kerala,51,4,11052.88,5,4,3,12,Loyal
+C00441,"Irfan Kulkarni",Jaipur,Rajasthan,136,3,10966.31,2,3,3,8,"At Risk"
+C01765,"Kabir Das",Kochi,Kerala,155,3,10949.57,2,3,3,8,"At Risk"
+C00909,"Neha Chandra",Bengaluru,Karnataka,128,5,10942.14,3,4,3,10,Loyal
+C01782,"Aarav Gupta",Jaipur,Rajasthan,257,3,10924.93,1,2,3,6,"At Risk"
+C00921,"Diya Kulkarni",Visakhapatnam,"Andhra pradesh",90,6,10921.09,4,5,3,12,Loyal
+C00499,"Sanya Basu",Kolkata,"West bengal",82,4,10911.63,4,4,3,11,Loyal
+C01820,"Aarav Mukherjee",Kochi,Kerala,109,4,10909.34,3,4,3,10,Loyal
+C01530,"Rohan Sharma",Delhi,Delhi,168,6,10897.05,2,5,3,10,"At Risk"
+C00225,"Ritu Singh",Kochi,Kerala,50,3,10884.72,5,3,3,11,Regulars
+C01554,"Vikram Naidu",Kolkata,"West bengal",144,5,10870.26,2,4,3,9,"At Risk"
+C01084,"Aarav Patel",Chennai,"Tamil nadu",108,4,10862.12,3,4,3,10,Loyal
+C00805,"Kavya Reddy",Ahmedabad,Gujarat,193,4,10822.27,2,3,3,8,"At Risk"
+C00802,"Sanya Kulkarni",Visakhapatnam,"Andhra pradesh",76,4,10812.78,4,4,3,11,Loyal
+C00887,"Sneha Rao",Mumbai,Maharashtra,37,3,10794.78,5,3,3,11,Regulars
+C01324,"Sanya Khan",Lucknow,"Uttar pradesh",50,5,10791.98,5,5,3,13,Loyal
+C01962,"Diya Rao",Visakhapatnam,"Andhra pradesh",44,6,10791.96,5,5,3,13,Loyal
+C01659,"Rohan Rao",Pune,Maharashtra,49,3,10790.08,5,3,3,11,Regulars
+C00977,"Sneha Mukherjee",Kochi,Kerala,84,5,10755.50,4,5,3,12,Loyal
+C00861,"Sanya Mukherjee",Lucknow,"Uttar pradesh",112,6,10753.51,3,5,3,11,Loyal
+C00566,"Ria Mishra",Lucknow,"Uttar pradesh",166,3,10735.84,2,3,3,8,"At Risk"
+C01103,"Kavya Chowdhury",Delhi,Delhi,179,5,10733.23,2,4,3,9,"At Risk"
+C00316,"Ananya Rao",Kolkata,"West bengal",161,4,10725.00,2,4,3,9,"At Risk"
+C00055,"Neha Mishra",Lucknow,"Uttar pradesh",65,4,10709.31,4,4,3,11,Loyal
+C00458,"Ria Iyer",Lucknow,"Uttar pradesh",167,4,10701.98,2,4,3,9,"At Risk"
+C00129,"Sanya Gupta",Kolkata,"West bengal",48,4,10699.26,5,4,3,12,Loyal
+C00588,"Aarav Joshi",Pune,Maharashtra,188,5,10691.22,2,4,3,9,"At Risk"
+C00319,"Anvi Reddy",Hyderabad,Telangana,354,2,10690.12,1,1,3,5,"At Risk"
+C00837,"Anvi Kulkarni",Jaipur,Rajasthan,126,5,10689.41,3,4,3,10,Loyal
+C01684,"Vivaan Basu",Lucknow,"Uttar pradesh",160,2,10685.00,2,2,3,7,"At Risk"
+C01963,"Kavya Menon",Pune,Maharashtra,59,2,10683.54,5,2,3,10,Regulars
+C00428,"Ritu Mukherjee",Kolkata,"West bengal",56,3,10678.00,5,3,3,11,Regulars
+C00605,"Aarav Menon",Jaipur,Rajasthan,154,2,10673.65,2,2,3,7,"At Risk"
+C00493,"Neha Menon",Chennai,"Tamil nadu",73,3,10655.57,4,3,3,10,Regulars
+C00042,"Ananya Mukherjee",Kolkata,"West bengal",118,3,10628.78,3,3,3,9,Regulars
+C01485,"Ritu Mishra",Bengaluru,Karnataka,88,2,10619.45,4,2,3,9,Regulars
+C00512,"Neha Nair",Visakhapatnam,"Andhra pradesh",99,2,10598.70,3,2,3,8,Regulars
+C01787,"Aisha Khan",Chennai,"Tamil nadu",248,3,10596.69,1,2,3,6,"At Risk"
+C01507,"Ria Gupta",Ahmedabad,Gujarat,86,6,10572.98,4,5,3,12,Loyal
+C00105,"Aarav Rao",Visakhapatnam,"Andhra pradesh",203,2,10567.68,2,2,3,7,"At Risk"
+C00098,"Aarav Nair",Ahmedabad,Gujarat,173,5,10559.16,2,4,3,9,"At Risk"
+C00524,"Vikram Verma",Ahmedabad,Gujarat,74,3,10557.39,4,3,3,10,Regulars
+C00536,"Ananya Khan",Delhi,Delhi,137,4,10555.10,2,4,3,9,"At Risk"
+C01199,"Samar Naidu",Kolkata,"West bengal",92,4,10500.60,4,4,3,11,Loyal
+C01952,"Anvi Gupta",Pune,Maharashtra,229,4,10492.30,1,3,3,7,"At Risk"
+C01813,"Irfan Nair",Mumbai,Maharashtra,41,4,10485.71,5,4,3,12,Loyal
+C00175,"Isha Mishra",Ahmedabad,Gujarat,106,4,10480.43,3,4,3,10,Loyal
+C00434,"Anvi Das",Pune,Maharashtra,65,5,10479.37,4,5,3,12,Loyal
+C00140,"Vikram Reddy",Kolkata,"West bengal",151,3,10469.17,2,3,3,8,"At Risk"
+C00570,"Aditya Mishra",Bengaluru,Karnataka,319,2,10455.29,1,1,3,5,"At Risk"
+C00192,"Aisha Kulkarni",Visakhapatnam,"Andhra pradesh",94,3,10425.38,3,3,3,9,Regulars
+C00075,"Rahul Chowdhury",Delhi,Delhi,182,4,10423.32,2,4,3,9,"At Risk"
+C00061,"Diya Rao",Mumbai,Maharashtra,131,3,10418.28,3,3,3,9,Regulars
+C00558,"Isha Sharma",Jaipur,Rajasthan,152,4,10410.26,2,4,3,9,"At Risk"
+C00523,"Aarav Menon",Mumbai,Maharashtra,297,3,10408.85,1,2,3,6,"At Risk"
+C00069,"Rahul Chowdhury",Jaipur,Rajasthan,89,4,10398.75,4,4,3,11,Loyal
+C00686,"Vivaan Joshi",Hyderabad,Telangana,40,4,10384.93,5,4,3,12,Loyal
+C00643,"Rohan Gupta",Jaipur,Rajasthan,47,4,10353.50,5,4,3,12,Loyal
+C00154,"Aarav Chowdhury",Ahmedabad,Gujarat,106,5,10342.68,3,4,3,10,Loyal
+C00338,"Neha Nair",Hyderabad,Telangana,241,2,10341.54,1,1,3,5,"At Risk"
+C00607,"Anvi Khan",Kochi,Kerala,50,4,10335.56,5,4,3,12,Loyal
+C00038,"Irfan Chowdhury",Kochi,Kerala,114,2,10332.62,3,2,3,8,Regulars
+C00597,"Samar Reddy",Mumbai,Maharashtra,108,5,10325.06,3,4,3,10,Loyal
+C01811,"Anvi Patel",Bengaluru,Karnataka,85,4,10310.32,4,4,3,11,Loyal
+C00139,"Ritu Patel",Chennai,"Tamil nadu",139,5,10307.41,2,4,3,9,"At Risk"
+C01948,"Rahul Nair",Visakhapatnam,"Andhra pradesh",89,3,10303.37,4,3,3,10,Regulars
+C01168,"Kabir Mukherjee",Visakhapatnam,"Andhra pradesh",255,2,10294.56,1,1,3,5,"At Risk"
+C00066,"Sneha Mukherjee",Bengaluru,Karnataka,160,3,10283.94,2,3,3,8,"At Risk"
+C00011,"Rohan Joshi",Kolkata,"West bengal",72,4,10278.40,4,4,3,11,Loyal
+C01375,"Aisha Nair",Chennai,"Tamil nadu",212,4,10252.34,1,3,3,7,"At Risk"
+C00196,"Aisha Verma",Hyderabad,Telangana,79,4,10249.79,4,4,3,11,Loyal
+C01167,"Vivaan Verma",Kochi,Kerala,183,4,10248.51,2,4,3,9,"At Risk"
+C01345,"Kavya Sharma",Hyderabad,Telangana,97,6,10243.58,3,5,3,11,Loyal
+C00274,"Samar Reddy",Chennai,"Tamil nadu",36,3,10223.40,5,3,3,11,Regulars
+C00962,"Kabir Menon",Delhi,Delhi,188,3,10222.49,2,3,3,8,"At Risk"
+C00257,"Diya Nair",Mumbai,Maharashtra,71,2,10195.45,4,2,3,9,Regulars
+C01686,"Isha Menon",Visakhapatnam,"Andhra pradesh",41,4,10194.37,5,4,3,12,Loyal
+C01231,"Sneha Basu",Lucknow,"Uttar pradesh",64,4,10190.89,4,4,3,11,Loyal
+C00385,"Kabir Basu",Ahmedabad,Gujarat,64,4,10187.72,4,4,3,11,Loyal
+C01310,"Ananya Rao",Pune,Maharashtra,267,4,10179.74,1,3,3,7,"At Risk"
+C00394,"Diya Chandra",Kochi,Kerala,127,3,10177.95,3,3,3,9,Regulars
+C01079,"Aisha Naidu",Delhi,Delhi,40,3,10173.84,5,3,3,11,Regulars
+C01631,"Ananya Kulkarni",Chennai,"Tamil nadu",133,4,10154.25,3,4,3,10,Loyal
+C00368,"Aarav Khan",Mumbai,Maharashtra,52,3,10141.74,5,3,3,11,Regulars
+C00007,"Samar Rao",Hyderabad,Telangana,79,3,10124.88,4,3,3,10,Regulars
+C01653,"Samar Singh",Delhi,Delhi,108,4,10106.57,3,4,3,10,Loyal
+C00807,"Kavya Das",Jaipur,Rajasthan,51,3,10060.51,5,3,3,11,Regulars
+C00090,"Neha Chowdhury",Jaipur,Rajasthan,96,4,10041.70,3,4,3,10,Loyal
+C01065,"Samar Joshi",Chennai,"Tamil nadu",107,3,10020.78,3,3,3,9,Regulars
+C01774,"Rohan Rao",Kolkata,"West bengal",190,3,10018.59,2,3,3,8,"At Risk"
+C00446,"Sanya Iyer",Hyderabad,Telangana,198,2,10008.60,2,2,3,7,"At Risk"
+C00689,"Rahul Nair",Jaipur,Rajasthan,41,4,10001.38,5,4,3,12,Loyal
+C00803,"Diya Joshi",Visakhapatnam,"Andhra pradesh",62,1,9995.45,4,1,3,8,Regulars
+C01008,"Ananya Mukherjee",Lucknow,"Uttar pradesh",162,4,9983.55,2,4,3,9,"At Risk"
+C01448,"Aarav Joshi",Visakhapatnam,"Andhra pradesh",84,2,9981.86,4,2,3,9,Regulars
+C00189,"Kavya Mukherjee",Ahmedabad,Gujarat,49,2,9981.54,5,2,3,10,Regulars
+C01845,"Ritu Patel",Kochi,Kerala,110,2,9973.91,3,2,3,8,Regulars
+C01185,"Irfan Das",Kochi,Kerala,39,4,9967.61,5,4,3,12,Loyal
+C00267,"Aisha Mishra",Mumbai,Maharashtra,215,2,9945.85,1,2,3,6,"At Risk"
+C00709,"Anvi Chowdhury",Delhi,Delhi,388,1,9943.58,1,1,3,5,"At Risk"
+C01749,"Sanya Reddy",Pune,Maharashtra,96,4,9941.21,3,4,3,10,Loyal
+C01359,"Ritu Mishra",Delhi,Delhi,81,3,9891.18,4,3,3,10,Regulars
+C01592,"Anvi Gupta",Kolkata,"West bengal",38,3,9883.35,5,3,3,11,Regulars
+C01388,"Rahul Basu",Visakhapatnam,"Andhra pradesh",57,4,9881.16,5,4,3,12,Loyal
+C01789,"Irfan Das",Jaipur,Rajasthan,69,1,9874.53,4,1,3,8,Regulars
+C00219,"Aisha Sharma",Hyderabad,Telangana,237,2,9838.44,1,2,3,6,"At Risk"
+C00156,"Neha Menon",Kochi,Kerala,54,5,9829.42,5,5,3,13,Loyal
+C01038,"Kabir Menon",Lucknow,"Uttar pradesh",105,3,9824.08,3,3,3,9,Regulars
+C00518,"Kavya Chowdhury",Jaipur,Rajasthan,41,2,9814.68,5,2,3,10,Regulars
+C01313,"Rahul Mukherjee",Delhi,Delhi,229,3,9807.32,1,2,3,6,"At Risk"
+C01996,"Vivaan Reddy",Kolkata,"West bengal",98,1,9795.90,3,1,3,7,Regulars
+C01063,"Isha Chandra",Chennai,"Tamil nadu",103,4,9770.62,3,4,3,10,Loyal
+C01740,"Ritu Singh",Chennai,"Tamil nadu",39,4,9767.15,5,4,3,12,Loyal
+C01484,"Ria Das",Hyderabad,Telangana,153,3,9760.21,2,3,3,8,"At Risk"
+C00580,"Diya Rao",Jaipur,Rajasthan,251,2,9755.40,1,1,3,5,"At Risk"
+C00889,"Kavya Patel",Visakhapatnam,"Andhra pradesh",75,2,9738.88,4,2,3,9,Regulars
+C00238,"Sanya Menon",Kolkata,"West bengal",184,3,9717.47,2,3,3,8,"At Risk"
+C00726,"Ria Singh",Bengaluru,Karnataka,108,4,9707.53,3,4,3,10,Loyal
+C01928,"Neha Gupta",Mumbai,Maharashtra,58,4,9706.14,5,4,3,12,Loyal
+C00913,"Aarav Nair",Jaipur,Rajasthan,97,3,9694.51,3,3,3,9,Regulars
+C00077,"Ananya Rao",Delhi,Delhi,36,4,9677.83,5,4,3,12,Loyal
+C00752,"Kabir Gupta",Ahmedabad,Gujarat,268,4,9674.06,1,3,3,7,"At Risk"
+C01935,"Ritu Singh",Delhi,Delhi,46,3,9661.26,5,3,3,11,Regulars
+C00301,"Neha Verma",Pune,Maharashtra,40,4,9658.99,5,4,3,12,Loyal
+C00815,"Ritu Chandra",Jaipur,Rajasthan,157,4,9655.90,2,4,3,9,"At Risk"
+C01536,"Anvi Menon",Lucknow,"Uttar pradesh",55,3,9653.06,5,3,3,11,Regulars
+C01470,"Ria Iyer",Mumbai,Maharashtra,80,4,9640.56,4,4,3,11,Loyal
+C01939,"Aisha Iyer",Ahmedabad,Gujarat,95,3,9636.44,3,3,3,9,Regulars
+C00012,"Aditya Kulkarni",Hyderabad,Telangana,48,5,9634.45,5,5,3,13,Loyal
+C00112,"Isha Naidu",Lucknow,"Uttar pradesh",124,4,9629.70,3,4,3,10,Loyal
+C00262,"Rohan Reddy",Bengaluru,Karnataka,131,4,9623.79,3,4,3,10,Loyal
+C00268,"Ritu Das",Pune,Maharashtra,97,5,9622.31,3,5,3,11,Loyal
+C00480,"Sneha Sharma",Visakhapatnam,"Andhra pradesh",65,4,9597.64,4,4,3,11,Loyal
+C01223,"Irfan Basu",Bengaluru,Karnataka,48,4,9594.08,5,4,3,12,Loyal
+C00872,"Isha Naidu",Delhi,Delhi,93,5,9584.60,3,5,3,11,Loyal
+C01233,"Ananya Basu",Delhi,Delhi,131,3,9582.87,3,3,3,9,Regulars
+C01542,"Aarav Basu",Visakhapatnam,"Andhra pradesh",90,4,9554.31,4,4,3,11,Loyal
+C00334,"Vivaan Das",Jaipur,Rajasthan,187,2,9552.85,2,2,3,7,"At Risk"
+C00364,"Isha Khan",Pune,Maharashtra,55,3,9547.27,5,3,3,11,Regulars
+C01208,"Neha Kulkarni",Lucknow,"Uttar pradesh",46,5,9531.47,5,5,3,13,Loyal
+C01605,"Sanya Menon",Bengaluru,Karnataka,130,2,9529.50,3,2,3,8,Regulars
+C00346,"Ritu Kulkarni",Visakhapatnam,"Andhra pradesh",261,3,9529.13,1,2,3,6,"At Risk"
+C01085,"Samar Mukherjee",Kochi,Kerala,176,5,9507.31,2,4,3,9,"At Risk"
+C01533,"Ria Mukherjee",Pune,Maharashtra,96,5,9501.45,3,5,3,11,Loyal
+C01410,"Neha Singh",Ahmedabad,Gujarat,86,2,9494.75,4,2,3,9,Regulars
+C01769,"Sanya Verma",Ahmedabad,Gujarat,168,1,9477.63,2,1,3,6,"At Risk"
+C01850,"Kabir Sharma",Bengaluru,Karnataka,86,3,9474.17,4,3,3,10,Regulars
+C00367,"Aarav Das",Mumbai,Maharashtra,179,2,9468.66,2,2,3,7,"At Risk"
+C01600,"Kavya Rao",Delhi,Delhi,124,3,9455.69,3,3,3,9,Regulars
+C01703,"Aarav Menon",Lucknow,"Uttar pradesh",48,2,9445.36,5,2,3,10,Regulars
+C01210,"Kabir Kulkarni",Ahmedabad,Gujarat,70,3,9424.10,4,3,3,10,Regulars
+C00255,"Diya Chowdhury",Chennai,"Tamil nadu",298,3,9418.09,1,2,3,6,"At Risk"
+C01325,"Vivaan Kulkarni",Jaipur,Rajasthan,116,6,9403.26,3,5,3,11,Loyal
+C00455,"Aisha Chowdhury",Bengaluru,Karnataka,75,3,9381.40,4,3,3,10,Regulars
+C00273,"Rahul Nair",Visakhapatnam,"Andhra pradesh",61,4,9379.98,5,4,3,12,Loyal
+C00939,"Rahul Chandra",Kolkata,"West bengal",76,4,9377.89,4,4,3,11,Loyal
+C01142,"Neha Verma",Chennai,"Tamil nadu",130,3,9377.55,3,3,3,9,Regulars
+C01610,"Rahul Rao",Kolkata,"West bengal",138,3,9369.85,2,3,3,8,"At Risk"
+C01829,"Ritu Naidu",Hyderabad,Telangana,127,3,9359.15,3,3,3,9,Regulars
+C00993,"Neha Iyer",Mumbai,Maharashtra,140,3,9355.34,2,3,3,8,"At Risk"
+C01860,"Sanya Sharma",Hyderabad,Telangana,200,2,9330.64,2,2,3,7,"At Risk"
+C01664,"Diya Rao",Lucknow,"Uttar pradesh",84,4,9329.05,4,4,3,11,Loyal
+C00708,"Isha Reddy",Ahmedabad,Gujarat,85,5,9319.86,4,5,3,12,Loyal
+C01618,"Ritu Das",Pune,Maharashtra,276,4,9315.18,1,3,3,7,"At Risk"
+C01373,"Kavya Iyer",Visakhapatnam,"Andhra pradesh",44,4,9306.17,5,4,3,12,Loyal
+C00483,"Kabir Rao",Mumbai,Maharashtra,109,3,9300.19,3,3,3,9,Regulars
+C00836,"Kavya Nair",Mumbai,Maharashtra,63,3,9294.32,4,3,3,10,Regulars
+C01609,"Rahul Chandra",Visakhapatnam,"Andhra pradesh",231,2,9291.50,1,2,3,6,"At Risk"
+C01838,"Sneha Mishra",Lucknow,"Uttar pradesh",207,5,9281.71,2,4,3,9,"At Risk"
+C00397,"Neha Kulkarni",Kolkata,"West bengal",58,3,9231.88,5,3,3,11,Regulars
+C01784,"Samar Verma",Pune,Maharashtra,69,3,9211.13,4,3,3,10,Regulars
+C01440,"Vikram Mishra",Delhi,Delhi,86,2,9209.42,4,2,3,9,Regulars
+C01393,"Aisha Iyer",Pune,Maharashtra,195,4,9194.07,2,3,3,8,"At Risk"
+C00152,"Irfan Gupta",Bengaluru,Karnataka,200,3,9192.62,2,2,3,7,"At Risk"
+C01459,"Sanya Verma",Kolkata,"West bengal",145,2,9192.14,2,2,3,7,"At Risk"
+C00850,"Ria Sharma",Hyderabad,Telangana,40,2,9160.17,5,2,3,10,Regulars
+C00644,"Ananya Joshi",Mumbai,Maharashtra,83,5,9153.46,4,5,3,12,Loyal
+C01738,"Samar Sharma",Mumbai,Maharashtra,154,3,9149.09,2,3,3,8,"At Risk"
+C00187,"Vikram Das",Jaipur,Rajasthan,40,3,9146.70,5,3,3,11,Regulars
+C01409,"Neha Singh",Hyderabad,Telangana,361,1,9139.92,1,1,3,5,"At Risk"
+C00740,"Samar Nair",Ahmedabad,Gujarat,41,3,9122.44,5,3,3,11,Regulars
+C01352,"Vivaan Iyer",Mumbai,Maharashtra,315,3,9117.89,1,2,3,6,"At Risk"
+C01232,"Kabir Mukherjee",Bengaluru,Karnataka,98,4,9115.02,3,4,3,10,Loyal
+C01818,"Ananya Iyer",Bengaluru,Karnataka,39,5,9096.11,5,5,3,13,Loyal
+C01898,"Neha Menon",Ahmedabad,Gujarat,134,4,9089.89,2,4,3,9,"At Risk"
+C00979,"Irfan Chowdhury",Ahmedabad,Gujarat,149,2,9074.18,2,2,3,7,"At Risk"
+C00254,"Irfan Iyer",Chennai,"Tamil nadu",275,2,9066.44,1,1,3,5,"At Risk"
+C01027,"Samar Mukherjee",Kolkata,"West bengal",37,5,9061.91,5,5,3,13,Loyal
+C00216,"Aditya Mukherjee",Bengaluru,Karnataka,128,3,9058.28,3,3,3,9,Regulars
+C00432,"Vivaan Basu",Kolkata,"West bengal",133,2,9044.06,3,2,3,8,Regulars
+C01649,"Diya Mukherjee",Jaipur,Rajasthan,89,3,9037.63,4,3,3,10,Regulars
+C01276,"Ananya Naidu",Pune,Maharashtra,248,4,9022.15,1,3,3,7,"At Risk"
+C01767,"Vivaan Gupta",Hyderabad,Telangana,108,2,9017.00,3,2,3,8,Regulars
+C00461,"Ritu Patel",Visakhapatnam,"Andhra pradesh",182,4,9011.13,2,4,3,9,"At Risk"
+C01152,"Sneha Mukherjee",Pune,Maharashtra,177,3,9009.92,2,3,3,8,"At Risk"
+C00955,"Sneha Gupta",Jaipur,Rajasthan,72,2,8993.85,4,2,3,9,Regulars
+C00628,"Neha Gupta",Kolkata,"West bengal",119,3,8988.18,3,3,3,9,Regulars
+C00698,"Aisha Chowdhury",Jaipur,Rajasthan,85,3,8983.08,4,3,3,10,Regulars
+C01672,"Isha Gupta",Hyderabad,Telangana,113,6,8962.25,3,5,3,11,Loyal
+C00721,"Irfan Patel",Visakhapatnam,"Andhra pradesh",169,4,8959.39,2,4,3,9,"At Risk"
+C01579,"Rohan Kulkarni",Chennai,"Tamil nadu",91,2,8949.75,4,2,3,9,Regulars
+C01652,"Neha Singh",Ahmedabad,Gujarat,122,3,8948.58,3,3,3,9,Regulars
+C01070,"Aditya Mishra",Visakhapatnam,"Andhra pradesh",74,5,8940.51,4,5,3,12,Loyal
+C00133,"Samar Patel",Mumbai,Maharashtra,98,2,8933.12,3,2,3,8,Regulars
+C01385,"Rohan Das",Ahmedabad,Gujarat,115,4,8933.02,3,4,3,10,Loyal
+C01538,"Kabir Basu",Kolkata,"West bengal",187,2,8921.08,2,2,3,7,"At Risk"
+C01051,"Neha Mishra",Kochi,Kerala,52,3,8916.89,5,3,3,11,Regulars
+C01702,"Irfan Basu",Visakhapatnam,"Andhra pradesh",60,3,8910.66,5,3,3,11,Regulars
+C00919,"Isha Rao",Pune,Maharashtra,171,3,8905.44,2,3,3,8,"At Risk"
+C01902,"Diya Mishra",Bengaluru,Karnataka,111,4,8901.02,3,4,3,10,Loyal
+C01869,"Kabir Iyer",Kochi,Kerala,191,3,8879.18,2,3,3,8,"At Risk"
+C01551,"Sneha Das",Pune,Maharashtra,114,3,8876.11,3,3,3,9,Regulars
+C01294,"Diya Patel",Visakhapatnam,"Andhra pradesh",99,2,8872.96,3,2,3,8,Regulars
+C01211,"Ritu Naidu",Chennai,"Tamil nadu",72,3,8867.08,4,3,3,10,Regulars
+C00894,"Aarav Basu",Kochi,Kerala,104,4,8847.53,3,4,3,10,Loyal
+C00875,"Isha Sharma",Pune,Maharashtra,69,4,8832.67,4,4,3,11,Loyal
+C00317,"Neha Menon",Kolkata,"West bengal",221,4,8800.54,1,3,3,7,"At Risk"
+C00586,"Ria Singh",Visakhapatnam,"Andhra pradesh",119,6,8778.59,3,5,3,11,Loyal
+C01111,"Neha Joshi",Mumbai,Maharashtra,111,4,8778.33,3,4,3,10,Loyal
+C01369,"Rohan Verma",Kochi,Kerala,58,3,8772.29,5,3,3,11,Regulars
+C01832,"Aditya Rao",Chennai,"Tamil nadu",51,2,8767.16,5,2,3,10,Regulars
+C01669,"Sneha Basu",Lucknow,"Uttar pradesh",160,2,8756.73,2,2,3,7,"At Risk"
+C01650,"Kavya Khan",Jaipur,Rajasthan,89,5,8748.94,4,5,3,12,Loyal
+C00248,"Anvi Verma",Delhi,Delhi,76,4,8723.76,4,4,3,11,Loyal
+C01075,"Diya Naidu",Delhi,Delhi,76,2,8720.77,4,2,3,9,Regulars
+C00288,"Sneha Rao",Kochi,Kerala,68,3,8675.48,4,3,3,10,Regulars
+C01651,"Ananya Khan",Pune,Maharashtra,107,3,8661.80,3,3,3,9,Regulars
+C01615,"Rahul Kulkarni",Chennai,"Tamil nadu",141,5,8656.88,2,4,3,9,"At Risk"
+C01186,"Rohan Iyer",Mumbai,Maharashtra,245,2,8656.62,1,1,3,5,"At Risk"
+C00905,"Aditya Khan",Visakhapatnam,"Andhra pradesh",97,3,8652.96,3,3,3,9,Regulars
+C00210,"Anvi Basu",Jaipur,Rajasthan,41,4,8646.64,5,4,3,12,Loyal
+C01856,"Kavya Reddy",Hyderabad,Telangana,69,4,8640.43,4,4,3,11,Loyal
+C01585,"Irfan Menon",Kolkata,"West bengal",108,4,8636.03,3,4,3,10,Loyal
+C00326,"Rohan Gupta",Kochi,Kerala,55,4,8633.00,5,4,3,12,Loyal
+C00245,"Aditya Reddy",Jaipur,Rajasthan,255,1,8623.47,1,1,3,5,"At Risk"
+C00591,"Aisha Chandra",Lucknow,"Uttar pradesh",139,2,8608.83,2,2,3,7,"At Risk"
+C01720,"Kabir Menon",Jaipur,Rajasthan,200,3,8608.03,2,2,3,7,"At Risk"
+C00337,"Vikram Verma",Chennai,"Tamil nadu",70,3,8599.57,4,3,3,10,Regulars
+C00158,"Kabir Verma",Ahmedabad,Gujarat,95,2,8582.22,3,2,3,8,Regulars
+C00419,"Sanya Chandra",Visakhapatnam,"Andhra pradesh",100,2,8578.22,3,2,3,8,Regulars
+C00482,"Samar Khan",Lucknow,"Uttar pradesh",45,4,8569.01,5,4,3,12,Loyal
+C00182,"Diya Reddy",Chennai,"Tamil nadu",112,4,8527.28,3,4,3,10,Loyal
+C01992,"Aditya Patel",Mumbai,Maharashtra,102,2,8523.30,3,2,3,8,Regulars
+C00567,"Sneha Basu",Pune,Maharashtra,140,3,8517.05,2,3,3,8,"At Risk"
+C00383,"Sneha Naidu",Hyderabad,Telangana,40,4,8516.52,5,4,3,12,Loyal
+C01235,"Samar Khan",Visakhapatnam,"Andhra pradesh",83,4,8508.98,4,4,3,11,Loyal
+C01550,"Ritu Iyer",Ahmedabad,Gujarat,222,3,8492.69,1,2,3,6,"At Risk"
+C00944,"Diya Menon",Pune,Maharashtra,83,3,8450.68,4,3,3,10,Regulars
+C01023,"Ria Iyer",Visakhapatnam,"Andhra pradesh",45,1,8428.64,5,1,3,9,Regulars
+C01810,"Vivaan Iyer",Visakhapatnam,"Andhra pradesh",74,3,8421.05,4,3,3,10,Regulars
+C01035,"Aarav Naidu",Kochi,Kerala,59,3,8414.69,5,3,3,11,Regulars
+C01998,"Ria Nair",Pune,Maharashtra,158,2,8406.58,2,2,3,7,"At Risk"
+C00738,"Rahul Nair",Bengaluru,Karnataka,135,2,8401.40,2,2,3,7,"At Risk"
+C01089,"Anvi Reddy",Lucknow,"Uttar pradesh",88,4,8393.55,4,4,3,11,Loyal
+C00507,"Kavya Patel",Kolkata,"West bengal",51,5,8366.87,5,5,3,13,Loyal
+C00330,"Ritu Gupta",Delhi,Delhi,78,3,8366.51,4,3,3,10,Regulars
+C00551,"Kavya Nair",Jaipur,Rajasthan,134,4,8363.13,2,4,3,9,"At Risk"
+C01679,"Vikram Basu",Jaipur,Rajasthan,53,3,8359.71,5,3,3,11,Regulars
+C00937,"Diya Reddy",Pune,Maharashtra,256,1,8346.66,1,1,3,5,"At Risk"
+C00290,"Aditya Mukherjee",Bengaluru,Karnataka,171,3,8341.81,2,3,3,8,"At Risk"
+C00466,"Ria Chandra",Pune,Maharashtra,131,3,8336.96,3,3,3,9,Regulars
+C00601,"Neha Reddy",Visakhapatnam,"Andhra pradesh",185,3,8316.20,2,3,3,8,"At Risk"
+C01858,"Anvi Naidu",Mumbai,Maharashtra,133,5,8297.92,3,4,3,10,Loyal
+C01411,"Sanya Nair",Visakhapatnam,"Andhra pradesh",60,2,8294.27,5,2,3,10,Regulars
+C01195,"Anvi Rao",Bengaluru,Karnataka,92,4,8290.52,4,4,3,11,Loyal
+C01054,"Vivaan Kulkarni",Pune,Maharashtra,123,3,8255.92,3,3,3,9,Regulars
+C01668,"Sneha Kulkarni",Bengaluru,Karnataka,284,1,8245.25,1,1,3,5,"At Risk"
+C00984,"Sneha Khan",Pune,Maharashtra,104,4,8225.29,3,4,3,10,Loyal
+C01876,"Aisha Chowdhury",Lucknow,"Uttar pradesh",173,4,8222.64,2,4,3,9,"At Risk"
+C01379,"Ria Mishra",Jaipur,Rajasthan,188,2,8217.93,2,2,3,7,"At Risk"
+C01108,"Vikram Das",Lucknow,"Uttar pradesh",90,3,8179.93,4,3,3,10,Regulars
+C01296,"Isha Naidu",Chennai,"Tamil nadu",129,3,8176.69,3,3,3,9,Regulars
+C01443,"Diya Nair",Kochi,Kerala,108,3,8175.31,3,3,3,9,Regulars
+C01617,"Samar Das",Kochi,Kerala,191,3,8157.70,2,3,3,8,"At Risk"
+C00725,"Aisha Rao",Ahmedabad,Gujarat,154,3,8148.58,2,3,3,8,"At Risk"
+C00224,"Aisha Menon",Visakhapatnam,"Andhra pradesh",107,4,8142.57,3,4,3,10,Loyal
+C00056,"Diya Rao",Pune,Maharashtra,290,1,8135.16,1,1,3,5,"At Risk"
+C00515,"Vivaan Kulkarni",Bengaluru,Karnataka,46,4,8126.99,5,4,2,11,Loyal
+C01867,"Sanya Khan",Hyderabad,Telangana,329,1,8119.02,1,1,2,4,Regulars
+C00249,"Sneha Rao",Pune,Maharashtra,48,2,8108.22,5,2,2,9,Regulars
+C00010,"Diya Chandra",Mumbai,Maharashtra,38,3,8105.23,5,3,2,10,Regulars
+C00574,"Neha Nair",Bengaluru,Karnataka,114,2,8091.09,3,2,2,7,Regulars
+C00474,"Ritu Mishra",Bengaluru,Karnataka,170,3,8084.47,2,3,2,7,"At Risk"
+C01518,"Sneha Iyer",Bengaluru,Karnataka,100,3,8079.21,3,3,2,8,Regulars
+C00099,"Aisha Khan",Kochi,Kerala,40,2,8073.78,5,2,2,9,Regulars
+C00005,"Rohan Menon",Jaipur,Rajasthan,204,3,8072.92,2,2,2,6,Regulars
+C01780,"Sneha Basu",Mumbai,Maharashtra,192,3,8066.83,2,3,2,7,"At Risk"
+C00638,"Diya Rao",Jaipur,Rajasthan,118,5,8055.55,3,4,2,9,Loyal
+C00221,"Ria Basu",Kolkata,"West bengal",107,3,8050.52,3,3,2,8,Regulars
+C01435,"Irfan Kulkarni",Lucknow,"Uttar pradesh",177,3,8038.43,2,3,2,7,"At Risk"
+C01194,"Aditya Singh",Hyderabad,Telangana,149,4,8006.55,2,4,2,8,"At Risk"
+C00047,"Sneha Sharma",Hyderabad,Telangana,62,3,8004.85,4,3,2,9,Regulars
+C01603,"Neha Mukherjee",Delhi,Delhi,60,3,8003.75,5,3,2,10,Regulars
+C00058,"Ritu Singh",Mumbai,Maharashtra,222,2,7954.06,1,2,2,5,Regulars
+C00393,"Ananya Basu",Bengaluru,Karnataka,238,2,7940.38,1,1,2,4,Regulars
+C01458,"Ananya Basu",Lucknow,"Uttar pradesh",91,3,7936.87,4,3,2,9,Regulars
+C00495,"Sneha Menon",Mumbai,Maharashtra,144,1,7922.28,2,1,2,5,Regulars
+C01153,"Vivaan Mukherjee",Chennai,"Tamil nadu",85,2,7917.81,4,2,2,8,Regulars
+C01719,"Ritu Mishra",Kolkata,"West bengal",111,3,7905.36,3,3,2,8,Regulars
+C00021,"Neha Reddy",Chennai,"Tamil nadu",317,2,7905.31,1,1,2,4,Regulars
+C00659,"Sanya Mishra",Delhi,Delhi,183,2,7900.75,2,2,2,6,Regulars
+C00400,"Vivaan Singh",Delhi,Delhi,54,4,7899.12,5,4,2,11,Loyal
+C00203,"Vikram Verma",Visakhapatnam,"Andhra pradesh",357,1,7878.51,1,1,2,4,Regulars
+C01503,"Ritu Kulkarni",Hyderabad,Telangana,49,3,7860.94,5,3,2,10,Regulars
+C01378,"Rahul Naidu",Mumbai,Maharashtra,81,3,7855.74,4,3,2,9,Regulars
+C01009,"Vikram Verma",Mumbai,Maharashtra,227,3,7843.50,1,2,2,5,Regulars
+C00819,"Samar Mukherjee",Lucknow,"Uttar pradesh",331,2,7813.67,1,1,2,4,Regulars
+C00085,"Rohan Naidu",Ahmedabad,Gujarat,78,1,7804.08,4,1,2,7,Regulars
+C01357,"Aditya Basu",Visakhapatnam,"Andhra pradesh",90,3,7803.36,4,3,2,9,Regulars
+C00184,"Ria Nair",Pune,Maharashtra,55,4,7787.67,5,4,2,11,Loyal
+C01741,"Neha Patel",Ahmedabad,Gujarat,98,3,7772.19,3,3,2,8,Regulars
+C00185,"Kavya Singh",Pune,Maharashtra,63,1,7768.98,4,1,2,7,Regulars
+C00209,"Ananya Mukherjee",Kochi,Kerala,322,2,7765.10,1,1,2,4,Regulars
+C01183,"Vivaan Kulkarni",Bengaluru,Karnataka,214,2,7760.21,1,2,2,5,Regulars
+C00599,"Kabir Sharma",Bengaluru,Karnataka,125,3,7733.03,3,3,2,8,Regulars
+C01685,"Aditya Sharma",Hyderabad,Telangana,134,4,7712.40,2,4,2,8,"At Risk"
+C00469,"Aisha Khan",Jaipur,Rajasthan,58,3,7694.31,5,3,2,10,Regulars
+C01178,"Ria Kulkarni",Visakhapatnam,"Andhra pradesh",38,3,7689.21,5,3,2,10,Regulars
+C01395,"Aarav Mishra",Visakhapatnam,"Andhra pradesh",41,4,7688.73,5,4,2,11,Loyal
+C00608,"Kabir Chowdhury",Visakhapatnam,"Andhra pradesh",62,4,7670.71,4,4,2,10,Loyal
+C00036,"Sneha Singh",Mumbai,Maharashtra,75,2,7667.02,4,2,2,8,Regulars
+C00647,"Anvi Gupta",Kochi,Kerala,220,3,7665.87,1,2,2,5,Regulars
+C01510,"Sneha Patel",Pune,Maharashtra,180,3,7654.29,2,3,2,7,"At Risk"
+C00895,"Kabir Mishra",Bengaluru,Karnataka,94,3,7649.77,3,3,2,8,Regulars
+C00883,"Rohan Kulkarni",Mumbai,Maharashtra,97,3,7642.51,3,3,2,8,Regulars
+C00089,"Isha Iyer",Kolkata,"West bengal",175,4,7640.53,2,4,2,8,"At Risk"
+C00949,"Neha Sharma",Ahmedabad,Gujarat,215,2,7640.52,1,2,2,5,Regulars
+C00582,"Anvi Chowdhury",Delhi,Delhi,46,3,7609.34,5,3,2,10,Regulars
+C01450,"Anvi Menon",Lucknow,"Uttar pradesh",90,3,7608.00,4,3,2,9,Regulars
+C00427,"Sanya Kulkarni",Bengaluru,Karnataka,156,2,7606.23,2,2,2,6,Regulars
+C00818,"Diya Kulkarni",Delhi,Delhi,254,2,7599.55,1,1,2,4,Regulars
+C01376,"Rahul Menon",Kolkata,"West bengal",223,4,7597.92,1,3,2,6,"At Risk"
+C00258,"Aarav Naidu",Lucknow,"Uttar pradesh",143,2,7594.62,2,2,2,6,Regulars
+C00904,"Kavya Singh",Kochi,Kerala,49,2,7593.46,5,2,2,9,Regulars
+C00780,"Isha Basu",Hyderabad,Telangana,289,2,7592.64,1,1,2,4,Regulars
+C01128,"Vivaan Sharma",Delhi,Delhi,75,3,7583.49,4,3,2,9,Regulars
+C01979,"Ananya Mishra",Delhi,Delhi,197,3,7569.66,2,2,2,6,Regulars
+C01880,"Aditya Das",Hyderabad,Telangana,72,2,7568.65,4,2,2,8,Regulars
+C01717,"Ria Kulkarni",Ahmedabad,Gujarat,83,4,7562.62,4,4,2,10,Loyal
+C01586,"Ananya Das",Bengaluru,Karnataka,97,3,7562.02,3,3,2,8,Regulars
+C01222,"Kabir Mishra",Lucknow,"Uttar pradesh",50,4,7554.74,5,4,2,11,Loyal
+C01910,"Irfan Gupta",Lucknow,"Uttar pradesh",64,3,7546.11,4,3,2,9,Regulars
+C01216,"Isha Nair",Bengaluru,Karnataka,239,3,7543.39,1,2,2,5,Regulars
+C01268,"Vivaan Naidu",Jaipur,Rajasthan,138,2,7535.15,2,2,2,6,Regulars
+C00443,"Diya Menon",Visakhapatnam,"Andhra pradesh",44,3,7535.05,5,3,2,10,Regulars
+C01312,"Sanya Chowdhury",Kochi,Kerala,91,2,7526.06,4,2,2,8,Regulars
+C01043,"Kavya Menon",Visakhapatnam,"Andhra pradesh",43,3,7520.21,5,3,2,10,Regulars
+C00080,"Ritu Verma",Bengaluru,Karnataka,256,2,7513.43,1,1,2,4,Regulars
+C00261,"Vikram Joshi",Kochi,Kerala,79,5,7510.66,4,5,2,11,Loyal
+C01861,"Rahul Mishra",Delhi,Delhi,201,3,7505.26,2,2,2,6,Regulars
+C01481,"Vikram Das",Ahmedabad,Gujarat,159,2,7504.58,2,2,2,6,Regulars
+C00723,"Kabir Nair",Chennai,"Tamil nadu",98,4,7494.99,3,4,2,9,Loyal
+C01336,"Vikram Reddy",Kolkata,"West bengal",184,3,7493.37,2,3,2,7,"At Risk"
+C00990,"Kabir Menon",Lucknow,"Uttar pradesh",65,3,7480.31,4,3,2,9,Regulars
+C00881,"Neha Reddy",Mumbai,Maharashtra,126,2,7478.83,3,2,2,7,Regulars
+C00879,"Diya Basu",Kochi,Kerala,161,3,7472.82,2,3,2,7,"At Risk"
+C01184,"Irfan Das",Kochi,Kerala,42,4,7457.74,5,4,2,11,Loyal
+C00020,"Ria Basu",Pune,Maharashtra,129,2,7456.67,3,2,2,7,Regulars
+C01457,"Ritu Joshi",Ahmedabad,Gujarat,37,2,7431.85,5,2,2,9,Regulars
+C01460,"Aarav Kulkarni",Mumbai,Maharashtra,70,2,7429.20,4,2,2,8,Regulars
+C01940,"Isha Chowdhury",Visakhapatnam,"Andhra pradesh",140,1,7428.64,2,1,2,5,Regulars
+C01983,"Vivaan Das",Kochi,Kerala,80,2,7362.73,4,2,2,8,Regulars
+C01308,"Sanya Das",Mumbai,Maharashtra,107,3,7350.74,3,3,2,8,Regulars
+C00735,"Sneha Chowdhury",Hyderabad,Telangana,81,3,7328.37,4,3,2,9,Regulars
+C00971,"Isha Kulkarni",Mumbai,Maharashtra,257,2,7298.08,1,1,2,4,Regulars
+C00737,"Vivaan Gupta",Lucknow,"Uttar pradesh",355,3,7297.18,1,2,2,5,Regulars
+C00147,"Irfan Khan",Jaipur,Rajasthan,127,3,7296.68,3,3,2,8,Regulars
+C01612,"Samar Patel",Lucknow,"Uttar pradesh",300,2,7294.30,1,1,2,4,Regulars
+C00207,"Aarav Rao",Lucknow,"Uttar pradesh",124,3,7288.06,3,3,2,8,Regulars
+C00804,"Kabir Khan",Pune,Maharashtra,63,3,7286.31,4,3,2,9,Regulars
+C01871,"Rahul Chowdhury",Lucknow,"Uttar pradesh",218,4,7284.03,1,3,2,6,"At Risk"
+C01616,"Rohan Chandra",Pune,Maharashtra,75,2,7281.30,4,2,2,8,Regulars
+C00293,"Ria Reddy",Kolkata,"West bengal",232,3,7271.05,1,2,2,5,Regulars
+C01553,"Aisha Rao",Kolkata,"West bengal",227,2,7267.13,1,2,2,5,Regulars
+C01275,"Aditya Mukherjee",Mumbai,Maharashtra,158,2,7261.49,2,2,2,6,Regulars
+C01343,"Aditya Khan",Chennai,"Tamil nadu",226,2,7251.16,1,2,2,5,Regulars
+C00731,"Aditya Kulkarni",Pune,Maharashtra,110,4,7250.25,3,4,2,9,Loyal
+C01984,"Isha Rao",Visakhapatnam,"Andhra pradesh",134,3,7242.50,2,3,2,7,"At Risk"
+C01812,"Rahul Kulkarni",Jaipur,Rajasthan,120,3,7238.32,3,3,2,8,Regulars
+C01807,"Kavya Sharma",Pune,Maharashtra,45,4,7234.90,5,4,2,11,Loyal
+C00498,"Sanya Kulkarni",Ahmedabad,Gujarat,256,1,7229.12,1,1,2,4,Regulars
+C00336,"Ria Patel",Bengaluru,Karnataka,128,2,7214.08,3,2,2,7,Regulars
+C00948,"Sanya Sharma",Jaipur,Rajasthan,356,1,7202.30,1,1,2,4,Regulars
+C00358,"Rahul Rao",Kochi,Kerala,109,3,7201.46,3,3,2,8,Regulars
+C00652,"Ria Rao",Kolkata,"West bengal",169,3,7198.33,2,3,2,7,"At Risk"
+C00619,"Kavya Iyer",Ahmedabad,Gujarat,262,2,7192.24,1,1,2,4,Regulars
+C01454,"Diya Naidu",Visakhapatnam,"Andhra pradesh",197,4,7174.20,2,3,2,7,"At Risk"
+C01403,"Kavya Nair",Bengaluru,Karnataka,52,4,7169.98,5,4,2,11,Loyal
+C00481,"Vikram Patel",Pune,Maharashtra,38,4,7168.44,5,4,2,11,Loyal
+C00195,"Kavya Sharma",Jaipur,Rajasthan,110,2,7162.42,3,2,2,7,Regulars
+C00817,"Kavya Singh",Pune,Maharashtra,65,4,7156.53,4,4,2,10,Loyal
+C01282,"Ritu Nair",Jaipur,Rajasthan,71,4,7139.00,4,4,2,10,Loyal
+C00662,"Kavya Sharma",Ahmedabad,Gujarat,227,4,7130.88,1,3,2,6,"At Risk"
+C00306,"Kabir Basu",Kolkata,"West bengal",59,3,7130.21,5,3,2,10,Regulars
+C01863,"Aisha Naidu",Mumbai,Maharashtra,116,3,7123.14,3,3,2,8,Regulars
+C01464,"Samar Verma",Visakhapatnam,"Andhra pradesh",40,3,7086.06,5,3,2,10,Regulars
+C01259,"Ria Das",Ahmedabad,Gujarat,241,1,7085.58,1,1,2,4,Regulars
+C01154,"Sanya Verma",Kochi,Kerala,37,2,7083.54,5,2,2,9,Regulars
+C01288,"Aarav Mukherjee",Pune,Maharashtra,381,2,7069.87,1,1,2,4,Regulars
+C01670,"Vivaan Mishra",Kolkata,"West bengal",133,1,7031.58,3,1,2,6,Regulars
+C00773,"Rohan Reddy",Pune,Maharashtra,183,4,7030.88,2,4,2,8,"At Risk"
+C01993,"Kavya Rao",Pune,Maharashtra,145,3,7021.88,2,3,2,7,"At Risk"
+C00096,"Ritu Gupta",Delhi,Delhi,96,4,7013.40,3,4,2,9,Loyal
+C01727,"Vivaan Menon",Bengaluru,Karnataka,67,2,6984.50,4,2,2,8,Regulars
+C00867,"Aarav Rao",Kolkata,"West bengal",101,3,6975.89,3,3,2,8,Regulars
+C01172,"Kabir Gupta",Ahmedabad,Gujarat,232,3,6959.11,1,2,2,5,Regulars
+C01598,"Aisha Basu",Ahmedabad,Gujarat,159,4,6950.17,2,4,2,8,"At Risk"
+C01214,"Rohan Naidu",Lucknow,"Uttar pradesh",371,3,6948.35,1,2,2,5,Regulars
+C01049,"Aditya Rao",Kochi,Kerala,40,3,6946.81,5,3,2,10,Regulars
+C01742,"Vikram Rao",Kolkata,"West bengal",101,1,6945.62,3,1,2,6,Regulars
+C00121,"Ananya Das",Chennai,"Tamil nadu",164,2,6936.70,2,2,2,6,Regulars
+C01915,"Rohan Khan",Lucknow,"Uttar pradesh",72,5,6915.36,4,5,2,11,Loyal
+C00263,"Ananya Verma",Ahmedabad,Gujarat,45,2,6902.15,5,2,2,9,Regulars
+C00067,"Rohan Gupta",Mumbai,Maharashtra,90,1,6893.22,4,1,2,7,Regulars
+C00980,"Sanya Mishra",Mumbai,Maharashtra,59,3,6886.62,5,3,2,10,Regulars
+C00220,"Vikram Mukherjee",Kolkata,"West bengal",51,3,6873.63,5,3,2,10,Regulars
+C00706,"Samar Singh",Ahmedabad,Gujarat,98,3,6865.00,3,3,2,8,Regulars
+C01134,"Diya Menon",Pune,Maharashtra,85,3,6861.00,4,3,2,9,Regulars
+C01500,"Ritu Basu",Visakhapatnam,"Andhra pradesh",100,2,6860.89,3,2,2,7,Regulars
+C01899,"Neha Rao",Ahmedabad,Gujarat,207,1,6849.66,2,1,2,5,Regulars
+C01991,"Ritu Chowdhury",Pune,Maharashtra,165,4,6834.94,2,4,2,8,"At Risk"
+C01297,"Aisha Gupta",Kochi,Kerala,88,4,6823.23,4,4,2,10,Loyal
+C00436,"Ria Chowdhury",Visakhapatnam,"Andhra pradesh",253,3,6821.29,1,2,2,5,Regulars
+C00727,"Diya Chowdhury",Pune,Maharashtra,103,2,6809.87,3,2,2,7,Regulars
+C01918,"Isha Menon",Pune,Maharashtra,47,3,6804.02,5,3,2,10,Regulars
+C00344,"Rohan Das",Kochi,Kerala,231,2,6786.43,1,2,2,5,Regulars
+C01081,"Ananya Rao",Mumbai,Maharashtra,61,3,6783.19,4,3,2,9,Regulars
+C01980,"Diya Das",Chennai,"Tamil nadu",238,2,6768.41,1,1,2,4,Regulars
+C00933,"Kabir Gupta",Pune,Maharashtra,149,2,6766.15,2,2,2,6,Regulars
+C01756,"Aisha Menon",Visakhapatnam,"Andhra pradesh",51,3,6761.26,5,3,2,10,Regulars
+C01305,"Ritu Gupta",Mumbai,Maharashtra,188,3,6745.94,2,3,2,7,"At Risk"
+C01099,"Ritu Gupta",Pune,Maharashtra,115,3,6737.07,3,3,2,8,Regulars
+C00610,"Sanya Nair",Kochi,Kerala,74,3,6730.18,4,3,2,9,Regulars
+C01102,"Isha Rao",Kolkata,"West bengal",158,3,6716.64,2,3,2,7,"At Risk"
+C01036,"Sneha Reddy",Ahmedabad,Gujarat,57,2,6709.99,5,2,2,9,Regulars
+C01511,"Anvi Chowdhury",Bengaluru,Karnataka,154,3,6704.16,2,3,2,7,"At Risk"
+C01708,"Ritu Naidu",Lucknow,"Uttar pradesh",194,2,6694.72,2,2,2,6,Regulars
+C01237,"Rohan Joshi",Hyderabad,Telangana,132,2,6674.81,3,2,2,7,Regulars
+C01692,"Rahul Gupta",Kochi,Kerala,44,3,6661.97,5,3,2,10,Regulars
+C01141,"Ritu Nair",Mumbai,Maharashtra,82,3,6657.68,4,3,2,9,Regulars
+C01844,"Kavya Reddy",Kolkata,"West bengal",123,4,6621.14,3,4,2,9,Loyal
+C01895,"Rahul Iyer",Lucknow,"Uttar pradesh",270,3,6605.86,1,2,2,5,Regulars
+C01945,"Neha Chandra",Bengaluru,Karnataka,243,3,6596.55,1,2,2,5,Regulars
+C00264,"Aditya Mukherjee",Kochi,Kerala,95,2,6558.69,3,2,2,7,Regulars
+C01245,"Ananya Mukherjee",Lucknow,"Uttar pradesh",309,2,6558.01,1,1,2,4,Regulars
+C00943,"Diya Verma",Delhi,Delhi,224,3,6550.43,1,2,2,5,Regulars
+C01207,"Ria Joshi",Jaipur,Rajasthan,43,2,6544.61,5,2,2,9,Regulars
+C01933,"Ria Joshi",Chennai,"Tamil nadu",102,2,6538.99,3,2,2,7,Regulars
+C00792,"Sanya Gupta",Chennai,"Tamil nadu",247,1,6524.55,1,1,2,4,Regulars
+C01365,"Sanya Reddy",Kolkata,"West bengal",63,3,6452.58,4,3,2,9,Regulars
+C00115,"Irfan Verma",Chennai,"Tamil nadu",90,2,6448.25,4,2,2,8,Regulars
+C00734,"Kabir Singh",Pune,Maharashtra,77,3,6427.73,4,3,2,9,Regulars
+C01843,"Vivaan Mukherjee",Lucknow,"Uttar pradesh",55,3,6427.09,5,3,2,10,Regulars
+C00978,"Rohan Iyer",Kochi,Kerala,102,2,6417.41,3,2,2,7,Regulars
+C00835,"Aarav Kulkarni",Kolkata,"West bengal",162,2,6416.16,2,2,2,6,Regulars
+C01422,"Sneha Naidu",Pune,Maharashtra,95,3,6399.96,3,3,2,8,Regulars
+C01474,"Ananya Patel",Chennai,"Tamil nadu",99,2,6398.45,3,2,2,7,Regulars
+C00870,"Sanya Singh",Bengaluru,Karnataka,56,3,6391.34,5,3,2,10,Regulars
+C00763,"Neha Nair",Visakhapatnam,"Andhra pradesh",278,2,6385.11,1,1,2,4,Regulars
+C00880,"Rahul Rao",Visakhapatnam,"Andhra pradesh",347,1,6382.14,1,1,2,4,Regulars
+C01466,"Vivaan Reddy",Mumbai,Maharashtra,91,4,6380.37,4,4,2,10,Loyal
+C00454,"Aditya Nair",Jaipur,Rajasthan,106,3,6379.75,3,3,2,8,Regulars
+C01087,"Samar Chandra",Delhi,Delhi,156,2,6357.57,2,2,2,6,Regulars
+C01805,"Sneha Verma",Chennai,"Tamil nadu",83,2,6356.38,4,2,2,8,Regulars
+C01515,"Ritu Singh",Jaipur,Rajasthan,51,3,6347.43,5,3,2,10,Regulars
+C00322,"Diya Reddy",Bengaluru,Karnataka,49,2,6346.15,5,2,2,9,Regulars
+C01353,"Sanya Mukherjee",Visakhapatnam,"Andhra pradesh",125,4,6333.83,3,4,2,9,Loyal
+C00621,"Isha Menon",Chennai,"Tamil nadu",313,3,6333.00,1,2,2,5,Regulars
+C00051,"Rohan Iyer",Mumbai,Maharashtra,130,3,6326.87,3,3,2,8,Regulars
+C01925,"Anvi Rao",Ahmedabad,Gujarat,126,2,6319.65,3,2,2,7,Regulars
+C01715,"Ritu Reddy",Bengaluru,Karnataka,111,2,6298.17,3,2,2,7,Regulars
+C00345,"Ritu Joshi",Jaipur,Rajasthan,87,1,6295.29,4,1,2,7,Regulars
+C00478,"Irfan Iyer",Kolkata,"West bengal",56,2,6278.03,5,2,2,9,Regulars
+C00173,"Vivaan Gupta",Visakhapatnam,"Andhra pradesh",54,2,6274.15,5,2,2,9,Regulars
+C01504,"Aisha Gupta",Delhi,Delhi,280,2,6269.86,1,1,2,4,Regulars
+C00004,"Sanya Iyer",Ahmedabad,Gujarat,141,2,6259.67,2,2,2,6,Regulars
+C00782,"Vikram Reddy",Pune,Maharashtra,242,1,6251.17,1,1,2,4,Regulars
+C01358,"Vivaan Nair",Visakhapatnam,"Andhra pradesh",157,3,6244.87,2,3,2,7,"At Risk"
+C01691,"Diya Chandra",Pune,Maharashtra,233,2,6232.31,1,2,2,5,Regulars
+C01673,"Kavya Reddy",Chennai,"Tamil nadu",147,3,6230.43,2,3,2,7,"At Risk"
+C01660,"Kabir Mukherjee",Mumbai,Maharashtra,54,4,6230.17,5,4,2,11,Loyal
+C00476,"Samar Naidu",Visakhapatnam,"Andhra pradesh",138,3,6221.45,2,3,2,7,"At Risk"
+C01044,"Samar Iyer",Delhi,Delhi,53,3,6220.08,5,3,2,10,Regulars
+C00929,"Kabir Khan",Bengaluru,Karnataka,290,2,6200.01,1,1,2,4,Regulars
+C01854,"Sanya Chandra",Chennai,"Tamil nadu",200,3,6164.93,2,2,2,6,Regulars
+C01057,"Ananya Chowdhury",Visakhapatnam,"Andhra pradesh",71,3,6159.32,4,3,2,9,Regulars
+C00153,"Isha Patel",Visakhapatnam,"Andhra pradesh",53,4,6143.31,5,4,2,11,Loyal
+C01541,"Rahul Basu",Visakhapatnam,"Andhra pradesh",308,1,6140.74,1,1,2,4,Regulars
+C00845,"Vivaan Basu",Kolkata,"West bengal",228,3,6139.14,1,2,2,5,Regulars
+C01267,"Ritu Chandra",Delhi,Delhi,311,1,6119.88,1,1,2,4,Regulars
+C00030,"Samar Reddy",Hyderabad,Telangana,44,2,6118.52,5,2,2,9,Regulars
+C01475,"Kabir Kulkarni",Kolkata,"West bengal",142,4,6117.51,2,4,2,8,"At Risk"
+C01356,"Irfan Rao",Kochi,Kerala,157,2,6111.46,2,2,2,6,Regulars
+C00171,"Ria Iyer",Mumbai,Maharashtra,264,2,6097.33,1,1,2,4,Regulars
+C01104,"Irfan Chandra",Kolkata,"West bengal",212,2,6091.93,1,2,2,5,Regulars
+C00329,"Sneha Reddy",Kolkata,"West bengal",162,2,6088.91,2,2,2,6,Regulars
+C00426,"Neha Mishra",Delhi,Delhi,243,2,6079.26,1,1,2,4,Regulars
+C01462,"Kabir Mishra",Delhi,Delhi,154,3,6079.01,2,3,2,7,"At Risk"
+C00865,"Aditya Chowdhury",Ahmedabad,Gujarat,44,2,6071.11,5,2,2,9,Regulars
+C01156,"Samar Basu",Hyderabad,Telangana,273,1,6049.92,1,1,2,4,Regulars
+C01599,"Diya Iyer",Kochi,Kerala,96,1,6048.40,3,1,2,6,Regulars
+C01050,"Neha Joshi",Kochi,Kerala,68,5,6045.04,4,5,2,11,Loyal
+C01886,"Vivaan Kulkarni",Jaipur,Rajasthan,214,2,6044.42,1,2,2,5,Regulars
+C01224,"Rahul Nair",Visakhapatnam,"Andhra pradesh",248,2,6038.19,1,1,2,4,Regulars
+C00109,"Sneha Mukherjee",Lucknow,"Uttar pradesh",177,4,6027.45,2,4,2,8,"At Risk"
+C00083,"Samar Chowdhury",Delhi,Delhi,51,2,6020.11,5,2,2,9,Regulars
+C00684,"Vikram Chowdhury",Bengaluru,Karnataka,80,2,6017.67,4,2,2,8,Regulars
+C01909,"Rahul Sharma",Lucknow,"Uttar pradesh",262,2,5993.88,1,1,2,4,Regulars
+C01583,"Irfan Nair",Chennai,"Tamil nadu",66,4,5969.35,4,4,2,10,Loyal
+C01561,"Aarav Chandra",Bengaluru,Karnataka,117,1,5963.91,3,1,2,6,Regulars
+C00572,"Sanya Das",Pune,Maharashtra,198,2,5940.42,2,2,2,6,Regulars
+C01950,"Aditya Basu",Pune,Maharashtra,230,3,5928.34,1,2,2,5,Regulars
+C00463,"Rahul Chowdhury",Hyderabad,Telangana,91,3,5926.28,4,3,2,9,Regulars
+C00392,"Aisha Iyer",Ahmedabad,Gujarat,167,2,5915.11,2,2,2,6,Regulars
+C00789,"Kavya Iyer",Jaipur,Rajasthan,157,3,5912.33,2,3,2,7,"At Risk"
+C00712,"Aarav Basu",Mumbai,Maharashtra,100,3,5897.28,3,3,2,8,Regulars
+C00902,"Samar Patel",Delhi,Delhi,67,3,5893.11,4,3,2,9,Regulars
+C01273,"Rahul Patel",Bengaluru,Karnataka,209,2,5874.03,2,2,2,6,Regulars
+C00826,"Aarav Singh",Hyderabad,Telangana,284,3,5866.99,1,2,2,5,Regulars
+C01645,"Diya Kulkarni",Visakhapatnam,"Andhra pradesh",376,1,5861.72,1,1,2,4,Regulars
+C00650,"Ritu Nair",Mumbai,Maharashtra,132,2,5852.20,3,2,2,7,Regulars
+C01677,"Sneha Verma",Kochi,Kerala,161,1,5851.66,2,1,2,5,Regulars
+C00745,"Sanya Nair",Delhi,Delhi,65,3,5842.80,4,3,2,9,Regulars
+C00269,"Samar Rao",Jaipur,Rajasthan,205,2,5823.60,2,2,2,6,Regulars
+C01973,"Aditya Menon",Mumbai,Maharashtra,194,1,5812.86,2,1,2,5,Regulars
+C00275,"Rohan Chowdhury",Kochi,Kerala,263,2,5807.36,1,1,2,4,Regulars
+C01954,"Neha Nair",Pune,Maharashtra,79,1,5785.14,4,1,2,7,Regulars
+C01873,"Vivaan Das",Mumbai,Maharashtra,322,2,5784.41,1,1,2,4,Regulars
+C01737,"Ria Iyer",Mumbai,Maharashtra,42,3,5782.32,5,3,2,10,Regulars
+C00416,"Aarav Mishra",Visakhapatnam,"Andhra pradesh",142,2,5780.41,2,2,2,6,Regulars
+C00532,"Ritu Patel",Lucknow,"Uttar pradesh",55,3,5767.89,5,3,2,10,Regulars
+C00303,"Rohan Singh",Kochi,Kerala,115,2,5765.00,3,2,2,7,Regulars
+C01641,"Samar Khan",Ahmedabad,Gujarat,177,2,5760.46,2,2,2,6,Regulars
+C00794,"Aditya Verma",Kochi,Kerala,69,3,5742.09,4,3,2,9,Regulars
+C01444,"Ria Chandra",Hyderabad,Telangana,107,3,5737.38,3,3,2,8,Regulars
+C01694,"Sanya Joshi",Chennai,"Tamil nadu",84,2,5706.61,4,2,2,8,Regulars
+C00341,"Sanya Nair",Delhi,Delhi,77,3,5703.26,4,3,2,9,Regulars
+C00989,"Kabir Das",Lucknow,"Uttar pradesh",115,2,5700.75,3,2,2,7,Regulars
+C00414,"Anvi Rao",Jaipur,Rajasthan,52,3,5693.45,5,3,2,10,Regulars
+C01543,"Kavya Mukherjee",Delhi,Delhi,99,3,5688.42,3,3,2,8,Regulars
+C01831,"Sanya Singh",Delhi,Delhi,36,4,5685.57,5,4,2,11,Loyal
+C00087,"Aditya Verma",Mumbai,Maharashtra,127,3,5676.76,3,3,2,8,Regulars
+C00602,"Anvi Menon",Hyderabad,Telangana,97,3,5674.27,3,3,2,8,Regulars
+C01830,"Kavya Gupta",Pune,Maharashtra,243,2,5668.84,1,1,2,4,Regulars
+C01002,"Anvi Chandra",Ahmedabad,Gujarat,128,3,5662.17,3,3,2,8,Regulars
+C01048,"Ananya Mukherjee",Ahmedabad,Gujarat,142,2,5661.59,2,2,2,6,Regulars
+C00342,"Isha Singh",Kolkata,"West bengal",45,3,5653.25,5,3,2,10,Regulars
+C01488,"Isha Verma",Ahmedabad,Gujarat,93,3,5652.51,3,3,2,8,Regulars
+C01626,"Neha Chandra",Kolkata,"West bengal",171,2,5636.34,2,2,2,6,Regulars
+C00714,"Irfan Basu",Jaipur,Rajasthan,297,1,5635.68,1,1,2,4,Regulars
+C01490,"Kavya Chandra",Lucknow,"Uttar pradesh",236,2,5631.64,1,2,2,5,Regulars
+C01544,"Irfan Patel",Bengaluru,Karnataka,112,2,5630.56,3,2,2,7,Regulars
+C01181,"Vivaan Basu",Kochi,Kerala,141,2,5630.35,2,2,2,6,Regulars
+C00132,"Ananya Basu",Pune,Maharashtra,56,4,5620.35,5,4,2,11,Loyal
+C01136,"Kavya Sharma",Mumbai,Maharashtra,77,3,5619.29,4,3,2,9,Regulars
+C01661,"Aarav Sharma",Lucknow,"Uttar pradesh",193,5,5611.14,2,4,2,8,"At Risk"
+C00760,"Rahul Gupta",Kolkata,"West bengal",127,3,5610.20,3,3,2,8,Regulars
+C01329,"Kavya Iyer",Visakhapatnam,"Andhra pradesh",123,2,5609.18,3,2,2,7,Regulars
+C00475,"Irfan Singh",Lucknow,"Uttar pradesh",131,3,5607.58,3,3,2,8,Regulars
+C01564,"Rahul Chowdhury",Ahmedabad,Gujarat,108,2,5580.92,3,2,2,7,Regulars
+C01196,"Isha Iyer",Visakhapatnam,"Andhra pradesh",198,1,5525.52,2,1,2,5,Regulars
+C01628,"Aditya Rao",Pune,Maharashtra,289,2,5523.10,1,1,2,4,Regulars
+C00032,"Irfan Sharma",Hyderabad,Telangana,351,1,5522.25,1,1,2,4,Regulars
+C01061,"Rohan Basu",Jaipur,Rajasthan,82,2,5521.70,4,2,2,8,Regulars
+C01733,"Kavya Menon",Bengaluru,Karnataka,251,1,5521.64,1,1,2,4,Regulars
+C00149,"Ananya Naidu",Lucknow,"Uttar pradesh",54,4,5515.77,5,4,2,11,Loyal
+C01885,"Anvi Patel",Visakhapatnam,"Andhra pradesh",133,1,5510.80,2,1,2,5,Regulars
+C00548,"Ria Rao",Hyderabad,Telangana,113,3,5505.96,3,3,2,8,Regulars
+C00351,"Rahul Mishra",Jaipur,Rajasthan,90,3,5503.11,4,3,2,9,Regulars
+C00825,"Kabir Mishra",Chennai,"Tamil nadu",347,2,5494.74,1,1,2,4,Regulars
+C00448,"Diya Patel",Pune,Maharashtra,396,1,5491.60,1,1,2,4,Regulars
+C01591,"Rohan Singh",Visakhapatnam,"Andhra pradesh",313,3,5491.13,1,2,2,5,Regulars
+C01182,"Irfan Basu",Jaipur,Rajasthan,261,3,5487.41,1,2,2,5,Regulars
+C00645,"Vivaan Chandra",Pune,Maharashtra,184,2,5469.85,2,2,2,6,Regulars
+C00031,"Ananya Patel",Hyderabad,Telangana,77,2,5460.72,4,2,2,8,Regulars
+C01332,"Kabir Singh",Pune,Maharashtra,268,2,5457.41,1,1,2,4,Regulars
+C00450,"Isha Gupta",Lucknow,"Uttar pradesh",79,3,5456.49,4,3,2,9,Regulars
+C01219,"Rohan Joshi",Lucknow,"Uttar pradesh",55,4,5430.90,5,4,2,11,Loyal
+C01415,"Vivaan Khan",Jaipur,Rajasthan,235,3,5420.64,1,2,2,5,Regulars
+C01333,"Ria Chandra",Kolkata,"West bengal",88,3,5417.77,4,3,2,9,Regulars
+C01215,"Ria Reddy",Delhi,Delhi,379,1,5414.56,1,1,2,4,Regulars
+C00575,"Aisha Iyer",Kochi,Kerala,163,3,5405.95,2,3,2,7,"At Risk"
+C01092,"Kabir Kulkarni",Bengaluru,Karnataka,40,2,5403.16,5,2,2,9,Regulars
+C01138,"Ria Gupta",Mumbai,Maharashtra,39,3,5376.41,5,3,2,10,Regulars
+C00008,"Sanya Chandra",Bengaluru,Karnataka,194,1,5376.27,2,1,2,5,Regulars
+C01545,"Rohan Rao",Ahmedabad,Gujarat,56,2,5376.26,5,2,2,9,Regulars
+C00589,"Vikram Verma",Delhi,Delhi,42,4,5342.64,5,4,2,11,Loyal
+C00764,"Aditya Nair",Pune,Maharashtra,190,3,5342.24,2,3,2,7,"At Risk"
+C00202,"Samar Mishra",Chennai,"Tamil nadu",99,3,5326.95,3,3,2,8,Regulars
+C00088,"Aarav Sharma",Mumbai,Maharashtra,100,2,5324.74,3,2,2,7,Regulars
+C00025,"Samar Joshi",Pune,Maharashtra,223,2,5312.96,1,2,2,5,Regulars
+C00357,"Aisha Iyer",Pune,Maharashtra,246,2,5288.12,1,1,2,4,Regulars
+C01042,"Anvi Kulkarni",Visakhapatnam,"Andhra pradesh",357,2,5281.04,1,1,2,4,Regulars
+C00095,"Rohan Singh",Visakhapatnam,"Andhra pradesh",356,2,5276.59,1,1,2,4,Regulars
+C01000,"Vivaan Kulkarni",Jaipur,Rajasthan,66,2,5261.26,4,2,2,8,Regulars
+C01244,"Neha Mishra",Bengaluru,Karnataka,151,2,5259.63,2,2,2,6,Regulars
+C01456,"Vikram Iyer",Lucknow,"Uttar pradesh",120,2,5223.94,3,2,2,7,Regulars
+C00037,"Anvi Verma",Chennai,"Tamil nadu",86,3,5214.04,4,3,2,9,Regulars
+C01881,"Rohan Kulkarni",Ahmedabad,Gujarat,94,3,5188.99,3,3,2,8,Regulars
+C00598,"Isha Khan",Kochi,Kerala,145,3,5163.17,2,3,2,7,"At Risk"
+C00492,"Rahul Chowdhury",Hyderabad,Telangana,224,2,5152.32,1,2,2,5,Regulars
+C00302,"Aditya Rao",Lucknow,"Uttar pradesh",183,2,5151.93,2,2,2,6,Regulars
+C01732,"Aditya Basu",Visakhapatnam,"Andhra pradesh",144,2,5147.14,2,2,2,6,Regulars
+C00277,"Aarav Singh",Mumbai,Maharashtra,114,2,5140.31,3,2,2,7,Regulars
+C01398,"Rahul Kulkarni",Ahmedabad,Gujarat,125,4,5129.01,3,4,2,9,Loyal
+C01682,"Kavya Kulkarni",Bengaluru,Karnataka,274,2,5120.05,1,1,2,4,Regulars
+C00893,"Ria Verma",Pune,Maharashtra,198,1,5107.58,2,1,2,5,Regulars
+C00517,"Isha Khan",Kolkata,"West bengal",93,2,5102.36,3,2,2,7,Regulars
+C00970,"Isha Iyer",Kolkata,"West bengal",219,3,5096.43,1,2,2,5,Regulars
+C01236,"Aisha Chandra",Bengaluru,Karnataka,117,3,5064.74,3,3,2,8,Regulars
+C00068,"Aisha Das",Bengaluru,Karnataka,89,3,5057.12,4,3,2,9,Regulars
+C00078,"Irfan Gupta",Lucknow,"Uttar pradesh",36,2,5055.77,5,2,2,9,Regulars
+C00449,"Neha Naidu",Ahmedabad,Gujarat,64,1,5032.30,4,1,2,7,Regulars
+C01022,"Rohan Patel",Bengaluru,Karnataka,167,2,5027.28,2,2,2,6,Regulars
+C01526,"Irfan Mishra",Visakhapatnam,"Andhra pradesh",57,3,5015.59,5,3,2,10,Regulars
+C00111,"Aarav Singh",Jaipur,Rajasthan,101,3,5003.70,3,3,2,8,Regulars
+C01683,"Ria Reddy",Visakhapatnam,"Andhra pradesh",97,2,4997.45,3,2,2,7,Regulars
+C00408,"Aisha Iyer",Jaipur,Rajasthan,279,2,4983.59,1,1,2,4,Regulars
+C00594,"Aditya Gupta",Kolkata,"West bengal",90,2,4977.13,4,2,2,8,Regulars
+C00649,"Aarav Verma",Kolkata,"West bengal",145,2,4976.79,2,2,2,6,Regulars
+C01917,"Ria Chandra",Chennai,"Tamil nadu",363,1,4954.89,1,1,2,4,Regulars
+C00982,"Sneha Basu",Visakhapatnam,"Andhra pradesh",395,1,4952.00,1,1,2,4,Regulars
+C00685,"Isha Iyer",Jaipur,Rajasthan,46,2,4950.74,5,2,2,9,Regulars
+C01337,"Ria Joshi",Ahmedabad,Gujarat,199,2,4949.73,2,2,2,6,Regulars
+C01420,"Vivaan Khan",Pune,Maharashtra,49,2,4946.15,5,2,2,9,Regulars
+C01839,"Irfan Nair",Bengaluru,Karnataka,149,2,4930.21,2,2,2,6,Regulars
+C01349,"Diya Chandra",Jaipur,Rajasthan,171,2,4915.77,2,2,2,6,Regulars
+C00018,"Ritu Chandra",Ahmedabad,Gujarat,146,2,4915.43,2,2,2,6,Regulars
+C01573,"Anvi Iyer",Kolkata,"West bengal",184,2,4898.74,2,2,2,6,Regulars
+C00116,"Kabir Basu",Pune,Maharashtra,103,3,4867.65,3,3,2,8,Regulars
+C00327,"Sneha Sharma",Visakhapatnam,"Andhra pradesh",315,2,4863.87,1,1,2,4,Regulars
+C00656,"Isha Kulkarni",Pune,Maharashtra,114,2,4846.11,3,2,2,7,Regulars
+C00324,"Vikram Joshi",Pune,Maharashtra,209,3,4845.63,2,2,2,6,Regulars
+C01114,"Anvi Gupta",Delhi,Delhi,85,2,4841.11,4,2,2,8,Regulars
+C00023,"Kabir Singh",Hyderabad,Telangana,119,2,4832.39,3,2,2,7,Regulars
+C01046,"Aarav Verma",Kolkata,"West bengal",61,2,4827.81,5,2,2,9,Regulars
+C01897,"Ria Mishra",Pune,Maharashtra,126,3,4806.50,3,3,2,8,Regulars
+C01205,"Ritu Mishra",Jaipur,Rajasthan,57,3,4794.79,5,3,2,10,Regulars
+C00623,"Kavya Sharma",Pune,Maharashtra,51,1,4788.64,5,1,2,8,Regulars
+C00485,"Isha Mishra",Pune,Maharashtra,99,1,4788.39,3,1,2,6,Regulars
+C01687,"Isha Chandra",Ahmedabad,Gujarat,70,2,4758.58,4,2,2,8,Regulars
+C00888,"Samar Nair",Ahmedabad,Gujarat,41,2,4753.89,5,2,2,9,Regulars
+C00299,"Aditya Mukherjee",Visakhapatnam,"Andhra pradesh",207,2,4752.39,2,2,2,6,Regulars
+C01711,"Sanya Basu",Visakhapatnam,"Andhra pradesh",98,2,4744.05,3,2,2,7,Regulars
+C00791,"Diya Mukherjee",Kolkata,"West bengal",295,3,4733.03,1,2,2,5,Regulars
+C01106,"Ritu Mishra",Delhi,Delhi,53,2,4719.92,5,2,2,9,Regulars
+C01076,"Vikram Kulkarni",Visakhapatnam,"Andhra pradesh",99,2,4702.06,3,2,2,7,Regulars
+C01752,"Kavya Verma",Jaipur,Rajasthan,44,3,4701.67,5,3,2,10,Regulars
+C01472,"Rahul Sharma",Ahmedabad,Gujarat,296,1,4663.16,1,1,2,4,Regulars
+C00371,"Aisha Mukherjee",Ahmedabad,Gujarat,80,3,4655.95,4,3,2,9,Regulars
+C01521,"Ananya Sharma",Kochi,Kerala,64,3,4638.31,4,3,2,9,Regulars
+C00750,"Aditya Chandra",Kolkata,"West bengal",41,2,4626.76,5,2,2,9,Regulars
+C00242,"Kavya Rao",Mumbai,Maharashtra,315,2,4626.44,1,1,2,4,Regulars
+C00519,"Samar Khan",Pune,Maharashtra,179,3,4624.26,2,3,2,7,"At Risk"
+C01696,"Aditya Mishra",Lucknow,"Uttar pradesh",383,1,4619.66,1,1,2,4,Regulars
+C00531,"Samar Basu",Delhi,Delhi,143,2,4614.27,2,2,2,6,Regulars
+C01260,"Diya Kulkarni",Visakhapatnam,"Andhra pradesh",71,3,4595.31,4,3,2,9,Regulars
+C00226,"Isha Reddy",Kochi,Kerala,72,2,4568.00,4,2,2,8,Regulars
+C01271,"Vivaan Joshi",Delhi,Delhi,278,2,4516.53,1,1,2,4,Regulars
+C01150,"Rahul Gupta",Jaipur,Rajasthan,143,1,4512.78,2,1,2,5,Regulars
+C01069,"Vivaan Khan",Kolkata,"West bengal",87,2,4506.69,4,2,2,8,Regulars
+C01354,"Irfan Patel",Mumbai,Maharashtra,54,2,4496.50,5,2,2,9,Regulars
+C00039,"Vivaan Iyer",Ahmedabad,Gujarat,127,2,4472.53,3,2,2,7,Regulars
+C01546,"Sanya Patel",Chennai,"Tamil nadu",176,2,4448.91,2,2,2,6,Regulars
+C01095,"Sanya Sharma",Chennai,"Tamil nadu",66,3,4424.85,4,3,2,9,Regulars
+C00387,"Sneha Chowdhury",Kochi,Kerala,249,2,4392.92,1,1,2,4,Regulars
+C00877,"Samar Naidu",Pune,Maharashtra,188,2,4391.59,2,2,2,6,Regulars
+C01772,"Anvi Mishra",Mumbai,Maharashtra,213,3,4379.68,1,2,2,5,Regulars
+C01119,"Rohan Reddy",Bengaluru,Karnataka,381,1,4375.64,1,1,2,4,Regulars
+C01399,"Sanya Rao",Ahmedabad,Gujarat,215,1,4329.68,1,1,2,4,Regulars
+C01228,"Ananya Iyer",Ahmedabad,Gujarat,104,2,4320.90,3,2,2,7,Regulars
+C01143,"Kavya Chowdhury",Bengaluru,Karnataka,173,2,4306.83,2,2,2,6,Regulars
+C00201,"Aditya Reddy",Mumbai,Maharashtra,393,1,4287.56,1,1,2,4,Regulars
+C00683,"Ria Singh",Ahmedabad,Gujarat,124,3,4272.77,3,3,1,7,Regulars
+C00661,"Ananya Gupta",Kolkata,"West bengal",210,1,4271.26,2,1,1,4,Regulars
+C01707,"Sanya Gupta",Kochi,Kerala,57,1,4268.80,5,1,1,7,Regulars
+C00307,"Vivaan Joshi",Ahmedabad,Gujarat,228,2,4266.72,1,2,1,4,Regulars
+C00079,"Aarav Verma",Hyderabad,Telangana,44,3,4253.48,5,3,1,9,Regulars
+C00500,"Anvi Basu",Delhi,Delhi,212,2,4248.50,2,2,1,5,Regulars
+C01197,"Ritu Mukherjee",Kolkata,"West bengal",174,2,4243.68,2,2,1,5,Regulars
+C01768,"Aarav Chandra",Chennai,"Tamil nadu",87,2,4231.96,4,2,1,7,Regulars
+C00014,"Ritu Joshi",Hyderabad,Telangana,297,1,4229.62,1,1,1,3,Regulars
+C01602,"Irfan Menon",Bengaluru,Karnataka,203,2,4212.82,2,2,1,5,Regulars
+C00923,"Neha Mishra",Pune,Maharashtra,344,2,4207.05,1,1,1,3,Regulars
+C01286,"Vikram Sharma",Visakhapatnam,"Andhra pradesh",166,3,4199.00,2,3,1,6,"At Risk"
+C01428,"Rahul Khan",Visakhapatnam,"Andhra pradesh",63,2,4149.67,4,2,1,7,Regulars
+C01321,"Rahul Gupta",Chennai,"Tamil nadu",147,1,4148.06,2,1,1,4,Regulars
+C01112,"Sneha Verma",Kolkata,"West bengal",212,2,4121.18,1,2,1,4,Regulars
+C00282,"Samar Kulkarni",Kolkata,"West bengal",343,2,4117.28,1,1,1,3,Regulars
+C00924,"Isha Naidu",Ahmedabad,Gujarat,178,2,4113.35,2,2,1,5,Regulars
+C01762,"Rohan Joshi",Hyderabad,Telangana,209,2,4109.80,2,2,1,5,Regulars
+C00504,"Neha Naidu",Lucknow,"Uttar pradesh",356,2,4102.18,1,1,1,3,Regulars
+C01338,"Neha Das",Mumbai,Maharashtra,125,2,4093.54,3,2,1,6,Regulars
+C01693,"Kabir Basu",Kolkata,"West bengal",237,1,4087.59,1,1,1,3,Regulars
+C00144,"Aarav Singh",Kochi,Kerala,74,1,4085.00,4,1,1,6,Regulars
+C01033,"Samar Kulkarni",Mumbai,Maharashtra,50,2,4081.78,5,2,1,8,Regulars
+C01569,"Vivaan Sharma",Kolkata,"West bengal",141,3,4080.15,2,3,1,6,"At Risk"
+C00486,"Aditya Singh",Pune,Maharashtra,62,2,4073.52,4,2,1,7,Regulars
+C01499,"Ria Verma",Chennai,"Tamil nadu",54,2,4070.70,5,2,1,8,Regulars
+C01467,"Sneha Mukherjee",Delhi,Delhi,94,3,4067.04,3,3,1,7,Regulars
+C00604,"Isha Mishra",Lucknow,"Uttar pradesh",165,1,4062.72,2,1,1,4,Regulars
+C01088,"Diya Nair",Delhi,Delhi,44,2,4049.67,5,2,1,8,Regulars
+C01866,"Diya Naidu",Lucknow,"Uttar pradesh",270,2,4038.65,1,1,1,3,Regulars
+C00757,"Ananya Chandra",Lucknow,"Uttar pradesh",324,1,4029.91,1,1,1,3,Regulars
+C00043,"Ritu Verma",Visakhapatnam,"Andhra pradesh",162,2,4025.91,2,2,1,5,Regulars
+C01757,"Anvi Naidu",Pune,Maharashtra,239,2,4015.92,1,1,1,3,Regulars
+C00925,"Neha Iyer",Lucknow,"Uttar pradesh",107,2,4010.08,3,2,1,6,Regulars
+C00194,"Irfan Nair",Visakhapatnam,"Andhra pradesh",65,1,3972.75,4,1,1,6,Regulars
+C00328,"Aisha Iyer",Jaipur,Rajasthan,163,2,3963.96,2,2,1,5,Regulars
+C00029,"Isha Naidu",Chennai,"Tamil nadu",365,2,3956.04,1,1,1,3,Regulars
+C00291,"Irfan Reddy",Kochi,Kerala,65,2,3951.72,4,2,1,7,Regulars
+C00931,"Rahul Verma",Chennai,"Tamil nadu",219,1,3949.18,1,1,1,3,Regulars
+C01430,"Aisha Joshi",Mumbai,Maharashtra,180,2,3947.22,2,2,1,5,Regulars
+C00542,"Rohan Singh",Hyderabad,Telangana,289,1,3946.76,1,1,1,3,Regulars
+C01202,"Ritu Verma",Ahmedabad,Gujarat,70,3,3941.96,4,3,1,8,Regulars
+C00965,"Ritu Chandra",Lucknow,"Uttar pradesh",93,2,3940.05,3,2,1,6,Regulars
+C00611,"Ria Joshi",Jaipur,Rajasthan,216,2,3937.33,1,2,1,4,Regulars
+C01341,"Anvi Verma",Hyderabad,Telangana,176,2,3933.65,2,2,1,5,Regulars
+C01200,"Kavya Joshi",Visakhapatnam,"Andhra pradesh",358,1,3932.02,1,1,1,3,Regulars
+C00966,"Ritu Singh",Mumbai,Maharashtra,334,1,3910.80,1,1,1,3,Regulars
+C00148,"Aditya Patel",Kochi,Kerala,249,1,3903.40,1,1,1,3,Regulars
+C01512,"Vikram Kulkarni",Lucknow,"Uttar pradesh",162,2,3893.36,2,2,1,5,Regulars
+C00995,"Irfan Nair",Delhi,Delhi,265,2,3889.15,1,1,1,3,Regulars
+C01972,"Diya Verma",Kolkata,"West bengal",208,2,3885.27,2,2,1,5,Regulars
+C00681,"Ria Gupta",Visakhapatnam,"Andhra pradesh",157,2,3884.91,2,2,1,5,Regulars
+C00304,"Sneha Naidu",Lucknow,"Uttar pradesh",58,1,3874.02,5,1,1,7,Regulars
+C01277,"Sneha Menon",Kochi,Kerala,144,2,3873.66,2,2,1,5,Regulars
+C01226,"Neha Joshi",Lucknow,"Uttar pradesh",133,2,3867.61,3,2,1,6,Regulars
+C00321,"Ananya Chandra",Delhi,Delhi,175,1,3867.38,2,1,1,4,Regulars
+C00981,"Aarav Das",Lucknow,"Uttar pradesh",235,2,3855.45,1,2,1,4,Regulars
+C01966,"Rahul Singh",Lucknow,"Uttar pradesh",228,2,3845.63,1,2,1,4,Regulars
+C01638,"Vikram Reddy",Kochi,Kerala,263,2,3823.40,1,1,1,3,Regulars
+C00503,"Irfan Sharma",Jaipur,Rajasthan,289,3,3805.70,1,2,1,4,Regulars
+C01189,"Sanya Singh",Ahmedabad,Gujarat,206,1,3804.80,2,1,1,4,Regulars
+C01161,"Sanya Kulkarni",Pune,Maharashtra,142,2,3801.38,2,2,1,5,Regulars
+C00388,"Vikram Basu",Bengaluru,Karnataka,158,2,3781.80,2,2,1,5,Regulars
+C00034,"Anvi Joshi",Lucknow,"Uttar pradesh",289,2,3781.12,1,1,1,3,Regulars
+C01144,"Rohan Chowdhury",Kochi,Kerala,47,2,3775.05,5,2,1,8,Regulars
+C00413,"Ritu Khan",Kochi,Kerala,113,2,3742.14,3,2,1,6,Regulars
+C01743,"Anvi Chowdhury",Visakhapatnam,"Andhra pradesh",88,2,3740.54,4,2,1,7,Regulars
+C01723,"Ritu Khan",Lucknow,"Uttar pradesh",57,3,3736.63,5,3,1,9,Regulars
+C01900,"Diya Naidu",Lucknow,"Uttar pradesh",288,1,3732.27,1,1,1,3,Regulars
+C00343,"Aarav Iyer",Ahmedabad,Gujarat,54,2,3731.48,5,2,1,8,Regulars
+C01272,"Rahul Nair",Delhi,Delhi,243,1,3721.20,1,1,1,3,Regulars
+C00138,"Ritu Iyer",Chennai,"Tamil nadu",43,2,3698.86,5,2,1,8,Regulars
+C00179,"Vivaan Singh",Kolkata,"West bengal",193,2,3691.09,2,2,1,5,Regulars
+C01060,"Aditya Kulkarni",Hyderabad,Telangana,154,2,3678.92,2,2,1,5,Regulars
+C00372,"Rohan Singh",Hyderabad,Telangana,339,2,3674.40,1,1,1,3,Regulars
+C01908,"Kabir Rao",Jaipur,Rajasthan,83,1,3671.16,4,1,1,6,Regulars
+C01878,"Sneha Basu",Mumbai,Maharashtra,65,1,3668.78,4,1,1,6,Regulars
+C00985,"Diya Rao",Hyderabad,Telangana,230,3,3666.76,1,2,1,4,Regulars
+C01571,"Ananya Rao",Pune,Maharashtra,292,2,3663.92,1,1,1,3,Regulars
+C01975,"Rohan Joshi",Mumbai,Maharashtra,190,2,3650.95,2,2,1,5,Regulars
+C00749,"Kavya Kulkarni",Delhi,Delhi,139,1,3605.08,2,1,1,4,Regulars
+C01712,"Isha Naidu",Hyderabad,Telangana,385,1,3601.64,1,1,1,3,Regulars
+C01674,"Rahul Chowdhury",Visakhapatnam,"Andhra pradesh",153,1,3593.26,2,1,1,4,Regulars
+C01508,"Rohan Gupta",Delhi,Delhi,151,1,3582.57,2,1,1,4,Regulars
+C00439,"Vivaan Menon",Ahmedabad,Gujarat,180,3,3577.40,2,3,1,6,"At Risk"
+C01492,"Isha Gupta",Bengaluru,Karnataka,74,2,3565.37,4,2,1,7,Regulars
+C00693,"Sanya Naidu",Visakhapatnam,"Andhra pradesh",89,2,3556.16,4,2,1,7,Regulars
+C01506,"Sneha Singh",Kolkata,"West bengal",72,2,3545.84,4,2,1,7,Regulars
+C00332,"Kabir Verma",Mumbai,Maharashtra,337,2,3537.69,1,1,1,3,Regulars
+C01052,"Samar Patel",Jaipur,Rajasthan,275,1,3534.86,1,1,1,3,Regulars
+C00680,"Neha Rao",Kochi,Kerala,66,2,3496.56,4,2,1,7,Regulars
+C00526,"Ananya Verma",Kochi,Kerala,237,2,3485.82,1,1,1,3,Regulars
+C01380,"Anvi Rao",Delhi,Delhi,71,2,3484.43,4,2,1,7,Regulars
+C00155,"Samar Patel",Visakhapatnam,"Andhra pradesh",278,2,3481.32,1,1,1,3,Regulars
+C00487,"Ritu Rao",Delhi,Delhi,138,1,3475.18,2,1,1,4,Regulars
+C01944,"Sanya Patel",Pune,Maharashtra,148,2,3455.24,2,2,1,5,Regulars
+C01522,"Ria Mukherjee",Kochi,Kerala,138,3,3453.60,2,3,1,6,"At Risk"
+C01328,"Aditya Mishra",Delhi,Delhi,173,2,3444.19,2,2,1,5,Regulars
+C00554,"Rahul Verma",Bengaluru,Karnataka,367,1,3434.24,1,1,1,3,Regulars
+C01012,"Ria Gupta",Ahmedabad,Gujarat,103,2,3433.55,3,2,1,6,Regulars
+C01120,"Vivaan Kulkarni",Bengaluru,Karnataka,160,2,3417.38,2,2,1,5,Regulars
+C00858,"Ritu Joshi",Ahmedabad,Gujarat,225,2,3414.47,1,2,1,4,Regulars
+C00664,"Kavya Chandra",Kochi,Kerala,196,3,3406.31,2,2,1,5,Regulars
+C01263,"Aarav Patel",Kolkata,"West bengal",52,2,3393.36,5,2,1,8,Regulars
+C01082,"Neha Rao",Ahmedabad,Gujarat,49,1,3384.43,5,1,1,7,Regulars
+C00272,"Kavya Naidu",Pune,Maharashtra,88,3,3375.08,4,3,1,8,Regulars
+C00237,"Vikram Menon",Mumbai,Maharashtra,237,2,3365.34,1,1,1,3,Regulars
+C00950,"Rohan Rao",Lucknow,"Uttar pradesh",218,2,3353.70,1,2,1,4,Regulars
+C00687,"Kavya Kulkarni",Visakhapatnam,"Andhra pradesh",307,2,3348.54,1,1,1,3,Regulars
+C01190,"Rohan Naidu",Kochi,Kerala,125,2,3341.76,3,2,1,6,Regulars
+C00310,"Ria Menon",Hyderabad,Telangana,267,1,3332.13,1,1,1,3,Regulars
+C00049,"Diya Gupta",Kolkata,"West bengal",143,2,3321.75,2,2,1,5,Regulars
+C00953,"Rohan Das",Delhi,Delhi,91,2,3318.91,4,2,1,7,Regulars
+C01580,"Sanya Singh",Bengaluru,Karnataka,90,2,3308.39,4,2,1,7,Regulars
+C00571,"Aisha Joshi",Hyderabad,Telangana,45,2,3299.04,5,2,1,8,Regulars
+C00618,"Aisha Verma",Hyderabad,Telangana,238,2,3285.24,1,1,1,3,Regulars
+C00048,"Ria Mishra",Lucknow,"Uttar pradesh",96,1,3277.79,3,1,1,5,Regulars
+C00793,"Irfan Joshi",Lucknow,"Uttar pradesh",39,2,3243.79,5,2,1,8,Regulars
+C00945,"Sanya Patel",Kolkata,"West bengal",87,2,3225.53,4,2,1,7,Regulars
+C00318,"Aditya Rao",Bengaluru,Karnataka,72,2,3215.84,4,2,1,7,Regulars
+C00511,"Rohan Mishra",Mumbai,Maharashtra,191,1,3198.46,2,1,1,4,Regulars
+C01468,"Vivaan Das",Jaipur,Rajasthan,271,2,3195.55,1,1,1,3,Regulars
+C00573,"Ritu Reddy",Bengaluru,Karnataka,197,2,3188.49,2,2,1,5,Regulars
+C01957,"Ria Kulkarni",Chennai,"Tamil nadu",260,2,3186.52,1,1,1,3,Regulars
+C01827,"Ria Das",Ahmedabad,Gujarat,158,1,3180.61,2,1,1,4,Regulars
+C00298,"Aarav Mishra",Chennai,"Tamil nadu",301,1,3179.74,1,1,1,3,Regulars
+C00534,"Neha Rao",Chennai,"Tamil nadu",281,1,3171.27,1,1,1,3,Regulars
+C00464,"Aditya Das",Ahmedabad,Gujarat,54,3,3145.27,5,3,1,9,Regulars
+C00999,"Kavya Singh",Bengaluru,Karnataka,77,2,3141.03,4,2,1,7,Regulars
+C00938,"Ritu Mishra",Chennai,"Tamil nadu",200,1,3134.27,2,1,1,4,Regulars
+C01497,"Vivaan Iyer",Hyderabad,Telangana,88,2,3121.05,4,2,1,7,Regulars
+C00553,"Rahul Kulkarni",Jaipur,Rajasthan,346,1,3116.36,1,1,1,3,Regulars
+C00070,"Anvi Khan",Kolkata,"West bengal",263,1,3116.23,1,1,1,3,Regulars
+C00671,"Vikram Khan",Delhi,Delhi,149,1,3113.96,2,1,1,4,Regulars
+C00821,"Aarav Kulkarni",Hyderabad,Telangana,108,1,3109.07,3,1,1,5,Regulars
+C01212,"Aisha Khan",Kolkata,"West bengal",173,2,3079.49,2,2,1,5,Regulars
+C01097,"Vivaan Basu",Delhi,Delhi,188,2,3078.36,2,2,1,5,Regulars
+C00354,"Aditya Khan",Hyderabad,Telangana,69,2,3071.41,4,2,1,7,Regulars
+C01759,"Rohan Nair",Visakhapatnam,"Andhra pradesh",131,1,3059.73,3,1,1,5,Regulars
+C00901,"Ananya Nair",Chennai,"Tamil nadu",352,1,3059.20,1,1,1,3,Regulars
+C01018,"Vikram Chowdhury",Kolkata,"West bengal",134,2,3045.74,2,2,1,5,Regulars
+C01019,"Irfan Joshi",Pune,Maharashtra,110,2,3044.93,3,2,1,6,Regulars
+C01155,"Aarav Mukherjee",Jaipur,Rajasthan,399,1,3024.78,1,1,1,3,Regulars
+C01250,"Rahul Kulkarni",Delhi,Delhi,183,2,3015.49,2,2,1,5,Regulars
+C00842,"Vivaan Mukherjee",Hyderabad,Telangana,344,2,2972.15,1,1,1,3,Regulars
+C01501,"Anvi Sharma",Bengaluru,Karnataka,156,1,2964.77,2,1,1,4,Regulars
+C00313,"Irfan Basu",Hyderabad,Telangana,110,1,2941.70,3,1,1,5,Regulars
+C01326,"Irfan Joshi",Pune,Maharashtra,60,1,2937.46,5,1,1,7,Regulars
+C00229,"Irfan Mishra",Kochi,Kerala,81,2,2936.88,4,2,1,7,Regulars
+C01372,"Anvi Joshi",Kolkata,"West bengal",317,2,2905.48,1,1,1,3,Regulars
+C00166,"Vivaan Naidu",Hyderabad,Telangana,178,2,2899.32,2,2,1,5,Regulars
+C01314,"Vivaan Menon",Mumbai,Maharashtra,259,1,2889.55,1,1,1,3,Regulars
+C00936,"Kabir Nair",Kochi,Kerala,60,2,2886.83,5,2,1,8,Regulars
+C00654,"Kabir Mishra",Bengaluru,Karnataka,343,2,2885.87,1,1,1,3,Regulars
+C00376,"Ananya Chowdhury",Chennai,"Tamil nadu",262,2,2876.30,1,1,1,3,Regulars
+C01887,"Ria Sharma",Pune,Maharashtra,331,2,2873.51,1,1,1,3,Regulars
+C01877,"Vikram Reddy",Kolkata,"West bengal",241,1,2866.80,1,1,1,3,Regulars
+C01825,"Aarav Khan",Lucknow,"Uttar pradesh",314,1,2858.34,1,1,1,3,Regulars
+C00717,"Vivaan Basu",Ahmedabad,Gujarat,362,1,2839.70,1,1,1,3,Regulars
+C01304,"Diya Mishra",Chennai,"Tamil nadu",176,2,2835.46,2,2,1,5,Regulars
+C01361,"Irfan Sharma",Lucknow,"Uttar pradesh",125,3,2830.95,3,3,1,7,Regulars
+C00765,"Irfan Iyer",Delhi,Delhi,258,1,2826.31,1,1,1,3,Regulars
+C00489,"Diya Patel",Lucknow,"Uttar pradesh",123,2,2817.73,3,2,1,6,Regulars
+C01269,"Aditya Chowdhury",Lucknow,"Uttar pradesh",245,1,2808.62,1,1,1,3,Regulars
+C01137,"Vivaan Iyer",Ahmedabad,Gujarat,139,1,2790.08,2,1,1,4,Regulars
+C01795,"Irfan Iyer",Pune,Maharashtra,82,2,2786.89,4,2,1,7,Regulars
+C01300,"Kabir Joshi",Jaipur,Rajasthan,68,3,2772.91,4,3,1,8,Regulars
+C00380,"Aisha Singh",Chennai,"Tamil nadu",299,1,2757.28,1,1,1,3,Regulars
+C00009,"Sanya Das",Bengaluru,Karnataka,189,2,2750.93,2,2,1,5,Regulars
+C01777,"Ria Nair",Kolkata,"West bengal",381,1,2746.72,1,1,1,3,Regulars
+C01776,"Rohan Singh",Visakhapatnam,"Andhra pradesh",209,2,2738.86,2,2,1,5,Regulars
+C00002,"Vikram Reddy",Mumbai,Maharashtra,249,1,2731.67,1,1,1,3,Regulars
+C00711,"Kavya Chandra",Ahmedabad,Gujarat,327,2,2719.83,1,1,1,3,Regulars
+C01716,"Isha Sharma",Mumbai,Maharashtra,313,1,2715.30,1,1,1,3,Regulars
+C01188,"Aarav Singh",Mumbai,Maharashtra,320,1,2654.08,1,1,1,3,Regulars
+C01094,"Vikram Kulkarni",Bengaluru,Karnataka,127,2,2651.70,3,2,1,6,Regulars
+C00365,"Irfan Reddy",Jaipur,Rajasthan,130,2,2646.55,3,2,1,6,Regulars
+C01130,"Sanya Menon",Bengaluru,Karnataka,150,2,2641.79,2,2,1,5,Regulars
+C00100,"Isha Mukherjee",Kochi,Kerala,42,1,2631.30,5,1,1,7,Regulars
+C01549,"Ria Chowdhury",Ahmedabad,Gujarat,166,1,2627.04,2,1,1,4,Regulars
+C01824,"Samar Chandra",Chennai,"Tamil nadu",264,2,2625.82,1,1,1,3,Regulars
+C00808,"Samar Sharma",Kolkata,"West bengal",258,2,2623.13,1,1,1,3,Regulars
+C01109,"Ritu Das",Pune,Maharashtra,336,1,2593.77,1,1,1,3,Regulars
+C01710,"Vikram Basu",Delhi,Delhi,159,1,2592.15,2,1,1,4,Regulars
+C00987,"Samar Menon",Hyderabad,Telangana,362,1,2589.48,1,1,1,3,Regulars
+C01073,"Sanya Mishra",Ahmedabad,Gujarat,142,2,2566.73,2,2,1,5,Regulars
+C01965,"Ananya Chowdhury",Bengaluru,Karnataka,134,2,2565.08,2,2,1,5,Regulars
+C00241,"Diya Khan",Chennai,"Tamil nadu",61,1,2552.88,5,1,1,7,Regulars
+C00772,"Kabir Rao",Jaipur,Rajasthan,168,2,2545.22,2,2,1,5,Regulars
+C01159,"Sanya Verma",Chennai,"Tamil nadu",53,2,2523.14,5,2,1,8,Regulars
+C00172,"Ria Kulkarni",Hyderabad,Telangana,398,1,2479.49,1,1,1,3,Regulars
+C00799,"Kavya Khan",Mumbai,Maharashtra,109,3,2478.79,3,3,1,7,Regulars
+C01434,"Neha Sharma",Jaipur,Rajasthan,41,2,2470.42,5,2,1,8,Regulars
+C01568,"Ananya Menon",Visakhapatnam,"Andhra pradesh",56,1,2456.65,5,1,1,7,Regulars
+C00853,"Kabir Basu",Mumbai,Maharashtra,398,1,2439.07,1,1,1,3,Regulars
+C00015,"Kavya Reddy",Chennai,"Tamil nadu",206,1,2426.85,2,1,1,4,Regulars
+C01367,"Kabir Nair",Kolkata,"West bengal",44,1,2424.12,5,1,1,7,Regulars
+C00279,"Aarav Joshi",Visakhapatnam,"Andhra pradesh",272,1,2418.19,1,1,1,3,Regulars
+C01597,"Vikram Khan",Kochi,Kerala,124,2,2417.94,3,2,1,6,Regulars
+C00587,"Irfan Khan",Chennai,"Tamil nadu",174,2,2415.51,2,2,1,5,Regulars
+C00407,"Diya Khan",Jaipur,Rajasthan,242,2,2410.29,1,1,1,3,Regulars
+C00636,"Rahul Mishra",Mumbai,Maharashtra,236,2,2363.37,1,2,1,4,Regulars
+C01630,"Aarav Khan",Ahmedabad,Gujarat,370,1,2341.92,1,1,1,3,Regulars
+C01105,"Vivaan Naidu",Delhi,Delhi,353,1,2339.97,1,1,1,3,Regulars
+C01293,"Anvi Reddy",Kolkata,"West bengal",211,2,2313.79,2,2,1,5,Regulars
+C01249,"Ritu Mishra",Visakhapatnam,"Andhra pradesh",36,1,2312.20,5,1,1,7,Regulars
+C00141,"Sanya Kulkarni",Ahmedabad,Gujarat,257,2,2309.95,1,1,1,3,Regulars
+C00236,"Aarav Mishra",Chennai,"Tamil nadu",224,1,2309.10,1,1,1,3,Regulars
+C00617,"Aarav Mukherjee",Hyderabad,Telangana,130,1,2305.23,3,1,1,5,Regulars
+C00502,"Ritu Nair",Pune,Maharashtra,221,2,2267.81,1,2,1,4,Regulars
+C00222,"Vivaan Gupta",Kochi,Kerala,398,1,2262.85,1,1,1,3,Regulars
+C00353,"Kabir Basu",Ahmedabad,Gujarat,273,1,2255.59,1,1,1,3,Regulars
+C00265,"Ria Chandra",Lucknow,"Uttar pradesh",246,1,2255.25,1,1,1,3,Regulars
+C01611,"Samar Iyer",Ahmedabad,Gujarat,86,2,2244.51,4,2,1,7,Regulars
+C01680,"Vivaan Khan",Hyderabad,Telangana,189,2,2216.16,2,2,1,5,Regulars
+C01072,"Sneha Rao",Pune,Maharashtra,107,1,2205.02,3,1,1,5,Regulars
+C01576,"Neha Iyer",Pune,Maharashtra,191,1,2200.76,2,1,1,4,Regulars
+C01689,"Rohan Reddy",Delhi,Delhi,136,1,2185.18,2,1,1,4,Regulars
+C01726,"Sneha Chowdhury",Bengaluru,Karnataka,83,2,2183.49,4,2,1,7,Regulars
+C01382,"Rahul Kulkarni",Ahmedabad,Gujarat,170,2,2183.39,2,2,1,5,Regulars
+C01851,"Ritu Chowdhury",Jaipur,Rajasthan,388,1,2181.10,1,1,1,3,Regulars
+C00891,"Kabir Nair",Jaipur,Rajasthan,145,2,2111.56,2,2,1,5,Regulars
+C01872,"Samar Gupta",Bengaluru,Karnataka,189,1,2102.67,2,1,1,4,Regulars
+C01331,"Isha Sharma",Kochi,Kerala,155,1,2079.62,2,1,1,4,Regulars
+C01644,"Vivaan Patel",Kolkata,"West bengal",156,2,2074.58,2,2,1,5,Regulars
+C00136,"Rahul Sharma",Delhi,Delhi,75,1,2062.85,4,1,1,6,Regulars
+C01704,"Isha Reddy",Visakhapatnam,"Andhra pradesh",239,1,2057.08,1,1,1,3,Regulars
+C00373,"Rahul Kulkarni",Pune,Maharashtra,280,2,2055.90,1,1,1,3,Regulars
+C00704,"Aditya Basu",Jaipur,Rajasthan,141,1,2051.14,2,1,1,4,Regulars
+C00648,"Ritu Singh",Hyderabad,Telangana,299,1,2047.51,1,1,1,3,Regulars
+C00260,"Aisha Iyer",Mumbai,Maharashtra,396,1,2039.49,1,1,1,3,Regulars
+C00204,"Ananya Reddy",Jaipur,Rajasthan,112,1,2032.54,3,1,1,5,Regulars
+C01559,"Aarav Chandra",Mumbai,Maharashtra,263,1,2014.24,1,1,1,3,Regulars
+C01292,"Sneha Nair",Lucknow,"Uttar pradesh",100,1,2002.32,3,1,1,5,Regulars
+C00942,"Samar Patel",Visakhapatnam,"Andhra pradesh",186,2,1994.49,2,2,1,5,Regulars
+C01947,"Sneha Kulkarni",Jaipur,Rajasthan,112,2,1989.92,3,2,1,6,Regulars
+C01315,"Ananya Khan",Chennai,"Tamil nadu",353,1,1975.26,1,1,1,3,Regulars
+C01849,"Isha Rao",Kochi,Kerala,54,2,1965.25,5,2,1,8,Regulars
+C01921,"Samar Naidu",Bengaluru,Karnataka,360,1,1926.24,1,1,1,3,Regulars
+C00128,"Kabir Nair",Visakhapatnam,"Andhra pradesh",38,1,1920.58,5,1,1,7,Regulars
+C00528,"Diya Verma",Hyderabad,Telangana,228,1,1904.99,1,1,1,3,Regulars
+C01003,"Vivaan Iyer",Ahmedabad,Gujarat,393,1,1891.12,1,1,1,3,Regulars
+C01502,"Kabir Patel",Delhi,Delhi,101,1,1886.09,3,1,1,5,Regulars
+C00422,"Aditya Das",Delhi,Delhi,125,2,1855.45,3,2,1,6,Regulars
+C01781,"Diya Singh",Visakhapatnam,"Andhra pradesh",207,1,1842.97,2,1,1,4,Regulars
+C01798,"Irfan Sharma",Kochi,Kerala,90,1,1835.29,4,1,1,6,Regulars
+C01180,"Sanya Mukherjee",Ahmedabad,Gujarat,250,1,1834.95,1,1,1,3,Regulars
+C00862,"Irfan Patel",Bengaluru,Karnataka,213,1,1834.41,1,1,1,3,Regulars
+C01086,"Aisha Gupta",Pune,Maharashtra,309,1,1817.92,1,1,1,3,Regulars
+C01640,"Ria Patel",Mumbai,Maharashtra,300,1,1816.95,1,1,1,3,Regulars
+C01566,"Rahul Rao",Ahmedabad,Gujarat,290,2,1796.22,1,1,1,3,Regulars
+C00743,"Kabir Reddy",Delhi,Delhi,220,2,1792.60,1,2,1,4,Regulars
+C01532,"Rahul Verma",Hyderabad,Telangana,365,1,1784.68,1,1,1,3,Regulars
+C00851,"Irfan Reddy",Chennai,"Tamil nadu",300,1,1783.45,1,1,1,3,Regulars
+C01728,"Irfan Sharma",Bengaluru,Karnataka,178,1,1781.62,2,1,1,4,Regulars
+C01906,"Rahul Mishra",Lucknow,"Uttar pradesh",300,1,1778.12,1,1,1,3,Regulars
+C00928,"Rahul Nair",Kolkata,"West bengal",48,1,1771.02,5,1,1,7,Regulars
+C01731,"Aarav Nair",Bengaluru,Karnataka,171,1,1766.24,2,1,1,4,Regulars
+C00127,"Rahul Basu",Lucknow,"Uttar pradesh",348,1,1764.26,1,1,1,3,Regulars
+C00635,"Samar Joshi",Mumbai,Maharashtra,179,1,1763.32,2,1,1,4,Regulars
+C01290,"Aditya Mukherjee",Visakhapatnam,"Andhra pradesh",99,1,1762.90,3,1,1,5,Regulars
+C00217,"Ananya Reddy",Jaipur,Rajasthan,85,2,1759.10,4,2,1,7,Regulars
+C01316,"Vikram Verma",Lucknow,"Uttar pradesh",46,1,1752.34,5,1,1,7,Regulars
+C00758,"Ritu Singh",Ahmedabad,Gujarat,223,1,1739.96,1,1,1,3,Regulars
+C01822,"Ananya Das",Kochi,Kerala,269,1,1736.61,1,1,1,3,Regulars
+C00767,"Anvi Kulkarni",Bengaluru,Karnataka,66,1,1733.24,4,1,1,6,Regulars
+C00631,"Sneha Khan",Kolkata,"West bengal",297,1,1729.11,1,1,1,3,Regulars
+C00494,"Ananya Naidu",Kolkata,"West bengal",103,1,1723.78,3,1,1,5,Regulars
+C01145,"Vivaan Iyer",Delhi,Delhi,221,1,1720.89,1,1,1,3,Regulars
+C01281,"Aisha Chandra",Chennai,"Tamil nadu",199,1,1703.68,2,1,1,4,Regulars
+C00053,"Vivaan Khan",Mumbai,Maharashtra,337,1,1701.52,1,1,1,3,Regulars
+C01523,"Ritu Singh",Lucknow,"Uttar pradesh",316,1,1692.44,1,1,1,3,Regulars
+C01031,"Aisha Iyer",Mumbai,Maharashtra,353,1,1688.00,1,1,1,3,Regulars
+C01377,"Isha Singh",Kochi,Kerala,61,1,1667.30,4,1,1,6,Regulars
+C00746,"Kabir Chowdhury",Kolkata,"West bengal",107,1,1647.09,3,1,1,5,Regulars
+C01148,"Ananya Gupta",Bengaluru,Karnataka,365,1,1646.65,1,1,1,3,Regulars
+C00934,"Rohan Joshi",Visakhapatnam,"Andhra pradesh",70,1,1639.68,4,1,1,6,Regulars
+C00117,"Kabir Basu",Ahmedabad,Gujarat,238,1,1627.93,1,1,1,3,Regulars
+C00520,"Rohan Verma",Jaipur,Rajasthan,293,1,1621.92,1,1,1,3,Regulars
+C01257,"Ananya Joshi",Jaipur,Rajasthan,217,1,1618.03,1,1,1,3,Regulars
+C00897,"Sneha Das",Mumbai,Maharashtra,291,1,1613.44,1,1,1,3,Regulars
+C00026,"Ritu Sharma",Ahmedabad,Gujarat,332,1,1611.26,1,1,1,3,Regulars
+C01125,"Sneha Sharma",Chennai,"Tamil nadu",115,1,1569.68,3,1,1,5,Regulars
+C00278,"Kabir Singh",Chennai,"Tamil nadu",354,1,1559.91,1,1,1,3,Regulars
+C01967,"Sneha Rao",Ahmedabad,Gujarat,258,1,1556.29,1,1,1,3,Regulars
+C00527,"Rahul Das",Visakhapatnam,"Andhra pradesh",211,1,1531.79,2,1,1,4,Regulars
+C01956,"Irfan Das",Mumbai,Maharashtra,118,2,1491.74,3,2,1,6,Regulars
+C01203,"Samar Naidu",Visakhapatnam,"Andhra pradesh",210,1,1490.00,2,1,1,4,Regulars
+C00595,"Kavya Naidu",Hyderabad,Telangana,116,1,1480.98,3,1,1,5,Regulars
+C00754,"Neha Chowdhury",Lucknow,"Uttar pradesh",36,1,1477.85,5,1,1,7,Regulars
+C01408,"Samar Menon",Kolkata,"West bengal",251,1,1470.62,1,1,1,3,Regulars
+C00783,"Vivaan Basu",Kochi,Kerala,102,1,1465.20,3,1,1,5,Regulars
+C01701,"Ritu Verma",Kochi,Kerala,282,1,1447.52,1,1,1,3,Regulars
+C01424,"Irfan Das",Lucknow,"Uttar pradesh",189,1,1437.80,2,1,1,4,Regulars
+C01165,"Rohan Khan",Hyderabad,Telangana,387,1,1435.58,1,1,1,3,Regulars
+C00976,"Samar Mishra",Pune,Maharashtra,160,1,1408.33,2,1,1,4,Regulars
+C00882,"Anvi Singh",Hyderabad,Telangana,230,1,1391.12,1,1,1,3,Regulars
+C00325,"Aarav Menon",Kochi,Kerala,400,1,1385.16,1,1,1,3,Regulars
+C01817,"Aarav Das",Pune,Maharashtra,377,1,1284.19,1,1,1,3,Regulars
+C01280,"Ritu Verma",Delhi,Delhi,126,1,1281.56,3,1,1,5,Regulars
+C00584,"Irfan Naidu",Delhi,Delhi,310,1,1277.11,1,1,1,3,Regulars
+C00506,"Ria Das",Kolkata,"West bengal",197,1,1243.16,2,1,1,4,Regulars
+C01400,"Rahul Singh",Kochi,Kerala,164,1,1235.62,2,1,1,4,Regulars
+C00228,"Irfan Iyer",Mumbai,Maharashtra,141,1,1232.58,2,1,1,4,Regulars
+C01234,"Irfan Kulkarni",Pune,Maharashtra,253,1,1225.89,1,1,1,3,Regulars
+C01698,"Aisha Singh",Kochi,Kerala,357,1,1157.55,1,1,1,3,Regulars
+C00629,"Samar Nair",Chennai,"Tamil nadu",380,1,1154.93,1,1,1,3,Regulars
+C01764,"Isha Gupta",Visakhapatnam,"Andhra pradesh",209,1,1140.19,2,1,1,4,Regulars
+C00809,"Vivaan Mukherjee",Visakhapatnam,"Andhra pradesh",355,1,1137.83,1,1,1,3,Regulars
+C01763,"Kavya Patel",Mumbai,Maharashtra,326,1,1102.32,1,1,1,3,Regulars
+C00670,"Vivaan Patel",Lucknow,"Uttar pradesh",297,1,1075.36,1,1,1,3,Regulars
+C01713,"Kabir Singh",Delhi,Delhi,108,1,1071.11,3,1,1,5,Regulars
+C01793,"Irfan Khan",Hyderabad,Telangana,346,1,1056.39,1,1,1,3,Regulars
+C01623,"Isha Das",Hyderabad,Telangana,215,1,1042.28,1,1,1,3,Regulars
+C00546,"Aditya Rao",Kolkata,"West bengal",129,1,1007.62,3,1,1,5,Regulars
+C00076,"Aarav Nair",Visakhapatnam,"Andhra pradesh",166,1,1007.34,2,1,1,4,Regulars
+C01368,"Kavya Verma",Kochi,Kerala,366,1,997.46,1,1,1,3,Regulars
+C01997,"Kavya Mishra",Delhi,Delhi,171,1,906.67,2,1,1,4,Regulars
+C01842,"Aisha Singh",Bengaluru,Karnataka,186,1,891.37,2,1,1,4,Regulars
+C01371,"Aisha Rao",Lucknow,"Uttar pradesh",207,1,887.82,2,1,1,4,Regulars
+C00736,"Sneha Mishra",Kolkata,"West bengal",393,1,882.56,1,1,1,3,Regulars
+C01819,"Kabir Nair",Delhi,Delhi,69,1,881.06,4,1,1,6,Regulars
+C01931,"Isha Sharma",Kochi,Kerala,100,1,858.32,3,1,1,5,Regulars
+C01339,"Aditya Rao",Delhi,Delhi,374,1,845.02,1,1,1,3,Regulars
+C00349,"Diya Verma",Kolkata,"West bengal",58,1,769.16,5,1,1,7,Regulars
+C01116,"Ria Gupta",Delhi,Delhi,135,1,766.53,2,1,1,4,Regulars
+C00104,"Aditya Iyer",Lucknow,"Uttar pradesh",332,1,751.66,1,1,1,3,Regulars
+C00630,"Ria Singh",Mumbai,Maharashtra,78,1,748.36,4,1,1,6,Regulars
+C00940,"Vivaan Iyer",Jaipur,Rajasthan,53,1,658.06,5,1,1,7,Regulars
+C00292,"Isha Chowdhury",Pune,Maharashtra,279,1,651.64,1,1,1,3,Regulars
+C00868,"Rohan Kulkarni",Kolkata,"West bengal",199,1,622.92,2,1,1,4,Regulars
+C01747,"Ananya Das",Mumbai,Maharashtra,321,1,486.99,1,1,1,3,Regulars
+C01298,"Aarav Khan",Delhi,Delhi,254,1,466.66,1,1,1,3,Regulars
+C00381,"Samar Iyer",Pune,Maharashtra,387,1,444.82,1,1,1,3,Regulars
+C00243,"Rohan Chandra",Kolkata,"West bengal",112,1,219.84,3,1,1,5,Regulars
+C00065,"Rohan Naidu",Jaipur,Rajasthan,221,1,0.00,1,1,1,3,Lost
+C00199,"Diya Das",Kolkata,"West bengal",391,1,0.00,1,1,1,3,Lost
+C00017,"Aarav Gupta",Jaipur,Rajasthan,999,0,0.00,1,1,1,3,Lost
+C00033,"Ananya Chandra",Kochi,Kerala,999,0,0.00,1,1,1,3,Lost
+C00072,"Rahul Chandra",Visakhapatnam,"Andhra pradesh",999,0,0.00,1,1,1,3,Lost
+C00118,"Neha Menon",Delhi,Delhi,999,0,0.00,1,1,1,3,Lost
+C00131,"Rahul Chowdhury",Hyderabad,Telangana,999,0,0.00,1,1,1,3,Lost
+C00135,"Neha Chandra",Ahmedabad,Gujarat,999,0,0.00,1,1,1,3,Lost
+C00259,"Sneha Das",Delhi,Delhi,999,0,0.00,1,1,1,3,Lost
+C00266,"Aarav Verma",Delhi,Delhi,999,0,0.00,1,1,1,3,Lost
+C00294,"Sneha Chowdhury",Bengaluru,Karnataka,999,0,0.00,1,1,1,3,Lost
+C00312,"Aarav Gupta",Delhi,Delhi,999,0,0.00,1,1,1,3,Lost
+C00352,"Vikram Chandra",Jaipur,Rajasthan,999,0,0.00,1,1,1,3,Lost
+C00418,"Samar Nair",Pune,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C00442,"Ananya Das",Mumbai,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C00452,"Aditya Iyer",Ahmedabad,Gujarat,999,0,0.00,1,1,1,3,Lost
+C00472,"Ria Mukherjee",Kochi,Kerala,999,0,0.00,1,1,1,3,Lost
+C00516,"Isha Verma",Kolkata,"West bengal",999,0,0.00,1,1,1,3,Lost
+C00533,"Ananya Joshi",Lucknow,"Uttar pradesh",999,0,0.00,1,1,1,3,Lost
+C00540,"Anvi Kulkarni",Ahmedabad,Gujarat,999,0,0.00,1,1,1,3,Lost
+C00541,"Vikram Patel",Bengaluru,Karnataka,999,0,0.00,1,1,1,3,Lost
+C00561,"Samar Gupta",Kochi,Kerala,999,0,0.00,1,1,1,3,Lost
+C00564,"Kabir Singh",Hyderabad,Telangana,999,0,0.00,1,1,1,3,Lost
+C00583,"Isha Reddy",Lucknow,"Uttar pradesh",999,0,0.00,1,1,1,3,Lost
+C00585,"Diya Das",Ahmedabad,Gujarat,999,0,0.00,1,1,1,3,Lost
+C00620,"Ria Khan",Chennai,"Tamil nadu",999,0,0.00,1,1,1,3,Lost
+C00744,"Sneha Verma",Hyderabad,Telangana,999,0,0.00,1,1,1,3,Lost
+C00768,"Kabir Verma",Chennai,"Tamil nadu",999,0,0.00,1,1,1,3,Lost
+C00814,"Rahul Gupta",Chennai,"Tamil nadu",999,0,0.00,1,1,1,3,Lost
+C00823,"Ria Kulkarni",Kolkata,"West bengal",999,0,0.00,1,1,1,3,Lost
+C00843,"Rahul Mishra",Kolkata,"West bengal",999,0,0.00,1,1,1,3,Lost
+C00848,"Isha Chowdhury",Kolkata,"West bengal",999,0,0.00,1,1,1,3,Lost
+C00896,"Vivaan Mukherjee",Hyderabad,Telangana,999,0,0.00,1,1,1,3,Lost
+C00907,"Samar Khan",Ahmedabad,Gujarat,999,0,0.00,1,1,1,3,Lost
+C00963,"Rohan Reddy",Delhi,Delhi,999,0,0.00,1,1,1,3,Lost
+C00996,"Aditya Kulkarni",Pune,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01011,"Aarav Basu",Bengaluru,Karnataka,999,0,0.00,1,1,1,3,Lost
+C01013,"Sanya Das",Mumbai,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01020,"Ria Joshi",Pune,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01053,"Sneha Menon",Pune,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01066,"Aarav Singh",Ahmedabad,Gujarat,999,0,0.00,1,1,1,3,Lost
+C01100,"Vikram Menon",Bengaluru,Karnataka,999,0,0.00,1,1,1,3,Lost
+C01126,"Diya Iyer",Kolkata,"West bengal",999,0,0.00,1,1,1,3,Lost
+C01174,"Samar Chowdhury",Bengaluru,Karnataka,999,0,0.00,1,1,1,3,Lost
+C01252,"Aditya Rao",Jaipur,Rajasthan,999,0,0.00,1,1,1,3,Lost
+C01283,"Kabir Nair",Mumbai,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01346,"Rahul Patel",Bengaluru,Karnataka,999,0,0.00,1,1,1,3,Lost
+C01421,"Rahul Khan",Kochi,Kerala,999,0,0.00,1,1,1,3,Lost
+C01438,"Isha Mukherjee",Kolkata,"West bengal",999,0,0.00,1,1,1,3,Lost
+C01527,"Kavya Nair",Mumbai,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01535,"Anvi Iyer",Pune,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01643,"Diya Rao",Mumbai,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01735,"Isha Rao",Pune,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01761,"Aarav Kulkarni",Kochi,Kerala,999,0,0.00,1,1,1,3,Lost
+C01775,"Kabir Khan",Pune,Maharashtra,999,0,0.00,1,1,1,3,Lost
+C01799,"Rahul Basu",Kochi,Kerala,999,0,0.00,1,1,1,3,Lost
+C01828,"Aditya Naidu",Jaipur,Rajasthan,999,0,0.00,1,1,1,3,Lost
+C01833,"Rohan Rao",Kolkata,"West bengal",999,0,0.00,1,1,1,3,Lost
+C01840,"Aditya Das",Lucknow,"Uttar pradesh",999,0,0.00,1,1,1,3,Lost
+C01953,"Aditya Patel",Chennai,"Tamil nadu",999,0,0.00,1,1,1,3,Lost
+C01994,"Vivaan Basu",Hyderabad,Telangana,999,0,0.00,1,1,1,3,Lost
